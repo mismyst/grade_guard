@@ -1,0 +1,1501 @@
+id,name,nationality,city,gender,ethnic.group,english.grade,math.grade,sciences.grade,language.grade
+1,Student_1,UK,London,Male,Group_C,55,59,76,84
+2,Student_2,Germany,Mumbai,Male,Group_B,61,72,55,96
+3,Student_3,China,London,Male,Group_B,65,98,84,86
+4,Student_4,Germany,Beijing,Male,Group_A,66,60,86,61
+5,Student_5,Germany,New York,Male,Group_C,94,51,83,79
+6,Student_6,India,London,Female,Group_B,72,75,69,69
+7,Student_7,China,New York,Female,Group_B,63,85,74,86
+8,Student_8,China,Mumbai,Female,Group_C,56,82,53,52
+9,Student_9,China,New York,Female,Group_B,95,96,59,58
+10,Student_10,Germany,Mumbai,Female,Group_B,81,62,59,90
+11,Student_11,UK,Beijing,Female,Group_B,64,89,73,88
+12,Student_12,China,Mumbai,Female,Group_C,93,74,70,75
+13,Student_13,Germany,Mumbai,Male,Group_C,66,53,60,51
+14,Student_14,India,Berlin,Male,Group_C,90,91,76,72
+15,Student_15,UK,London,Female,Group_C,96,68,65,72
+16,Student_16,India,London,Female,Group_A,93,67,75,70
+17,Student_17,UK,Beijing,Male,Group_B,83,86,79,65
+18,Student_18,Germany,Beijing,Male,Group_C,54,79,98,58
+19,Student_19,USA,London,Male,Group_B,94,68,65,62
+20,Student_20,UK,Berlin,Male,Group_B,76,72,56,77
+21,Student_21,India,London,Female,Group_A,72,65,65,76
+22,Student_22,Germany,Berlin,Male,Group_C,89,50,84,66
+23,Student_23,UK,Beijing,Female,Group_C,63,61,65,87
+24,Student_24,USA,New York,Female,Group_B,64,73,89,85
+25,Student_25,USA,Beijing,Female,Group_C,92,83,61,50
+26,Student_26,China,Beijing,Male,Group_B,82,57,84,67
+27,Student_27,China,Mumbai,Male,Group_B,80,67,98,58
+28,Student_28,India,Mumbai,Female,Group_A,84,97,70,62
+29,Student_29,UK,Mumbai,Female,Group_A,66,54,99,89
+30,Student_30,UK,Mumbai,Female,Group_A,77,75,92,94
+31,Student_31,China,Berlin,Male,Group_B,68,79,85,64
+32,Student_32,UK,London,Female,Group_C,95,62,97,92
+33,Student_33,UK,New York,Male,Group_A,72,68,66,93
+34,Student_34,USA,Beijing,Female,Group_C,81,78,81,95
+35,Student_35,China,Berlin,Female,Group_A,89,52,90,53
+36,Student_36,Germany,New York,Female,Group_A,62,75,55,82
+37,Student_37,China,Berlin,Male,Group_B,69,89,73,73
+38,Student_38,Germany,Berlin,Male,Group_A,84,61,76,85
+39,Student_39,USA,Beijing,Female,Group_A,54,51,69,90
+40,Student_40,India,London,Male,Group_B,58,60,74,59
+41,Student_41,UK,Mumbai,Female,Group_C,78,93,51,85
+42,Student_42,USA,London,Male,Group_A,55,77,58,69
+43,Student_43,UK,Beijing,Male,Group_B,74,67,77,90
+44,Student_44,India,Beijing,Male,Group_A,80,62,87,94
+45,Student_45,India,Beijing,Female,Group_B,71,86,52,93
+46,Student_46,USA,New York,Male,Group_C,51,71,69,60
+47,Student_47,India,London,Male,Group_C,94,61,55,61
+48,Student_48,Germany,London,Female,Group_B,54,51,88,67
+49,Student_49,India,Berlin,Female,Group_B,76,86,82,79
+50,Student_50,UK,Berlin,Female,Group_B,74,56,50,93
+51,Student_51,UK,Berlin,Female,Group_C,57,75,86,97
+52,Student_52,UK,Beijing,Male,Group_A,50,75,55,86
+53,Student_53,UK,London,Male,Group_C,69,73,94,69
+54,Student_54,Germany,Beijing,Male,Group_B,93,61,83,74
+55,Student_55,China,New York,Male,Group_B,72,65,96,61
+56,Student_56,USA,Berlin,Male,Group_C,81,72,64,70
+57,Student_57,UK,Beijing,Female,Group_B,60,89,94,74
+58,Student_58,India,Beijing,Male,Group_C,88,58,75,60
+59,Student_59,UK,New York,Male,Group_B,96,81,63,58
+60,Student_60,India,Mumbai,Male,Group_A,73,64,56,99
+61,Student_61,India,London,Female,Group_A,60,86,95,74
+62,Student_62,UK,Mumbai,Female,Group_B,78,62,80,84
+63,Student_63,Germany,Berlin,Male,Group_C,75,54,73,81
+64,Student_64,India,Beijing,Female,Group_A,65,60,80,98
+65,Student_65,India,New York,Female,Group_C,84,59,78,63
+66,Student_66,UK,New York,Female,Group_B,69,62,91,50
+67,Student_67,India,London,Female,Group_C,95,90,81,66
+68,Student_68,India,Mumbai,Female,Group_A,52,95,66,74
+69,Student_69,UK,London,Female,Group_C,50,99,63,57
+70,Student_70,UK,Beijing,Female,Group_C,96,64,89,54
+71,Student_71,USA,London,Male,Group_B,50,91,85,54
+72,Student_72,Germany,New York,Male,Group_B,66,56,97,90
+73,Student_73,Germany,New York,Female,Group_B,51,89,73,84
+74,Student_74,India,Berlin,Male,Group_A,78,77,94,68
+75,Student_75,Germany,Berlin,Male,Group_A,69,81,76,72
+76,Student_76,India,Beijing,Female,Group_B,55,84,74,58
+77,Student_77,USA,Mumbai,Male,Group_B,57,64,81,79
+78,Student_78,UK,London,Female,Group_A,78,97,67,99
+79,Student_79,UK,Beijing,Female,Group_A,97,85,95,65
+80,Student_80,UK,Berlin,Female,Group_A,82,70,67,82
+81,Student_81,Germany,London,Male,Group_A,52,55,86,51
+82,Student_82,USA,Berlin,Male,Group_B,84,50,75,63
+83,Student_83,Germany,London,Male,Group_A,54,53,58,95
+84,Student_84,Germany,Mumbai,Male,Group_B,76,60,84,50
+85,Student_85,USA,Beijing,Female,Group_C,93,93,57,75
+86,Student_86,USA,London,Female,Group_C,61,75,69,74
+87,Student_87,USA,New York,Male,Group_A,69,86,91,65
+88,Student_88,USA,New York,Female,Group_C,94,72,71,64
+89,Student_89,UK,London,Female,Group_C,69,78,68,75
+90,Student_90,China,London,Male,Group_C,58,70,79,96
+91,Student_91,China,London,Female,Group_A,88,97,77,93
+92,Student_92,USA,New York,Male,Group_A,53,94,84,65
+93,Student_93,China,New York,Female,Group_C,68,94,92,63
+94,Student_94,China,London,Male,Group_B,87,98,60,78
+95,Student_95,USA,Berlin,Female,Group_C,76,76,80,73
+96,Student_96,China,Berlin,Female,Group_A,94,88,98,96
+97,Student_97,Germany,Mumbai,Male,Group_A,92,89,97,64
+98,Student_98,India,Beijing,Male,Group_A,62,62,88,68
+99,Student_99,India,Berlin,Male,Group_C,62,72,85,57
+100,Student_100,USA,New York,Male,Group_B,71,65,79,83
+101,Student_101,UK,Berlin,Female,Group_A,77,79,72,51
+102,Student_102,USA,Mumbai,Female,Group_A,96,53,68,76
+103,Student_103,UK,Mumbai,Male,Group_C,94,89,61,59
+104,Student_104,India,Beijing,Female,Group_B,71,65,64,84
+105,Student_105,USA,Berlin,Male,Group_C,92,80,80,72
+106,Student_106,Germany,New York,Male,Group_A,68,91,92,98
+107,Student_107,China,New York,Female,Group_B,57,74,86,57
+108,Student_108,UK,London,Female,Group_B,57,93,86,77
+109,Student_109,China,New York,Male,Group_A,91,61,64,72
+110,Student_110,China,Beijing,Male,Group_B,75,75,78,53
+111,Student_111,USA,Beijing,Male,Group_B,97,86,99,63
+112,Student_112,China,New York,Female,Group_C,75,97,92,91
+113,Student_113,Germany,New York,Female,Group_A,72,82,75,78
+114,Student_114,China,London,Female,Group_A,92,77,93,50
+115,Student_115,USA,New York,Female,Group_A,62,58,51,53
+116,Student_116,Germany,London,Male,Group_A,77,61,69,81
+117,Student_117,India,London,Male,Group_A,58,54,64,82
+118,Student_118,China,New York,Male,Group_B,69,77,53,98
+119,Student_119,USA,Mumbai,Male,Group_C,68,84,71,75
+120,Student_120,India,Mumbai,Male,Group_A,97,54,99,66
+121,Student_121,India,London,Male,Group_C,88,83,87,88
+122,Student_122,UK,New York,Female,Group_C,61,95,72,72
+123,Student_123,Germany,Mumbai,Female,Group_B,64,83,75,81
+124,Student_124,China,New York,Male,Group_A,80,62,60,64
+125,Student_125,USA,New York,Male,Group_B,63,88,77,62
+126,Student_126,UK,New York,Female,Group_A,60,91,51,51
+127,Student_127,Germany,Berlin,Female,Group_B,75,94,57,68
+128,Student_128,UK,New York,Female,Group_C,91,97,78,73
+129,Student_129,Germany,Berlin,Female,Group_A,76,63,60,94
+130,Student_130,Germany,London,Male,Group_C,60,60,86,73
+131,Student_131,China,Mumbai,Male,Group_C,87,91,67,60
+132,Student_132,Germany,Mumbai,Male,Group_B,83,87,99,71
+133,Student_133,UK,Mumbai,Male,Group_A,92,53,63,64
+134,Student_134,Germany,Mumbai,Male,Group_C,68,82,59,59
+135,Student_135,China,Mumbai,Female,Group_B,55,56,84,90
+136,Student_136,China,Mumbai,Male,Group_A,95,90,58,76
+137,Student_137,UK,Mumbai,Female,Group_A,87,57,84,58
+138,Student_138,India,London,Male,Group_C,98,86,60,77
+139,Student_139,India,New York,Male,Group_A,91,59,93,50
+140,Student_140,Germany,Beijing,Male,Group_C,77,92,61,66
+141,Student_141,USA,Berlin,Male,Group_A,50,64,52,80
+142,Student_142,Germany,Beijing,Male,Group_B,84,87,88,93
+143,Student_143,UK,Beijing,Female,Group_C,89,64,63,59
+144,Student_144,UK,New York,Female,Group_C,57,54,77,86
+145,Student_145,UK,New York,Female,Group_A,96,78,60,78
+146,Student_146,UK,New York,Male,Group_A,56,68,88,67
+147,Student_147,UK,Mumbai,Male,Group_C,60,59,74,96
+148,Student_148,China,London,Female,Group_A,88,61,70,87
+149,Student_149,India,Mumbai,Male,Group_B,53,53,59,88
+150,Student_150,UK,London,Male,Group_A,74,80,92,98
+151,Student_151,USA,London,Female,Group_B,61,67,64,55
+152,Student_152,USA,Beijing,Male,Group_B,75,65,68,89
+153,Student_153,USA,Beijing,Female,Group_B,87,89,97,61
+154,Student_154,USA,London,Male,Group_B,95,85,71,63
+155,Student_155,China,London,Female,Group_B,61,74,70,93
+156,Student_156,USA,Mumbai,Male,Group_A,92,72,93,59
+157,Student_157,UK,Mumbai,Male,Group_B,86,61,81,69
+158,Student_158,Germany,Beijing,Female,Group_A,95,83,99,64
+159,Student_159,USA,New York,Male,Group_B,73,85,72,80
+160,Student_160,China,London,Male,Group_C,65,86,62,56
+161,Student_161,China,Mumbai,Female,Group_B,62,52,54,90
+162,Student_162,USA,Beijing,Male,Group_C,74,58,53,59
+163,Student_163,Germany,Mumbai,Female,Group_B,53,67,77,59
+164,Student_164,USA,London,Male,Group_B,60,92,63,97
+165,Student_165,China,London,Male,Group_B,81,84,57,88
+166,Student_166,India,Berlin,Male,Group_C,98,83,58,77
+167,Student_167,UK,New York,Male,Group_C,56,90,84,79
+168,Student_168,China,Berlin,Female,Group_B,95,63,86,86
+169,Student_169,USA,Beijing,Male,Group_A,60,53,70,52
+170,Student_170,UK,Mumbai,Female,Group_B,77,78,67,99
+171,Student_171,USA,Beijing,Male,Group_C,90,90,82,92
+172,Student_172,USA,London,Male,Group_B,72,94,57,64
+173,Student_173,India,Berlin,Male,Group_C,94,99,98,70
+174,Student_174,UK,Berlin,Male,Group_C,72,64,66,86
+175,Student_175,UK,Berlin,Female,Group_C,99,77,92,61
+176,Student_176,India,Beijing,Female,Group_B,77,91,80,53
+177,Student_177,China,London,Female,Group_C,92,65,83,96
+178,Student_178,USA,Mumbai,Female,Group_C,96,61,55,58
+179,Student_179,Germany,Mumbai,Male,Group_B,75,54,71,88
+180,Student_180,USA,Beijing,Female,Group_C,74,83,63,91
+181,Student_181,USA,Berlin,Female,Group_B,78,91,52,77
+182,Student_182,China,New York,Male,Group_C,68,50,61,72
+183,Student_183,USA,Beijing,Male,Group_A,82,88,85,94
+184,Student_184,India,Beijing,Male,Group_A,85,81,61,89
+185,Student_185,India,London,Male,Group_C,63,75,94,93
+186,Student_186,UK,Mumbai,Female,Group_A,63,66,51,71
+187,Student_187,Germany,Beijing,Female,Group_B,84,97,51,73
+188,Student_188,USA,Beijing,Male,Group_A,79,76,64,75
+189,Student_189,USA,Berlin,Male,Group_C,77,73,72,79
+190,Student_190,China,Berlin,Male,Group_C,66,84,78,82
+191,Student_191,India,New York,Female,Group_B,52,95,66,65
+192,Student_192,Germany,London,Female,Group_C,65,91,81,71
+193,Student_193,UK,New York,Male,Group_B,95,88,56,98
+194,Student_194,India,Berlin,Male,Group_A,79,75,79,99
+195,Student_195,UK,Mumbai,Female,Group_A,78,98,77,92
+196,Student_196,China,Berlin,Male,Group_B,94,87,63,67
+197,Student_197,China,London,Male,Group_B,64,72,93,56
+198,Student_198,USA,Berlin,Female,Group_C,95,71,79,99
+199,Student_199,Germany,London,Male,Group_A,74,53,66,75
+200,Student_200,UK,London,Female,Group_B,87,98,81,57
+201,Student_201,India,London,Male,Group_A,91,58,95,55
+202,Student_202,China,London,Male,Group_B,96,53,55,79
+203,Student_203,USA,London,Female,Group_A,87,56,73,88
+204,Student_204,USA,Mumbai,Female,Group_C,72,72,55,72
+205,Student_205,UK,New York,Male,Group_A,74,51,76,81
+206,Student_206,China,Beijing,Female,Group_A,91,98,67,71
+207,Student_207,Germany,New York,Male,Group_A,56,73,73,91
+208,Student_208,China,London,Male,Group_A,71,89,86,92
+209,Student_209,UK,Mumbai,Female,Group_A,66,80,73,94
+210,Student_210,UK,Berlin,Male,Group_C,67,96,87,58
+211,Student_211,China,Mumbai,Male,Group_B,98,80,83,80
+212,Student_212,UK,London,Female,Group_A,90,96,89,56
+213,Student_213,China,Mumbai,Female,Group_C,59,89,96,58
+214,Student_214,India,Mumbai,Male,Group_A,59,97,64,62
+215,Student_215,China,London,Female,Group_A,56,92,60,52
+216,Student_216,China,Mumbai,Female,Group_B,97,83,71,84
+217,Student_217,UK,Beijing,Female,Group_A,99,73,73,82
+218,Student_218,UK,Beijing,Female,Group_C,87,98,50,70
+219,Student_219,USA,Mumbai,Male,Group_C,76,75,67,80
+220,Student_220,USA,Berlin,Male,Group_B,82,65,93,83
+221,Student_221,India,London,Male,Group_A,50,96,61,81
+222,Student_222,USA,Beijing,Female,Group_C,93,62,92,84
+223,Student_223,China,Berlin,Female,Group_A,83,64,77,64
+224,Student_224,UK,Mumbai,Female,Group_A,53,76,89,81
+225,Student_225,USA,Berlin,Female,Group_A,66,53,56,55
+226,Student_226,USA,New York,Female,Group_B,53,65,72,94
+227,Student_227,India,Beijing,Female,Group_A,92,79,70,70
+228,Student_228,India,Mumbai,Female,Group_C,75,93,83,82
+229,Student_229,China,London,Male,Group_A,53,79,60,81
+230,Student_230,UK,Mumbai,Male,Group_C,50,85,71,68
+231,Student_231,India,London,Female,Group_A,56,52,91,82
+232,Student_232,USA,Mumbai,Female,Group_C,79,71,84,77
+233,Student_233,UK,Berlin,Female,Group_C,99,98,78,80
+234,Student_234,UK,Berlin,Male,Group_A,58,71,91,70
+235,Student_235,USA,Berlin,Male,Group_A,84,99,77,83
+236,Student_236,India,New York,Female,Group_C,57,99,67,64
+237,Student_237,USA,London,Female,Group_B,73,98,63,63
+238,Student_238,UK,Berlin,Male,Group_A,68,61,67,68
+239,Student_239,Germany,New York,Male,Group_B,85,70,77,92
+240,Student_240,Germany,London,Male,Group_A,99,53,73,64
+241,Student_241,China,Mumbai,Male,Group_A,92,80,57,55
+242,Student_242,USA,New York,Female,Group_A,76,93,91,58
+243,Student_243,USA,Beijing,Male,Group_A,81,80,94,86
+244,Student_244,China,New York,Male,Group_B,63,72,57,69
+245,Student_245,China,New York,Female,Group_A,67,69,53,83
+246,Student_246,China,London,Male,Group_C,77,64,76,87
+247,Student_247,UK,Mumbai,Male,Group_C,78,72,85,75
+248,Student_248,USA,Beijing,Male,Group_B,65,77,54,67
+249,Student_249,UK,Berlin,Female,Group_A,84,65,82,77
+250,Student_250,China,Berlin,Male,Group_C,96,86,98,58
+251,Student_251,USA,New York,Female,Group_B,80,70,83,81
+252,Student_252,UK,London,Female,Group_A,53,64,79,55
+253,Student_253,UK,London,Male,Group_C,86,66,57,63
+254,Student_254,China,Berlin,Male,Group_C,66,99,88,77
+255,Student_255,USA,Beijing,Male,Group_B,88,86,96,73
+256,Student_256,China,Mumbai,Male,Group_A,97,62,75,62
+257,Student_257,USA,Beijing,Female,Group_A,95,68,86,92
+258,Student_258,Germany,Mumbai,Male,Group_C,75,79,83,61
+259,Student_259,India,Berlin,Male,Group_C,97,94,56,68
+260,Student_260,India,Mumbai,Male,Group_C,88,67,89,70
+261,Student_261,India,London,Female,Group_A,90,63,77,76
+262,Student_262,China,New York,Male,Group_B,53,85,88,68
+263,Student_263,Germany,New York,Male,Group_B,79,85,88,73
+264,Student_264,USA,Berlin,Female,Group_A,79,69,77,75
+265,Student_265,UK,London,Female,Group_B,71,68,63,94
+266,Student_266,USA,Beijing,Male,Group_C,60,94,99,77
+267,Student_267,UK,London,Male,Group_B,51,93,87,95
+268,Student_268,USA,New York,Male,Group_B,93,56,53,67
+269,Student_269,Germany,New York,Male,Group_B,61,93,91,93
+270,Student_270,UK,London,Male,Group_C,79,53,67,85
+271,Student_271,China,London,Female,Group_A,85,83,93,91
+272,Student_272,USA,New York,Female,Group_C,67,51,97,78
+273,Student_273,USA,Beijing,Male,Group_A,75,54,74,66
+274,Student_274,UK,Berlin,Male,Group_A,56,59,56,53
+275,Student_275,China,Berlin,Female,Group_A,50,81,87,93
+276,Student_276,China,London,Male,Group_B,75,91,77,94
+277,Student_277,Germany,Berlin,Male,Group_B,72,90,54,78
+278,Student_278,China,New York,Male,Group_A,75,62,52,53
+279,Student_279,China,New York,Male,Group_A,94,88,93,59
+280,Student_280,China,London,Male,Group_B,55,54,80,74
+281,Student_281,India,London,Female,Group_C,55,59,96,80
+282,Student_282,Germany,London,Male,Group_A,93,59,91,52
+283,Student_283,USA,Beijing,Male,Group_C,57,87,69,96
+284,Student_284,UK,Berlin,Male,Group_B,73,76,68,51
+285,Student_285,USA,London,Female,Group_A,71,70,97,74
+286,Student_286,Germany,Mumbai,Female,Group_C,68,57,60,98
+287,Student_287,UK,Mumbai,Female,Group_C,86,50,89,55
+288,Student_288,Germany,New York,Female,Group_C,67,77,52,75
+289,Student_289,China,Berlin,Male,Group_B,80,98,72,57
+290,Student_290,UK,London,Female,Group_B,86,88,56,84
+291,Student_291,China,Mumbai,Male,Group_C,79,63,72,76
+292,Student_292,USA,Berlin,Male,Group_C,91,70,56,74
+293,Student_293,USA,New York,Female,Group_B,82,79,95,67
+294,Student_294,UK,Beijing,Female,Group_C,59,70,83,50
+295,Student_295,UK,Berlin,Female,Group_C,86,98,91,97
+296,Student_296,Germany,Berlin,Female,Group_B,61,58,68,88
+297,Student_297,Germany,Beijing,Female,Group_C,79,66,58,52
+298,Student_298,China,Berlin,Male,Group_C,76,54,97,53
+299,Student_299,UK,New York,Female,Group_C,88,80,67,90
+300,Student_300,USA,New York,Female,Group_B,58,89,90,86
+301,Student_301,Germany,Beijing,Female,Group_C,70,87,97,64
+302,Student_302,Germany,London,Male,Group_B,61,92,94,57
+303,Student_303,USA,Mumbai,Female,Group_B,78,68,91,87
+304,Student_304,Germany,London,Male,Group_A,82,85,74,99
+305,Student_305,China,Berlin,Female,Group_A,92,99,63,68
+306,Student_306,UK,Mumbai,Female,Group_C,64,82,93,96
+307,Student_307,USA,Beijing,Male,Group_B,51,62,74,75
+308,Student_308,UK,Beijing,Female,Group_A,88,63,68,88
+309,Student_309,Germany,Mumbai,Male,Group_C,93,82,88,59
+310,Student_310,Germany,New York,Male,Group_A,67,78,64,87
+311,Student_311,USA,Mumbai,Male,Group_A,52,92,65,63
+312,Student_312,China,Berlin,Female,Group_B,56,98,76,98
+313,Student_313,India,New York,Female,Group_B,92,85,89,90
+314,Student_314,USA,Beijing,Female,Group_A,67,93,59,68
+315,Student_315,India,Mumbai,Male,Group_A,93,59,53,79
+316,Student_316,India,London,Female,Group_B,87,80,68,54
+317,Student_317,China,London,Male,Group_C,86,55,77,80
+318,Student_318,India,Berlin,Female,Group_B,82,50,70,56
+319,Student_319,India,London,Male,Group_A,93,56,96,68
+320,Student_320,China,Mumbai,Male,Group_C,80,76,63,80
+321,Student_321,India,Mumbai,Male,Group_A,60,70,82,88
+322,Student_322,India,London,Female,Group_C,53,77,97,73
+323,Student_323,India,Mumbai,Male,Group_A,67,65,59,83
+324,Student_324,USA,Berlin,Male,Group_C,53,95,68,72
+325,Student_325,USA,New York,Male,Group_C,98,72,79,97
+326,Student_326,USA,Berlin,Male,Group_A,83,69,71,94
+327,Student_327,China,Berlin,Male,Group_C,78,87,52,89
+328,Student_328,Germany,Mumbai,Male,Group_B,73,74,86,55
+329,Student_329,India,New York,Female,Group_A,71,77,90,87
+330,Student_330,India,Mumbai,Female,Group_B,51,54,67,90
+331,Student_331,China,Beijing,Male,Group_A,93,70,60,85
+332,Student_332,India,Mumbai,Female,Group_C,55,67,97,76
+333,Student_333,USA,Mumbai,Female,Group_C,91,96,51,60
+334,Student_334,Germany,Mumbai,Male,Group_C,74,55,61,54
+335,Student_335,UK,New York,Male,Group_A,70,78,55,66
+336,Student_336,India,Mumbai,Male,Group_B,65,68,92,56
+337,Student_337,USA,New York,Female,Group_B,80,82,89,76
+338,Student_338,UK,London,Male,Group_A,63,50,93,96
+339,Student_339,Germany,Beijing,Female,Group_A,88,94,78,64
+340,Student_340,UK,New York,Male,Group_B,77,52,79,95
+341,Student_341,USA,London,Female,Group_B,81,91,51,62
+342,Student_342,UK,New York,Male,Group_B,77,70,58,60
+343,Student_343,China,New York,Male,Group_B,98,84,96,94
+344,Student_344,UK,Beijing,Female,Group_A,58,90,51,75
+345,Student_345,India,Berlin,Female,Group_A,94,89,78,71
+346,Student_346,India,Berlin,Female,Group_C,71,52,82,77
+347,Student_347,China,New York,Female,Group_B,81,74,59,73
+348,Student_348,USA,Mumbai,Female,Group_C,54,94,83,78
+349,Student_349,India,London,Female,Group_A,72,87,93,58
+350,Student_350,Germany,Mumbai,Male,Group_A,54,94,57,91
+351,Student_351,India,Mumbai,Female,Group_C,91,69,86,53
+352,Student_352,India,New York,Male,Group_B,81,93,82,98
+353,Student_353,USA,New York,Male,Group_B,59,94,96,95
+354,Student_354,UK,New York,Female,Group_B,88,83,55,67
+355,Student_355,India,New York,Male,Group_B,64,70,93,92
+356,Student_356,China,Berlin,Female,Group_C,56,97,89,65
+357,Student_357,UK,New York,Female,Group_C,78,72,94,82
+358,Student_358,Germany,Berlin,Male,Group_A,96,55,68,78
+359,Student_359,USA,Berlin,Male,Group_B,52,62,81,88
+360,Student_360,Germany,New York,Female,Group_B,68,98,76,59
+361,Student_361,UK,Beijing,Female,Group_B,59,72,50,58
+362,Student_362,UK,London,Male,Group_C,77,58,92,80
+363,Student_363,UK,Mumbai,Male,Group_B,78,66,82,77
+364,Student_364,Germany,Berlin,Male,Group_C,64,51,89,52
+365,Student_365,UK,London,Male,Group_B,84,68,81,63
+366,Student_366,Germany,Beijing,Female,Group_B,55,68,54,74
+367,Student_367,UK,Mumbai,Female,Group_A,61,56,66,64
+368,Student_368,China,Mumbai,Female,Group_B,96,91,57,51
+369,Student_369,UK,Berlin,Female,Group_B,87,91,91,73
+370,Student_370,Germany,New York,Male,Group_A,62,69,83,63
+371,Student_371,India,Beijing,Male,Group_C,78,58,58,97
+372,Student_372,UK,Berlin,Female,Group_C,68,66,72,56
+373,Student_373,India,Beijing,Female,Group_B,52,76,84,85
+374,Student_374,China,New York,Female,Group_C,57,96,99,99
+375,Student_375,USA,New York,Female,Group_B,57,51,56,73
+376,Student_376,China,Berlin,Female,Group_A,69,85,64,76
+377,Student_377,UK,New York,Female,Group_A,96,68,69,86
+378,Student_378,India,London,Female,Group_B,53,66,99,87
+379,Student_379,India,Mumbai,Female,Group_A,70,54,74,79
+380,Student_380,Germany,Berlin,Female,Group_A,52,88,52,76
+381,Student_381,India,Beijing,Male,Group_B,94,67,95,88
+382,Student_382,Germany,London,Female,Group_B,57,56,73,64
+383,Student_383,USA,Berlin,Male,Group_A,72,66,83,75
+384,Student_384,UK,New York,Male,Group_C,65,88,95,50
+385,Student_385,Germany,New York,Female,Group_C,62,85,71,53
+386,Student_386,USA,New York,Female,Group_B,52,89,60,78
+387,Student_387,India,New York,Male,Group_B,97,94,97,50
+388,Student_388,India,Beijing,Male,Group_C,58,53,57,92
+389,Student_389,USA,London,Female,Group_A,63,87,88,99
+390,Student_390,India,Mumbai,Male,Group_C,62,74,92,95
+391,Student_391,USA,Beijing,Female,Group_C,56,54,84,71
+392,Student_392,Germany,Beijing,Female,Group_C,64,79,98,60
+393,Student_393,Germany,Mumbai,Female,Group_C,56,61,95,59
+394,Student_394,USA,Mumbai,Male,Group_B,87,53,87,66
+395,Student_395,Germany,New York,Male,Group_B,83,73,57,85
+396,Student_396,Germany,Beijing,Female,Group_A,90,78,86,96
+397,Student_397,Germany,Berlin,Male,Group_A,71,58,76,75
+398,Student_398,China,Mumbai,Male,Group_A,73,53,77,97
+399,Student_399,UK,Mumbai,Male,Group_A,98,73,89,70
+400,Student_400,India,London,Male,Group_C,86,63,83,62
+401,Student_401,China,Berlin,Male,Group_B,93,54,81,58
+402,Student_402,Germany,Berlin,Male,Group_B,50,67,64,60
+403,Student_403,USA,Mumbai,Male,Group_A,59,91,93,60
+404,Student_404,Germany,New York,Female,Group_A,92,68,66,55
+405,Student_405,UK,London,Male,Group_C,65,61,82,50
+406,Student_406,Germany,Berlin,Male,Group_C,95,67,96,55
+407,Student_407,USA,Mumbai,Male,Group_A,57,66,95,62
+408,Student_408,UK,Berlin,Male,Group_B,98,79,65,71
+409,Student_409,Germany,London,Male,Group_B,74,73,78,80
+410,Student_410,UK,London,Male,Group_B,99,60,58,71
+411,Student_411,India,Beijing,Male,Group_A,61,84,82,86
+412,Student_412,India,Mumbai,Male,Group_B,74,72,98,96
+413,Student_413,Germany,London,Female,Group_C,66,66,78,76
+414,Student_414,UK,Beijing,Male,Group_C,75,50,62,99
+415,Student_415,USA,Beijing,Male,Group_A,95,64,70,63
+416,Student_416,Germany,Berlin,Male,Group_C,97,81,70,96
+417,Student_417,India,Berlin,Male,Group_A,63,58,54,54
+418,Student_418,India,Beijing,Female,Group_B,90,64,59,85
+419,Student_419,Germany,Berlin,Female,Group_B,85,77,55,81
+420,Student_420,UK,London,Female,Group_B,72,73,62,83
+421,Student_421,India,New York,Female,Group_C,92,84,50,56
+422,Student_422,UK,London,Female,Group_A,55,71,69,91
+423,Student_423,India,Beijing,Female,Group_B,96,76,96,97
+424,Student_424,India,Beijing,Female,Group_A,54,68,95,59
+425,Student_425,China,London,Female,Group_B,92,94,57,99
+426,Student_426,India,Berlin,Female,Group_C,74,61,59,66
+427,Student_427,USA,Berlin,Female,Group_C,67,69,58,79
+428,Student_428,Germany,Beijing,Female,Group_A,62,50,98,70
+429,Student_429,Germany,Mumbai,Female,Group_C,92,70,90,62
+430,Student_430,UK,Berlin,Female,Group_C,63,98,52,50
+431,Student_431,India,London,Female,Group_A,77,94,60,50
+432,Student_432,USA,Berlin,Female,Group_B,67,50,61,96
+433,Student_433,UK,London,Female,Group_C,77,59,59,82
+434,Student_434,China,Beijing,Male,Group_A,76,96,74,87
+435,Student_435,UK,Berlin,Female,Group_C,81,81,98,74
+436,Student_436,UK,London,Male,Group_C,96,88,98,75
+437,Student_437,India,Beijing,Female,Group_C,58,71,74,62
+438,Student_438,China,Mumbai,Female,Group_C,89,67,60,77
+439,Student_439,UK,London,Male,Group_A,81,97,85,82
+440,Student_440,USA,Mumbai,Female,Group_A,69,95,88,86
+441,Student_441,USA,Mumbai,Male,Group_A,77,81,75,90
+442,Student_442,Germany,New York,Male,Group_C,82,76,63,79
+443,Student_443,China,Berlin,Male,Group_C,53,77,88,98
+444,Student_444,China,London,Female,Group_C,95,67,89,97
+445,Student_445,Germany,Mumbai,Female,Group_A,83,88,50,57
+446,Student_446,UK,New York,Female,Group_C,97,98,53,98
+447,Student_447,China,Beijing,Male,Group_B,52,78,79,96
+448,Student_448,USA,London,Male,Group_C,75,67,61,50
+449,Student_449,USA,Mumbai,Female,Group_B,57,93,84,61
+450,Student_450,India,Berlin,Female,Group_C,55,57,62,54
+451,Student_451,China,New York,Female,Group_A,65,80,80,73
+452,Student_452,UK,Mumbai,Female,Group_C,73,83,87,55
+453,Student_453,Germany,Berlin,Female,Group_B,97,56,92,74
+454,Student_454,Germany,Mumbai,Male,Group_B,88,85,72,50
+455,Student_455,UK,London,Male,Group_C,79,67,53,74
+456,Student_456,India,London,Male,Group_B,94,87,65,50
+457,Student_457,Germany,London,Female,Group_B,62,58,56,81
+458,Student_458,China,New York,Male,Group_A,54,58,71,91
+459,Student_459,India,London,Male,Group_C,74,95,78,91
+460,Student_460,China,Berlin,Male,Group_C,69,57,60,52
+461,Student_461,USA,Mumbai,Male,Group_C,67,84,82,98
+462,Student_462,India,Beijing,Male,Group_B,96,67,78,68
+463,Student_463,Germany,Berlin,Female,Group_C,67,54,88,92
+464,Student_464,India,Berlin,Male,Group_C,51,63,61,78
+465,Student_465,India,London,Female,Group_A,59,77,56,99
+466,Student_466,India,New York,Female,Group_A,94,79,88,51
+467,Student_467,India,Mumbai,Female,Group_A,99,53,91,58
+468,Student_468,China,New York,Female,Group_B,96,88,97,66
+469,Student_469,USA,Mumbai,Female,Group_C,61,69,75,95
+470,Student_470,UK,Mumbai,Male,Group_A,96,74,89,85
+471,Student_471,India,New York,Male,Group_A,62,77,58,66
+472,Student_472,Germany,Berlin,Female,Group_A,99,61,90,98
+473,Student_473,India,Mumbai,Female,Group_C,96,51,83,61
+474,Student_474,Germany,New York,Female,Group_C,60,92,94,69
+475,Student_475,China,Mumbai,Male,Group_C,68,63,62,99
+476,Student_476,Germany,Beijing,Female,Group_B,84,71,85,52
+477,Student_477,UK,Berlin,Male,Group_B,88,80,74,92
+478,Student_478,USA,London,Female,Group_A,75,72,73,99
+479,Student_479,Germany,Mumbai,Male,Group_C,95,97,93,53
+480,Student_480,Germany,Beijing,Female,Group_A,63,69,66,66
+481,Student_481,USA,London,Male,Group_C,94,87,51,99
+482,Student_482,UK,London,Female,Group_C,93,53,62,86
+483,Student_483,India,Mumbai,Male,Group_C,73,64,80,95
+484,Student_484,Germany,New York,Male,Group_B,90,73,78,91
+485,Student_485,USA,Mumbai,Male,Group_B,50,74,99,64
+486,Student_486,China,Beijing,Male,Group_C,92,50,77,82
+487,Student_487,USA,London,Male,Group_A,71,56,76,65
+488,Student_488,China,Mumbai,Male,Group_C,72,80,64,60
+489,Student_489,UK,New York,Male,Group_C,68,61,80,69
+490,Student_490,India,Mumbai,Female,Group_A,67,91,89,87
+491,Student_491,USA,Berlin,Female,Group_C,61,54,64,73
+492,Student_492,Germany,New York,Female,Group_A,77,93,82,65
+493,Student_493,UK,Beijing,Female,Group_B,77,99,69,79
+494,Student_494,USA,London,Female,Group_B,82,91,91,83
+495,Student_495,Germany,Mumbai,Male,Group_A,68,87,61,50
+496,Student_496,USA,New York,Male,Group_B,77,61,86,73
+497,Student_497,China,Berlin,Male,Group_B,98,88,58,73
+498,Student_498,USA,New York,Male,Group_A,86,67,72,58
+499,Student_499,USA,Berlin,Male,Group_B,75,51,57,71
+500,Student_500,USA,Beijing,Female,Group_C,84,59,81,61
+501,Student_501,UK,London,Female,Group_C,83,64,97,66
+502,Student_502,USA,Beijing,Female,Group_A,84,79,63,74
+503,Student_503,Germany,Mumbai,Female,Group_B,89,93,76,77
+504,Student_504,China,New York,Male,Group_C,65,66,74,64
+505,Student_505,China,Berlin,Male,Group_C,87,53,62,79
+506,Student_506,USA,Berlin,Male,Group_B,62,56,70,76
+507,Student_507,UK,New York,Female,Group_B,72,90,94,71
+508,Student_508,UK,New York,Male,Group_C,71,80,80,59
+509,Student_509,Germany,Mumbai,Female,Group_C,65,88,86,80
+510,Student_510,USA,Beijing,Male,Group_A,77,83,97,76
+511,Student_511,China,Berlin,Male,Group_A,97,55,92,61
+512,Student_512,UK,Mumbai,Female,Group_C,84,99,54,95
+513,Student_513,USA,Beijing,Male,Group_A,94,87,62,80
+514,Student_514,UK,Mumbai,Male,Group_C,95,94,77,81
+515,Student_515,UK,Berlin,Female,Group_C,57,83,92,81
+516,Student_516,China,New York,Male,Group_A,93,93,74,90
+517,Student_517,India,New York,Female,Group_A,71,64,84,94
+518,Student_518,Germany,Beijing,Male,Group_B,70,63,96,84
+519,Student_519,Germany,London,Male,Group_B,75,55,88,95
+520,Student_520,China,Beijing,Male,Group_B,89,99,56,70
+521,Student_521,UK,London,Male,Group_C,70,86,87,59
+522,Student_522,USA,Mumbai,Male,Group_A,74,99,81,65
+523,Student_523,UK,Mumbai,Male,Group_C,90,81,52,56
+524,Student_524,China,Berlin,Male,Group_A,50,52,94,53
+525,Student_525,Germany,London,Male,Group_C,55,52,88,76
+526,Student_526,UK,Berlin,Female,Group_B,72,71,86,74
+527,Student_527,Germany,New York,Female,Group_B,72,71,99,80
+528,Student_528,USA,London,Male,Group_B,92,59,71,60
+529,Student_529,Germany,Beijing,Male,Group_C,92,52,57,97
+530,Student_530,Germany,New York,Female,Group_A,72,61,66,69
+531,Student_531,India,New York,Male,Group_A,81,78,76,85
+532,Student_532,India,Beijing,Male,Group_B,79,97,82,66
+533,Student_533,India,New York,Female,Group_B,62,66,95,94
+534,Student_534,Germany,London,Male,Group_B,92,56,66,60
+535,Student_535,China,Berlin,Male,Group_B,67,62,91,79
+536,Student_536,Germany,New York,Female,Group_A,72,51,61,84
+537,Student_537,China,London,Male,Group_C,64,53,97,90
+538,Student_538,China,Mumbai,Male,Group_C,82,59,95,87
+539,Student_539,India,London,Female,Group_C,70,88,76,71
+540,Student_540,UK,Berlin,Male,Group_C,88,73,97,92
+541,Student_541,USA,London,Female,Group_B,72,66,57,97
+542,Student_542,India,Beijing,Male,Group_B,76,55,72,76
+543,Student_543,India,Berlin,Male,Group_B,94,68,91,86
+544,Student_544,UK,Mumbai,Female,Group_C,93,54,98,95
+545,Student_545,USA,Beijing,Female,Group_B,67,81,78,98
+546,Student_546,Germany,London,Male,Group_B,73,59,99,84
+547,Student_547,Germany,Berlin,Female,Group_A,96,58,69,53
+548,Student_548,India,Mumbai,Female,Group_A,89,76,65,65
+549,Student_549,USA,Beijing,Male,Group_B,91,62,66,65
+550,Student_550,India,Mumbai,Male,Group_A,56,68,65,70
+551,Student_551,China,London,Male,Group_A,99,70,68,75
+552,Student_552,India,Mumbai,Female,Group_B,97,73,57,85
+553,Student_553,India,New York,Female,Group_B,69,87,87,68
+554,Student_554,Germany,Beijing,Female,Group_B,76,53,87,66
+555,Student_555,Germany,Mumbai,Female,Group_B,55,73,78,94
+556,Student_556,Germany,London,Male,Group_C,76,84,90,75
+557,Student_557,China,London,Female,Group_C,58,52,85,71
+558,Student_558,Germany,Mumbai,Male,Group_B,94,53,75,77
+559,Student_559,USA,London,Female,Group_A,80,86,80,50
+560,Student_560,UK,Berlin,Male,Group_B,70,89,93,93
+561,Student_561,USA,Berlin,Male,Group_B,75,97,61,85
+562,Student_562,USA,Berlin,Male,Group_A,89,84,66,92
+563,Student_563,Germany,New York,Female,Group_C,97,80,64,86
+564,Student_564,UK,Mumbai,Male,Group_B,94,93,58,51
+565,Student_565,UK,New York,Male,Group_B,62,74,88,66
+566,Student_566,UK,London,Female,Group_C,98,89,91,89
+567,Student_567,China,New York,Male,Group_C,72,62,97,87
+568,Student_568,Germany,London,Female,Group_A,69,53,61,70
+569,Student_569,UK,London,Female,Group_C,86,95,81,58
+570,Student_570,China,Beijing,Male,Group_C,77,63,74,62
+571,Student_571,India,Berlin,Male,Group_C,66,62,88,60
+572,Student_572,India,London,Female,Group_A,77,76,67,65
+573,Student_573,China,Beijing,Male,Group_C,90,55,64,65
+574,Student_574,China,Berlin,Female,Group_C,51,66,81,51
+575,Student_575,Germany,London,Female,Group_A,74,85,55,91
+576,Student_576,Germany,London,Female,Group_C,99,89,93,93
+577,Student_577,India,New York,Male,Group_C,90,98,92,57
+578,Student_578,UK,New York,Female,Group_A,55,84,84,92
+579,Student_579,India,Berlin,Male,Group_B,60,66,83,91
+580,Student_580,UK,London,Male,Group_A,87,90,87,62
+581,Student_581,UK,Mumbai,Male,Group_C,55,51,54,66
+582,Student_582,Germany,New York,Male,Group_C,94,62,67,88
+583,Student_583,USA,Berlin,Female,Group_C,60,51,65,73
+584,Student_584,USA,London,Male,Group_A,63,77,57,52
+585,Student_585,China,London,Female,Group_C,51,92,74,79
+586,Student_586,Germany,Mumbai,Female,Group_C,89,75,81,62
+587,Student_587,UK,Berlin,Male,Group_A,52,71,75,68
+588,Student_588,USA,London,Female,Group_B,84,96,71,56
+589,Student_589,UK,New York,Female,Group_B,82,92,80,58
+590,Student_590,USA,Mumbai,Male,Group_C,73,52,92,68
+591,Student_591,USA,Berlin,Female,Group_A,68,84,59,94
+592,Student_592,USA,Mumbai,Female,Group_C,67,61,61,89
+593,Student_593,Germany,New York,Female,Group_A,98,73,77,71
+594,Student_594,India,Berlin,Female,Group_A,73,54,55,67
+595,Student_595,UK,Mumbai,Male,Group_B,94,69,69,72
+596,Student_596,Germany,Beijing,Female,Group_B,84,88,54,51
+597,Student_597,Germany,New York,Female,Group_A,50,88,72,99
+598,Student_598,Germany,New York,Female,Group_C,85,62,58,99
+599,Student_599,Germany,New York,Female,Group_B,74,90,78,60
+600,Student_600,Germany,Beijing,Male,Group_C,94,94,65,80
+601,Student_601,China,Beijing,Female,Group_B,98,61,95,82
+602,Student_602,UK,London,Male,Group_B,92,62,71,63
+603,Student_603,Germany,Mumbai,Female,Group_C,83,59,57,65
+604,Student_604,UK,London,Male,Group_B,74,82,69,60
+605,Student_605,China,Mumbai,Male,Group_B,65,89,63,82
+606,Student_606,China,Beijing,Male,Group_C,83,65,88,56
+607,Student_607,UK,Beijing,Male,Group_B,78,94,86,80
+608,Student_608,USA,London,Male,Group_B,68,84,99,97
+609,Student_609,India,Berlin,Female,Group_B,72,52,83,95
+610,Student_610,USA,London,Female,Group_C,68,54,60,96
+611,Student_611,USA,Mumbai,Female,Group_A,74,75,89,63
+612,Student_612,USA,London,Male,Group_C,65,60,82,77
+613,Student_613,Germany,New York,Female,Group_A,58,56,80,92
+614,Student_614,China,Mumbai,Male,Group_B,50,59,93,65
+615,Student_615,USA,Mumbai,Male,Group_A,91,91,83,68
+616,Student_616,China,Berlin,Female,Group_C,68,83,99,66
+617,Student_617,UK,Beijing,Female,Group_C,82,52,56,75
+618,Student_618,India,Mumbai,Male,Group_B,83,57,98,55
+619,Student_619,UK,Beijing,Male,Group_A,65,80,72,92
+620,Student_620,UK,London,Female,Group_B,93,60,95,98
+621,Student_621,Germany,New York,Female,Group_B,89,94,56,58
+622,Student_622,India,Berlin,Female,Group_C,67,56,74,99
+623,Student_623,UK,Beijing,Female,Group_A,83,94,52,66
+624,Student_624,UK,Mumbai,Male,Group_A,74,51,87,80
+625,Student_625,India,Beijing,Female,Group_A,94,55,69,61
+626,Student_626,India,Mumbai,Female,Group_A,55,90,83,72
+627,Student_627,UK,Beijing,Female,Group_B,70,81,98,54
+628,Student_628,India,Mumbai,Male,Group_B,55,69,93,92
+629,Student_629,UK,London,Male,Group_C,81,83,93,85
+630,Student_630,UK,Mumbai,Male,Group_B,90,99,79,85
+631,Student_631,Germany,Mumbai,Male,Group_B,97,65,66,52
+632,Student_632,USA,New York,Female,Group_C,92,74,59,73
+633,Student_633,UK,Mumbai,Male,Group_C,88,61,84,66
+634,Student_634,China,New York,Female,Group_C,80,56,69,88
+635,Student_635,USA,Berlin,Female,Group_B,91,88,67,75
+636,Student_636,USA,New York,Female,Group_B,59,66,94,53
+637,Student_637,USA,London,Female,Group_C,79,94,93,94
+638,Student_638,Germany,New York,Male,Group_C,67,60,76,61
+639,Student_639,UK,Berlin,Male,Group_C,73,55,98,50
+640,Student_640,Germany,London,Male,Group_B,58,72,85,70
+641,Student_641,UK,Beijing,Female,Group_B,80,76,72,68
+642,Student_642,Germany,Beijing,Female,Group_A,64,95,81,70
+643,Student_643,Germany,New York,Female,Group_B,53,55,59,67
+644,Student_644,China,New York,Female,Group_B,89,87,60,92
+645,Student_645,Germany,Berlin,Female,Group_B,58,51,87,52
+646,Student_646,India,Berlin,Male,Group_C,94,71,55,98
+647,Student_647,China,Mumbai,Female,Group_B,58,69,90,93
+648,Student_648,Germany,Berlin,Male,Group_C,75,74,96,81
+649,Student_649,USA,Mumbai,Female,Group_A,53,64,83,59
+650,Student_650,India,London,Female,Group_A,66,98,85,89
+651,Student_651,India,New York,Male,Group_C,65,78,86,64
+652,Student_652,India,London,Male,Group_C,64,57,66,54
+653,Student_653,China,Berlin,Female,Group_C,84,86,89,53
+654,Student_654,Germany,London,Female,Group_B,54,98,89,77
+655,Student_655,Germany,London,Female,Group_A,54,82,61,53
+656,Student_656,USA,London,Female,Group_C,69,71,70,64
+657,Student_657,USA,Berlin,Male,Group_B,64,99,89,66
+658,Student_658,India,London,Female,Group_A,67,96,68,93
+659,Student_659,USA,Mumbai,Male,Group_B,96,54,52,52
+660,Student_660,China,Berlin,Female,Group_A,51,88,67,59
+661,Student_661,Germany,London,Male,Group_B,78,67,68,96
+662,Student_662,India,Berlin,Male,Group_A,62,87,96,91
+663,Student_663,USA,Beijing,Female,Group_A,53,86,55,72
+664,Student_664,China,Mumbai,Male,Group_B,91,79,65,67
+665,Student_665,China,London,Female,Group_C,94,80,57,50
+666,Student_666,USA,Beijing,Male,Group_A,59,59,97,84
+667,Student_667,Germany,Beijing,Female,Group_C,80,64,67,80
+668,Student_668,USA,Berlin,Male,Group_B,90,91,97,93
+669,Student_669,India,Beijing,Female,Group_C,57,97,92,50
+670,Student_670,USA,Mumbai,Female,Group_C,52,93,88,52
+671,Student_671,China,Mumbai,Male,Group_C,97,67,98,52
+672,Student_672,USA,New York,Male,Group_C,95,72,98,86
+673,Student_673,Germany,Mumbai,Male,Group_C,58,82,61,68
+674,Student_674,UK,Beijing,Male,Group_A,79,65,94,78
+675,Student_675,USA,Mumbai,Female,Group_A,60,87,59,74
+676,Student_676,Germany,Berlin,Male,Group_A,84,84,56,82
+677,Student_677,Germany,New York,Female,Group_B,86,83,95,85
+678,Student_678,China,Beijing,Male,Group_C,91,77,50,78
+679,Student_679,Germany,New York,Female,Group_A,62,51,98,75
+680,Student_680,Germany,Beijing,Female,Group_B,85,79,85,53
+681,Student_681,Germany,Berlin,Female,Group_A,62,62,70,98
+682,Student_682,Germany,New York,Female,Group_A,61,90,86,63
+683,Student_683,India,London,Male,Group_C,86,65,73,99
+684,Student_684,India,Beijing,Male,Group_B,59,54,74,76
+685,Student_685,China,London,Female,Group_C,58,77,56,82
+686,Student_686,USA,New York,Male,Group_C,56,88,91,71
+687,Student_687,Germany,London,Male,Group_A,51,94,66,97
+688,Student_688,USA,London,Female,Group_C,72,69,78,52
+689,Student_689,USA,New York,Male,Group_B,88,73,79,72
+690,Student_690,China,Berlin,Male,Group_C,89,76,56,70
+691,Student_691,Germany,London,Male,Group_C,88,79,82,90
+692,Student_692,Germany,London,Female,Group_C,70,94,56,72
+693,Student_693,UK,Berlin,Male,Group_A,72,76,73,53
+694,Student_694,USA,London,Female,Group_B,78,75,60,70
+695,Student_695,USA,London,Male,Group_A,63,56,58,86
+696,Student_696,India,London,Male,Group_A,75,91,61,92
+697,Student_697,UK,Mumbai,Male,Group_A,54,96,84,80
+698,Student_698,India,Berlin,Female,Group_A,80,87,53,70
+699,Student_699,India,London,Female,Group_A,74,54,85,75
+700,Student_700,India,Berlin,Male,Group_B,80,72,77,90
+701,Student_701,China,Beijing,Female,Group_C,99,77,62,84
+702,Student_702,China,Beijing,Male,Group_A,69,83,72,87
+703,Student_703,India,London,Female,Group_A,93,64,68,73
+704,Student_704,UK,Berlin,Female,Group_B,66,81,91,60
+705,Student_705,USA,Berlin,Male,Group_B,94,75,86,90
+706,Student_706,UK,Berlin,Male,Group_C,51,97,88,78
+707,Student_707,Germany,Mumbai,Male,Group_B,74,80,73,96
+708,Student_708,China,Beijing,Male,Group_C,62,68,65,52
+709,Student_709,USA,Berlin,Female,Group_A,88,58,82,50
+710,Student_710,USA,Berlin,Female,Group_A,77,78,61,68
+711,Student_711,Germany,Mumbai,Female,Group_C,91,88,83,95
+712,Student_712,Germany,Mumbai,Male,Group_B,55,53,56,98
+713,Student_713,India,Berlin,Male,Group_C,52,52,60,71
+714,Student_714,China,New York,Female,Group_B,84,78,80,63
+715,Student_715,China,Berlin,Male,Group_A,67,60,78,98
+716,Student_716,UK,Berlin,Female,Group_B,60,82,62,63
+717,Student_717,India,Mumbai,Female,Group_C,69,87,80,93
+718,Student_718,India,Mumbai,Female,Group_C,54,60,51,65
+719,Student_719,India,Berlin,Female,Group_A,68,76,88,82
+720,Student_720,India,Berlin,Female,Group_B,71,82,64,62
+721,Student_721,China,Berlin,Male,Group_B,68,70,60,87
+722,Student_722,China,Mumbai,Male,Group_B,96,88,83,98
+723,Student_723,India,Berlin,Male,Group_A,65,80,88,61
+724,Student_724,UK,Berlin,Female,Group_B,73,87,53,87
+725,Student_725,USA,London,Female,Group_C,90,95,60,88
+726,Student_726,USA,New York,Female,Group_B,53,51,78,82
+727,Student_727,UK,Beijing,Female,Group_A,64,76,51,82
+728,Student_728,India,New York,Male,Group_B,74,85,65,78
+729,Student_729,China,London,Male,Group_B,93,60,88,54
+730,Student_730,USA,Beijing,Female,Group_C,84,96,62,55
+731,Student_731,Germany,Berlin,Female,Group_B,63,67,86,80
+732,Student_732,Germany,London,Female,Group_C,98,50,66,65
+733,Student_733,UK,Berlin,Male,Group_C,68,84,70,80
+734,Student_734,India,Mumbai,Male,Group_A,87,84,93,74
+735,Student_735,USA,London,Male,Group_C,85,80,68,97
+736,Student_736,India,Mumbai,Female,Group_C,56,77,56,95
+737,Student_737,USA,London,Female,Group_A,79,88,87,82
+738,Student_738,UK,London,Male,Group_C,68,50,57,62
+739,Student_739,UK,Mumbai,Female,Group_A,98,74,62,59
+740,Student_740,Germany,Beijing,Male,Group_B,74,92,86,73
+741,Student_741,India,New York,Female,Group_A,65,87,51,59
+742,Student_742,Germany,Berlin,Male,Group_C,96,69,90,90
+743,Student_743,India,London,Female,Group_A,89,52,60,80
+744,Student_744,Germany,Berlin,Male,Group_C,57,51,73,62
+745,Student_745,China,Mumbai,Male,Group_B,67,67,55,52
+746,Student_746,China,Berlin,Male,Group_A,77,93,75,99
+747,Student_747,China,Mumbai,Male,Group_B,65,59,56,83
+748,Student_748,China,Berlin,Male,Group_C,68,54,88,98
+749,Student_749,USA,New York,Male,Group_C,91,58,68,77
+750,Student_750,China,New York,Female,Group_B,66,51,55,68
+751,Student_751,UK,New York,Female,Group_A,94,83,92,72
+752,Student_752,UK,New York,Female,Group_A,62,87,78,94
+753,Student_753,USA,New York,Male,Group_C,56,80,92,81
+754,Student_754,China,New York,Male,Group_B,76,59,88,62
+755,Student_755,China,Mumbai,Female,Group_B,59,99,51,82
+756,Student_756,China,London,Male,Group_A,83,61,68,83
+757,Student_757,Germany,Berlin,Male,Group_A,85,85,53,82
+758,Student_758,India,New York,Male,Group_A,74,70,55,54
+759,Student_759,Germany,Mumbai,Male,Group_B,55,98,98,52
+760,Student_760,India,Mumbai,Male,Group_A,73,96,86,56
+761,Student_761,China,Mumbai,Female,Group_A,67,55,77,73
+762,Student_762,China,London,Female,Group_C,72,97,79,71
+763,Student_763,Germany,Berlin,Female,Group_A,55,98,56,94
+764,Student_764,Germany,London,Female,Group_A,78,52,58,72
+765,Student_765,India,Beijing,Female,Group_B,74,59,74,79
+766,Student_766,UK,Mumbai,Male,Group_B,66,54,82,67
+767,Student_767,India,Beijing,Male,Group_C,95,95,50,81
+768,Student_768,Germany,New York,Male,Group_A,73,75,55,56
+769,Student_769,Germany,New York,Male,Group_C,60,70,67,82
+770,Student_770,USA,London,Female,Group_B,75,94,59,54
+771,Student_771,Germany,Berlin,Female,Group_C,83,75,77,98
+772,Student_772,USA,Beijing,Female,Group_B,77,87,60,77
+773,Student_773,UK,Berlin,Male,Group_C,52,93,82,57
+774,Student_774,India,London,Female,Group_C,60,75,50,64
+775,Student_775,India,New York,Male,Group_A,87,57,62,53
+776,Student_776,USA,Berlin,Female,Group_C,63,54,86,83
+777,Student_777,India,Berlin,Female,Group_A,75,64,69,54
+778,Student_778,Germany,New York,Male,Group_A,97,65,50,82
+779,Student_779,China,Beijing,Male,Group_A,70,50,52,54
+780,Student_780,USA,New York,Female,Group_A,88,65,67,87
+781,Student_781,India,Berlin,Female,Group_C,79,86,90,83
+782,Student_782,USA,Beijing,Male,Group_B,57,52,63,75
+783,Student_783,USA,Beijing,Female,Group_B,69,96,80,50
+784,Student_784,China,New York,Female,Group_B,97,80,76,53
+785,Student_785,Germany,Berlin,Male,Group_C,81,62,66,88
+786,Student_786,USA,London,Female,Group_A,71,65,95,75
+787,Student_787,India,Berlin,Male,Group_B,56,92,78,82
+788,Student_788,UK,Mumbai,Female,Group_C,58,70,85,82
+789,Student_789,USA,London,Male,Group_A,94,51,86,57
+790,Student_790,USA,Beijing,Female,Group_B,50,76,75,69
+791,Student_791,China,London,Male,Group_A,78,87,66,65
+792,Student_792,Germany,Beijing,Female,Group_B,57,75,71,70
+793,Student_793,UK,Beijing,Male,Group_B,53,87,74,94
+794,Student_794,India,London,Female,Group_B,84,95,51,75
+795,Student_795,UK,Beijing,Female,Group_A,52,74,71,72
+796,Student_796,India,Beijing,Female,Group_C,94,60,54,67
+797,Student_797,Germany,Mumbai,Female,Group_A,89,57,53,80
+798,Student_798,India,Berlin,Female,Group_B,56,57,85,91
+799,Student_799,China,Berlin,Female,Group_A,76,82,55,61
+800,Student_800,China,Mumbai,Female,Group_C,50,56,70,50
+801,Student_801,China,London,Female,Group_A,76,87,62,91
+802,Student_802,China,New York,Female,Group_C,65,70,86,58
+803,Student_803,UK,New York,Male,Group_C,87,57,74,52
+804,Student_804,Germany,New York,Male,Group_A,56,70,75,75
+805,Student_805,India,Mumbai,Female,Group_B,93,69,88,58
+806,Student_806,India,Mumbai,Male,Group_C,72,57,69,91
+807,Student_807,China,Beijing,Female,Group_A,90,95,82,65
+808,Student_808,China,New York,Female,Group_C,60,80,63,73
+809,Student_809,USA,London,Male,Group_B,91,99,85,99
+810,Student_810,Germany,London,Female,Group_A,82,78,66,63
+811,Student_811,UK,New York,Female,Group_A,99,97,70,52
+812,Student_812,India,New York,Male,Group_A,85,58,95,83
+813,Student_813,USA,New York,Male,Group_B,86,64,65,82
+814,Student_814,USA,Mumbai,Female,Group_C,90,79,95,99
+815,Student_815,India,Mumbai,Male,Group_A,66,75,65,73
+816,Student_816,UK,Mumbai,Male,Group_C,84,59,69,58
+817,Student_817,USA,Berlin,Female,Group_C,97,78,78,62
+818,Student_818,USA,London,Male,Group_B,54,65,77,51
+819,Student_819,Germany,London,Male,Group_A,97,85,57,56
+820,Student_820,UK,Beijing,Female,Group_C,81,69,73,97
+821,Student_821,USA,Mumbai,Male,Group_A,52,94,52,70
+822,Student_822,UK,Berlin,Male,Group_A,96,86,74,68
+823,Student_823,India,Berlin,Female,Group_B,84,71,68,74
+824,Student_824,China,London,Female,Group_A,63,56,82,96
+825,Student_825,USA,Mumbai,Female,Group_A,97,72,51,71
+826,Student_826,Germany,Beijing,Male,Group_C,80,90,64,60
+827,Student_827,India,Mumbai,Female,Group_B,80,89,71,82
+828,Student_828,UK,New York,Female,Group_A,66,78,59,81
+829,Student_829,India,Mumbai,Male,Group_C,73,65,67,70
+830,Student_830,USA,New York,Female,Group_B,72,87,71,88
+831,Student_831,UK,New York,Female,Group_B,67,77,95,69
+832,Student_832,China,Beijing,Female,Group_C,99,97,98,57
+833,Student_833,India,London,Female,Group_C,63,87,76,91
+834,Student_834,USA,Mumbai,Male,Group_C,99,80,62,86
+835,Student_835,Germany,New York,Female,Group_C,64,63,82,58
+836,Student_836,UK,Mumbai,Female,Group_C,64,82,54,74
+837,Student_837,India,London,Male,Group_A,55,58,75,74
+838,Student_838,India,London,Female,Group_A,76,76,62,82
+839,Student_839,China,Berlin,Male,Group_B,64,73,76,51
+840,Student_840,China,London,Male,Group_A,99,62,63,68
+841,Student_841,Germany,Beijing,Male,Group_A,85,75,73,95
+842,Student_842,Germany,New York,Female,Group_A,57,78,52,69
+843,Student_843,USA,Berlin,Male,Group_C,64,98,96,91
+844,Student_844,USA,Beijing,Male,Group_B,52,92,98,90
+845,Student_845,Germany,Mumbai,Male,Group_B,96,77,79,91
+846,Student_846,Germany,New York,Female,Group_B,62,77,84,78
+847,Student_847,UK,London,Female,Group_B,90,57,97,55
+848,Student_848,China,New York,Female,Group_A,83,72,63,66
+849,Student_849,USA,Mumbai,Female,Group_A,73,78,61,74
+850,Student_850,China,Berlin,Female,Group_C,89,54,77,87
+851,Student_851,China,Berlin,Female,Group_B,81,91,93,53
+852,Student_852,Germany,Berlin,Female,Group_A,81,56,78,79
+853,Student_853,UK,London,Male,Group_A,79,91,92,69
+854,Student_854,India,Beijing,Male,Group_C,98,85,66,52
+855,Student_855,UK,Beijing,Male,Group_C,62,90,89,72
+856,Student_856,UK,New York,Male,Group_C,50,76,98,67
+857,Student_857,China,London,Female,Group_A,83,95,70,75
+858,Student_858,UK,Berlin,Male,Group_A,64,51,72,85
+859,Student_859,USA,Berlin,Male,Group_C,93,74,69,57
+860,Student_860,China,Mumbai,Male,Group_B,63,58,60,66
+861,Student_861,USA,Mumbai,Male,Group_C,78,76,83,80
+862,Student_862,India,Berlin,Female,Group_C,83,50,59,86
+863,Student_863,China,Berlin,Female,Group_C,67,72,59,94
+864,Student_864,India,London,Female,Group_C,56,59,92,82
+865,Student_865,China,Beijing,Male,Group_A,78,91,55,76
+866,Student_866,Germany,Mumbai,Female,Group_B,80,74,85,94
+867,Student_867,UK,Beijing,Male,Group_C,74,52,73,53
+868,Student_868,Germany,London,Female,Group_B,87,55,61,71
+869,Student_869,India,Berlin,Female,Group_B,63,55,92,75
+870,Student_870,UK,Beijing,Female,Group_B,57,51,72,81
+871,Student_871,China,Berlin,Female,Group_C,76,67,76,73
+872,Student_872,UK,Berlin,Female,Group_A,51,72,94,95
+873,Student_873,USA,New York,Male,Group_C,66,51,86,84
+874,Student_874,UK,Beijing,Female,Group_B,86,61,55,86
+875,Student_875,USA,Beijing,Male,Group_B,63,71,50,81
+876,Student_876,UK,Berlin,Male,Group_A,74,86,55,56
+877,Student_877,USA,London,Male,Group_C,79,69,99,82
+878,Student_878,India,New York,Male,Group_B,78,88,71,80
+879,Student_879,Germany,Berlin,Male,Group_A,69,73,90,61
+880,Student_880,China,Mumbai,Female,Group_B,70,97,73,60
+881,Student_881,UK,Mumbai,Female,Group_A,71,69,74,73
+882,Student_882,Germany,New York,Female,Group_A,84,50,64,57
+883,Student_883,China,London,Female,Group_C,86,50,75,81
+884,Student_884,China,Berlin,Male,Group_B,65,66,57,87
+885,Student_885,USA,Beijing,Female,Group_C,99,50,73,71
+886,Student_886,India,New York,Female,Group_B,98,94,97,83
+887,Student_887,India,London,Male,Group_C,92,79,87,68
+888,Student_888,Germany,Beijing,Male,Group_B,66,90,55,69
+889,Student_889,India,Mumbai,Female,Group_C,65,96,84,63
+890,Student_890,UK,Mumbai,Female,Group_A,51,52,91,82
+891,Student_891,India,Beijing,Male,Group_B,53,95,50,59
+892,Student_892,Germany,New York,Female,Group_B,70,60,95,65
+893,Student_893,India,Mumbai,Female,Group_A,88,73,85,53
+894,Student_894,UK,Berlin,Female,Group_C,83,71,61,76
+895,Student_895,USA,Beijing,Female,Group_B,79,93,87,77
+896,Student_896,Germany,Beijing,Male,Group_B,55,94,60,92
+897,Student_897,USA,Mumbai,Male,Group_C,66,75,61,65
+898,Student_898,USA,New York,Male,Group_A,88,62,91,82
+899,Student_899,USA,Berlin,Female,Group_C,74,50,99,97
+900,Student_900,China,New York,Female,Group_C,54,73,88,68
+901,Student_901,China,London,Female,Group_C,54,59,56,70
+902,Student_902,USA,London,Female,Group_B,69,84,60,71
+903,Student_903,Germany,Mumbai,Female,Group_A,65,73,85,58
+904,Student_904,UK,Mumbai,Male,Group_A,90,77,80,58
+905,Student_905,UK,Mumbai,Female,Group_C,86,85,82,58
+906,Student_906,India,London,Female,Group_B,89,65,62,76
+907,Student_907,Germany,New York,Male,Group_C,58,89,67,66
+908,Student_908,China,New York,Female,Group_B,54,65,90,93
+909,Student_909,USA,Mumbai,Male,Group_B,91,66,73,94
+910,Student_910,India,Berlin,Male,Group_B,51,64,58,57
+911,Student_911,UK,New York,Male,Group_B,58,65,80,65
+912,Student_912,China,London,Male,Group_A,92,64,90,67
+913,Student_913,China,Beijing,Male,Group_B,85,83,59,82
+914,Student_914,USA,Beijing,Female,Group_B,71,60,51,50
+915,Student_915,UK,Beijing,Male,Group_C,71,50,87,61
+916,Student_916,Germany,Berlin,Male,Group_C,71,64,64,55
+917,Student_917,China,Mumbai,Female,Group_A,83,75,52,90
+918,Student_918,USA,London,Female,Group_C,78,53,92,54
+919,Student_919,Germany,Berlin,Male,Group_B,87,92,80,65
+920,Student_920,UK,London,Female,Group_C,95,54,55,67
+921,Student_921,China,London,Female,Group_A,82,84,52,98
+922,Student_922,Germany,Mumbai,Male,Group_C,67,62,60,67
+923,Student_923,Germany,Beijing,Male,Group_C,56,59,64,50
+924,Student_924,Germany,Mumbai,Female,Group_A,50,60,94,68
+925,Student_925,China,Berlin,Male,Group_A,82,67,77,57
+926,Student_926,China,Berlin,Male,Group_B,50,83,59,52
+927,Student_927,India,Berlin,Female,Group_C,73,88,87,74
+928,Student_928,UK,Mumbai,Male,Group_B,53,90,96,54
+929,Student_929,USA,London,Male,Group_C,53,91,99,89
+930,Student_930,Germany,London,Male,Group_C,67,99,99,68
+931,Student_931,India,New York,Male,Group_B,76,72,56,67
+932,Student_932,USA,Berlin,Male,Group_C,92,56,64,99
+933,Student_933,India,London,Female,Group_C,81,88,67,80
+934,Student_934,China,New York,Female,Group_C,82,52,67,82
+935,Student_935,Germany,London,Male,Group_A,77,61,90,96
+936,Student_936,USA,Berlin,Female,Group_B,91,56,73,67
+937,Student_937,USA,Beijing,Male,Group_A,90,98,51,88
+938,Student_938,USA,Berlin,Male,Group_B,85,75,89,65
+939,Student_939,USA,Mumbai,Male,Group_B,55,82,69,65
+940,Student_940,USA,London,Male,Group_C,65,86,83,96
+941,Student_941,India,London,Male,Group_B,83,97,92,87
+942,Student_942,Germany,Mumbai,Female,Group_A,72,64,75,90
+943,Student_943,China,Mumbai,Female,Group_A,99,51,56,56
+944,Student_944,China,Beijing,Male,Group_A,91,90,87,63
+945,Student_945,China,London,Female,Group_B,73,56,79,92
+946,Student_946,China,London,Male,Group_A,98,81,91,97
+947,Student_947,India,Beijing,Female,Group_B,62,53,54,74
+948,Student_948,UK,New York,Male,Group_A,67,69,60,81
+949,Student_949,Germany,Beijing,Female,Group_A,62,99,50,87
+950,Student_950,USA,Berlin,Male,Group_B,98,85,83,71
+951,Student_951,UK,London,Male,Group_A,86,81,50,65
+952,Student_952,China,Mumbai,Female,Group_C,92,77,68,78
+953,Student_953,UK,Berlin,Female,Group_B,88,62,51,65
+954,Student_954,Germany,London,Male,Group_B,91,50,70,61
+955,Student_955,USA,Beijing,Female,Group_B,66,84,69,66
+956,Student_956,USA,Berlin,Male,Group_C,64,97,72,86
+957,Student_957,Germany,London,Female,Group_B,67,79,70,76
+958,Student_958,Germany,New York,Female,Group_A,72,85,73,74
+959,Student_959,China,New York,Male,Group_A,79,74,53,62
+960,Student_960,USA,Mumbai,Female,Group_A,83,65,61,57
+961,Student_961,UK,London,Female,Group_B,53,68,71,54
+962,Student_962,India,New York,Male,Group_A,52,50,69,61
+963,Student_963,India,Beijing,Female,Group_B,56,54,67,90
+964,Student_964,Germany,London,Male,Group_A,67,71,50,52
+965,Student_965,China,Beijing,Male,Group_C,91,73,79,84
+966,Student_966,India,Beijing,Male,Group_C,56,92,82,82
+967,Student_967,USA,New York,Male,Group_C,89,94,73,71
+968,Student_968,Germany,London,Male,Group_C,55,86,63,99
+969,Student_969,UK,Berlin,Female,Group_B,71,85,85,93
+970,Student_970,Germany,New York,Male,Group_A,50,85,54,58
+971,Student_971,UK,New York,Male,Group_C,53,53,60,90
+972,Student_972,Germany,London,Female,Group_B,95,85,73,67
+973,Student_973,Germany,London,Female,Group_C,98,67,80,99
+974,Student_974,Germany,Beijing,Female,Group_C,99,99,62,78
+975,Student_975,UK,London,Male,Group_B,92,65,65,88
+976,Student_976,UK,Beijing,Male,Group_B,78,90,73,76
+977,Student_977,Germany,New York,Male,Group_A,70,67,62,85
+978,Student_978,India,Mumbai,Female,Group_A,75,71,73,94
+979,Student_979,China,Berlin,Male,Group_C,63,51,75,66
+980,Student_980,China,New York,Female,Group_C,58,70,51,83
+981,Student_981,China,London,Male,Group_A,96,85,65,95
+982,Student_982,UK,Berlin,Female,Group_A,61,93,87,52
+983,Student_983,UK,Mumbai,Male,Group_B,91,88,95,54
+984,Student_984,India,Mumbai,Male,Group_A,55,96,50,63
+985,Student_985,China,Beijing,Male,Group_A,69,88,98,52
+986,Student_986,China,Berlin,Female,Group_C,73,78,60,72
+987,Student_987,Germany,Beijing,Female,Group_A,76,75,84,88
+988,Student_988,UK,New York,Male,Group_C,87,70,92,79
+989,Student_989,China,Berlin,Male,Group_A,57,66,78,99
+990,Student_990,India,New York,Male,Group_B,50,65,86,94
+991,Student_991,India,Beijing,Female,Group_A,98,80,66,72
+992,Student_992,China,Berlin,Male,Group_A,98,58,88,76
+993,Student_993,UK,Beijing,Male,Group_A,73,80,91,59
+994,Student_994,India,Berlin,Male,Group_C,96,63,77,74
+995,Student_995,Germany,Beijing,Male,Group_B,56,98,78,62
+996,Student_996,India,Mumbai,Female,Group_A,68,86,92,65
+997,Student_997,USA,Beijing,Female,Group_C,71,51,52,90
+998,Student_998,USA,Mumbai,Male,Group_B,84,97,59,83
+999,Student_999,UK,Beijing,Male,Group_C,79,95,91,86
+1000,Student_1000,China,Berlin,Female,Group_C,78,63,63,71
+1001,Student_1001,UK,Berlin,Female,Group_B,71,82,61,66
+1002,Student_1002,UK,Berlin,Male,Group_A,60,84,96,72
+1003,Student_1003,UK,London,Female,Group_C,69,88,91,85
+1004,Student_1004,UK,New York,Female,Group_C,78,96,79,98
+1005,Student_1005,Germany,Berlin,Male,Group_A,90,69,81,58
+1006,Student_1006,Germany,Mumbai,Female,Group_A,91,51,81,51
+1007,Student_1007,India,Berlin,Female,Group_B,83,90,91,81
+1008,Student_1008,USA,London,Male,Group_B,50,68,81,99
+1009,Student_1009,UK,Mumbai,Male,Group_B,80,86,75,71
+1010,Student_1010,India,London,Female,Group_A,79,67,50,92
+1011,Student_1011,USA,Mumbai,Male,Group_C,97,65,91,62
+1012,Student_1012,China,Beijing,Female,Group_C,67,53,51,57
+1013,Student_1013,Germany,New York,Male,Group_B,66,61,66,50
+1014,Student_1014,USA,New York,Female,Group_A,87,78,79,66
+1015,Student_1015,China,London,Male,Group_C,63,56,88,61
+1016,Student_1016,USA,New York,Female,Group_B,72,63,56,53
+1017,Student_1017,Germany,London,Female,Group_C,74,61,76,62
+1018,Student_1018,Germany,London,Female,Group_C,64,84,58,80
+1019,Student_1019,India,London,Male,Group_A,95,54,71,90
+1020,Student_1020,UK,New York,Male,Group_A,71,66,83,56
+1021,Student_1021,USA,London,Female,Group_C,52,91,95,72
+1022,Student_1022,USA,New York,Female,Group_B,68,81,98,73
+1023,Student_1023,China,London,Male,Group_A,93,59,50,54
+1024,Student_1024,Germany,Berlin,Male,Group_C,83,92,58,54
+1025,Student_1025,USA,London,Male,Group_A,84,66,69,66
+1026,Student_1026,Germany,Mumbai,Male,Group_A,99,54,68,79
+1027,Student_1027,USA,London,Male,Group_A,50,94,85,58
+1028,Student_1028,India,Beijing,Male,Group_C,70,91,89,55
+1029,Student_1029,UK,London,Female,Group_B,78,58,94,74
+1030,Student_1030,USA,Mumbai,Male,Group_B,55,98,53,68
+1031,Student_1031,Germany,Mumbai,Female,Group_B,86,82,58,65
+1032,Student_1032,India,New York,Male,Group_A,50,85,90,70
+1033,Student_1033,USA,Berlin,Male,Group_C,50,85,71,51
+1034,Student_1034,China,London,Female,Group_A,76,67,67,59
+1035,Student_1035,UK,New York,Female,Group_B,70,58,61,65
+1036,Student_1036,USA,Berlin,Male,Group_B,65,78,91,86
+1037,Student_1037,India,London,Female,Group_C,93,99,92,64
+1038,Student_1038,China,Beijing,Female,Group_A,89,63,88,62
+1039,Student_1039,India,London,Female,Group_B,75,74,58,62
+1040,Student_1040,India,Mumbai,Female,Group_C,65,64,55,81
+1041,Student_1041,China,Mumbai,Male,Group_A,77,55,68,94
+1042,Student_1042,India,Beijing,Female,Group_A,50,91,97,96
+1043,Student_1043,China,New York,Male,Group_B,85,78,96,95
+1044,Student_1044,USA,Berlin,Male,Group_B,59,64,56,57
+1045,Student_1045,China,London,Male,Group_A,92,78,65,92
+1046,Student_1046,China,Mumbai,Male,Group_A,66,53,54,67
+1047,Student_1047,UK,New York,Female,Group_B,72,67,65,85
+1048,Student_1048,China,Beijing,Female,Group_A,56,99,50,75
+1049,Student_1049,China,Mumbai,Male,Group_B,93,98,86,59
+1050,Student_1050,USA,Beijing,Male,Group_A,56,93,88,80
+1051,Student_1051,UK,London,Male,Group_B,93,88,68,82
+1052,Student_1052,Germany,Berlin,Male,Group_C,64,65,86,78
+1053,Student_1053,USA,Mumbai,Female,Group_B,83,60,66,54
+1054,Student_1054,USA,Mumbai,Male,Group_B,95,63,75,62
+1055,Student_1055,Germany,London,Female,Group_C,94,52,71,50
+1056,Student_1056,China,New York,Male,Group_A,53,99,57,72
+1057,Student_1057,India,Berlin,Male,Group_C,63,91,82,89
+1058,Student_1058,UK,Mumbai,Male,Group_B,63,87,51,52
+1059,Student_1059,India,Berlin,Male,Group_A,65,94,79,52
+1060,Student_1060,Germany,Mumbai,Female,Group_C,56,91,96,56
+1061,Student_1061,USA,Berlin,Female,Group_A,81,67,69,85
+1062,Student_1062,USA,Beijing,Female,Group_A,68,69,67,84
+1063,Student_1063,UK,Mumbai,Male,Group_C,51,97,92,64
+1064,Student_1064,USA,Berlin,Male,Group_A,59,74,59,89
+1065,Student_1065,USA,New York,Female,Group_C,99,87,73,52
+1066,Student_1066,UK,Beijing,Female,Group_B,66,62,53,78
+1067,Student_1067,UK,Beijing,Male,Group_A,86,53,86,79
+1068,Student_1068,Germany,New York,Male,Group_B,61,63,53,88
+1069,Student_1069,USA,Berlin,Female,Group_B,55,82,62,67
+1070,Student_1070,USA,London,Male,Group_A,71,77,74,60
+1071,Student_1071,Germany,New York,Male,Group_C,81,86,62,92
+1072,Student_1072,China,Berlin,Female,Group_A,90,57,67,98
+1073,Student_1073,China,New York,Male,Group_B,69,93,73,87
+1074,Student_1074,China,New York,Female,Group_B,50,83,51,89
+1075,Student_1075,Germany,Mumbai,Male,Group_C,96,93,97,50
+1076,Student_1076,USA,Berlin,Female,Group_A,55,54,82,78
+1077,Student_1077,Germany,London,Male,Group_B,68,54,68,59
+1078,Student_1078,Germany,Mumbai,Female,Group_B,67,80,58,77
+1079,Student_1079,China,New York,Female,Group_B,55,94,77,80
+1080,Student_1080,India,New York,Female,Group_C,94,58,84,68
+1081,Student_1081,USA,New York,Female,Group_B,82,91,88,52
+1082,Student_1082,China,Berlin,Male,Group_B,72,81,59,85
+1083,Student_1083,India,Berlin,Male,Group_A,72,82,50,92
+1084,Student_1084,India,Mumbai,Female,Group_A,75,52,91,64
+1085,Student_1085,UK,London,Male,Group_B,62,79,70,82
+1086,Student_1086,USA,Mumbai,Male,Group_B,56,99,58,90
+1087,Student_1087,India,Beijing,Male,Group_A,64,61,96,92
+1088,Student_1088,China,New York,Male,Group_C,93,78,64,94
+1089,Student_1089,UK,New York,Male,Group_C,76,52,84,75
+1090,Student_1090,USA,New York,Female,Group_C,75,75,54,65
+1091,Student_1091,Germany,Mumbai,Female,Group_C,82,79,90,85
+1092,Student_1092,China,Mumbai,Female,Group_C,64,58,71,82
+1093,Student_1093,India,New York,Female,Group_C,85,75,90,69
+1094,Student_1094,India,Mumbai,Male,Group_C,94,51,72,62
+1095,Student_1095,China,Berlin,Male,Group_C,76,52,56,82
+1096,Student_1096,India,Berlin,Female,Group_A,54,95,72,54
+1097,Student_1097,UK,Mumbai,Male,Group_C,51,53,93,86
+1098,Student_1098,USA,New York,Male,Group_C,82,74,74,63
+1099,Student_1099,UK,Mumbai,Female,Group_C,65,62,76,76
+1100,Student_1100,India,Mumbai,Male,Group_B,72,88,90,72
+1101,Student_1101,Germany,Mumbai,Female,Group_A,87,93,55,63
+1102,Student_1102,USA,Beijing,Female,Group_A,65,84,83,89
+1103,Student_1103,USA,Berlin,Male,Group_A,63,72,58,53
+1104,Student_1104,China,London,Male,Group_C,78,58,98,88
+1105,Student_1105,China,London,Female,Group_C,75,51,82,68
+1106,Student_1106,Germany,Beijing,Female,Group_B,84,90,55,96
+1107,Student_1107,USA,Mumbai,Male,Group_A,64,93,86,53
+1108,Student_1108,Germany,Beijing,Female,Group_C,52,80,80,79
+1109,Student_1109,China,Beijing,Female,Group_A,72,93,83,68
+1110,Student_1110,China,New York,Female,Group_B,78,96,90,80
+1111,Student_1111,USA,Berlin,Male,Group_B,83,51,78,80
+1112,Student_1112,UK,London,Female,Group_B,82,81,63,58
+1113,Student_1113,India,Mumbai,Male,Group_A,90,67,85,62
+1114,Student_1114,China,London,Female,Group_C,90,62,85,63
+1115,Student_1115,China,London,Male,Group_C,72,95,64,95
+1116,Student_1116,UK,Berlin,Female,Group_B,56,54,57,59
+1117,Student_1117,UK,London,Male,Group_C,52,91,75,97
+1118,Student_1118,Germany,London,Male,Group_B,81,93,85,80
+1119,Student_1119,Germany,Beijing,Male,Group_A,80,59,97,86
+1120,Student_1120,India,Berlin,Female,Group_B,67,92,70,72
+1121,Student_1121,India,New York,Female,Group_A,92,74,77,76
+1122,Student_1122,USA,Mumbai,Female,Group_B,56,83,53,55
+1123,Student_1123,Germany,London,Male,Group_C,90,86,65,75
+1124,Student_1124,China,Mumbai,Female,Group_C,50,79,71,51
+1125,Student_1125,Germany,New York,Male,Group_B,63,56,61,94
+1126,Student_1126,China,Mumbai,Female,Group_C,81,55,65,62
+1127,Student_1127,UK,New York,Male,Group_C,55,52,89,99
+1128,Student_1128,Germany,Beijing,Male,Group_C,88,62,87,68
+1129,Student_1129,UK,London,Male,Group_A,59,52,91,50
+1130,Student_1130,India,New York,Female,Group_C,56,75,86,89
+1131,Student_1131,India,Mumbai,Female,Group_A,75,73,78,81
+1132,Student_1132,USA,London,Female,Group_B,83,55,67,71
+1133,Student_1133,Germany,Beijing,Male,Group_C,79,92,59,97
+1134,Student_1134,UK,London,Male,Group_C,85,98,91,78
+1135,Student_1135,China,New York,Female,Group_C,70,91,88,51
+1136,Student_1136,India,Beijing,Female,Group_B,66,61,67,89
+1137,Student_1137,India,Mumbai,Female,Group_A,82,98,50,87
+1138,Student_1138,China,Beijing,Male,Group_A,59,85,88,97
+1139,Student_1139,UK,Beijing,Male,Group_C,96,51,70,60
+1140,Student_1140,UK,Berlin,Male,Group_B,91,60,50,66
+1141,Student_1141,Germany,Beijing,Male,Group_B,61,88,64,92
+1142,Student_1142,Germany,Beijing,Male,Group_B,65,83,53,57
+1143,Student_1143,USA,London,Female,Group_B,90,75,69,71
+1144,Student_1144,India,Mumbai,Male,Group_B,81,67,59,53
+1145,Student_1145,Germany,London,Male,Group_A,64,70,72,60
+1146,Student_1146,UK,London,Male,Group_A,76,85,90,57
+1147,Student_1147,China,New York,Male,Group_A,77,89,83,58
+1148,Student_1148,UK,London,Male,Group_C,66,95,95,75
+1149,Student_1149,India,Berlin,Female,Group_B,95,93,97,51
+1150,Student_1150,UK,Berlin,Male,Group_C,99,71,82,65
+1151,Student_1151,USA,New York,Male,Group_B,51,79,83,80
+1152,Student_1152,India,Mumbai,Male,Group_A,85,99,88,55
+1153,Student_1153,China,Mumbai,Female,Group_C,99,92,59,70
+1154,Student_1154,USA,London,Female,Group_A,56,79,69,75
+1155,Student_1155,India,London,Female,Group_B,62,57,50,68
+1156,Student_1156,China,London,Male,Group_B,64,83,62,77
+1157,Student_1157,USA,Mumbai,Female,Group_B,74,96,50,57
+1158,Student_1158,USA,Beijing,Male,Group_A,72,58,54,63
+1159,Student_1159,India,Berlin,Male,Group_B,71,69,65,73
+1160,Student_1160,Germany,Beijing,Female,Group_A,75,89,64,97
+1161,Student_1161,USA,Beijing,Male,Group_C,82,74,98,93
+1162,Student_1162,USA,Mumbai,Male,Group_B,60,68,77,86
+1163,Student_1163,China,Beijing,Male,Group_B,59,54,80,75
+1164,Student_1164,UK,New York,Female,Group_B,74,60,72,80
+1165,Student_1165,India,London,Male,Group_C,86,64,97,81
+1166,Student_1166,India,New York,Male,Group_B,97,57,94,99
+1167,Student_1167,Germany,Berlin,Female,Group_A,92,68,92,90
+1168,Student_1168,Germany,London,Male,Group_A,87,72,66,51
+1169,Student_1169,India,Beijing,Male,Group_B,90,76,98,74
+1170,Student_1170,Germany,Berlin,Female,Group_B,94,89,83,93
+1171,Student_1171,China,London,Male,Group_C,73,81,62,51
+1172,Student_1172,India,Beijing,Male,Group_C,89,75,63,91
+1173,Student_1173,Germany,New York,Male,Group_C,95,76,60,50
+1174,Student_1174,India,London,Male,Group_B,82,68,77,85
+1175,Student_1175,UK,Beijing,Male,Group_C,66,99,91,61
+1176,Student_1176,USA,New York,Female,Group_C,73,91,81,58
+1177,Student_1177,India,Berlin,Female,Group_A,86,78,84,85
+1178,Student_1178,USA,Berlin,Female,Group_C,51,88,80,90
+1179,Student_1179,Germany,Berlin,Female,Group_A,81,90,66,77
+1180,Student_1180,USA,Berlin,Male,Group_A,73,82,96,87
+1181,Student_1181,India,Mumbai,Male,Group_C,58,68,58,82
+1182,Student_1182,UK,London,Male,Group_A,53,86,59,91
+1183,Student_1183,Germany,London,Male,Group_B,66,68,57,95
+1184,Student_1184,India,Mumbai,Male,Group_B,66,82,70,71
+1185,Student_1185,Germany,Beijing,Female,Group_C,99,96,62,74
+1186,Student_1186,China,Beijing,Female,Group_B,97,65,99,67
+1187,Student_1187,USA,Berlin,Male,Group_A,79,72,54,55
+1188,Student_1188,China,New York,Male,Group_B,89,56,55,67
+1189,Student_1189,India,Beijing,Male,Group_C,60,75,79,65
+1190,Student_1190,UK,New York,Female,Group_C,70,81,80,64
+1191,Student_1191,Germany,London,Male,Group_A,70,61,66,97
+1192,Student_1192,USA,New York,Male,Group_C,67,57,60,57
+1193,Student_1193,Germany,London,Male,Group_B,78,54,69,62
+1194,Student_1194,India,Mumbai,Female,Group_C,73,91,97,92
+1195,Student_1195,Germany,Mumbai,Male,Group_A,59,77,58,56
+1196,Student_1196,USA,Berlin,Female,Group_C,94,54,51,66
+1197,Student_1197,India,Beijing,Female,Group_B,66,98,86,99
+1198,Student_1198,Germany,Berlin,Female,Group_A,67,75,50,81
+1199,Student_1199,UK,London,Female,Group_B,91,54,53,71
+1200,Student_1200,India,Berlin,Female,Group_A,97,71,85,62
+1201,Student_1201,India,New York,Female,Group_C,69,64,74,96
+1202,Student_1202,UK,London,Male,Group_A,86,62,52,72
+1203,Student_1203,China,Mumbai,Male,Group_A,94,77,58,78
+1204,Student_1204,USA,Beijing,Male,Group_C,67,82,71,71
+1205,Student_1205,China,London,Female,Group_B,66,92,72,50
+1206,Student_1206,Germany,London,Male,Group_C,58,72,61,78
+1207,Student_1207,UK,New York,Female,Group_A,63,82,59,97
+1208,Student_1208,China,Beijing,Female,Group_C,98,92,83,54
+1209,Student_1209,India,Mumbai,Female,Group_A,78,67,92,84
+1210,Student_1210,Germany,London,Male,Group_C,80,99,59,59
+1211,Student_1211,Germany,London,Female,Group_C,53,79,79,68
+1212,Student_1212,China,New York,Female,Group_B,67,75,71,86
+1213,Student_1213,China,Berlin,Male,Group_A,69,65,55,56
+1214,Student_1214,UK,Mumbai,Male,Group_B,96,62,99,95
+1215,Student_1215,USA,Beijing,Female,Group_A,92,88,51,84
+1216,Student_1216,China,London,Female,Group_C,93,82,79,94
+1217,Student_1217,China,London,Male,Group_A,58,75,51,62
+1218,Student_1218,India,Mumbai,Male,Group_B,62,97,81,59
+1219,Student_1219,Germany,Berlin,Male,Group_B,64,50,91,51
+1220,Student_1220,USA,London,Female,Group_B,76,98,65,55
+1221,Student_1221,India,Mumbai,Male,Group_A,64,87,61,57
+1222,Student_1222,UK,New York,Male,Group_B,77,51,50,85
+1223,Student_1223,UK,Berlin,Male,Group_B,86,98,57,74
+1224,Student_1224,China,Beijing,Female,Group_B,68,55,97,93
+1225,Student_1225,China,London,Male,Group_C,75,95,99,96
+1226,Student_1226,UK,Mumbai,Male,Group_C,75,99,62,89
+1227,Student_1227,China,New York,Male,Group_A,74,87,64,56
+1228,Student_1228,USA,Beijing,Male,Group_A,75,91,93,95
+1229,Student_1229,China,Mumbai,Male,Group_B,75,73,57,72
+1230,Student_1230,Germany,Mumbai,Female,Group_C,95,67,59,68
+1231,Student_1231,China,Beijing,Female,Group_B,77,76,95,95
+1232,Student_1232,India,New York,Female,Group_B,98,90,54,71
+1233,Student_1233,USA,New York,Male,Group_C,67,57,99,62
+1234,Student_1234,India,Berlin,Female,Group_C,81,77,68,70
+1235,Student_1235,India,London,Female,Group_C,52,59,96,50
+1236,Student_1236,Germany,Beijing,Female,Group_A,51,66,87,68
+1237,Student_1237,USA,Beijing,Male,Group_A,82,78,60,82
+1238,Student_1238,USA,Beijing,Male,Group_B,91,55,92,53
+1239,Student_1239,USA,New York,Female,Group_A,68,63,69,91
+1240,Student_1240,USA,London,Female,Group_C,66,71,69,52
+1241,Student_1241,USA,Berlin,Male,Group_C,93,55,70,76
+1242,Student_1242,Germany,Mumbai,Male,Group_A,82,75,67,90
+1243,Student_1243,China,Mumbai,Female,Group_B,61,88,99,84
+1244,Student_1244,India,Beijing,Male,Group_B,98,61,59,77
+1245,Student_1245,USA,London,Female,Group_A,52,84,83,55
+1246,Student_1246,China,New York,Male,Group_B,92,63,75,55
+1247,Student_1247,China,London,Female,Group_B,98,71,79,93
+1248,Student_1248,India,London,Female,Group_B,75,72,58,72
+1249,Student_1249,Germany,New York,Male,Group_C,84,97,95,82
+1250,Student_1250,UK,Beijing,Female,Group_C,57,56,80,65
+1251,Student_1251,UK,London,Female,Group_A,85,89,91,73
+1252,Student_1252,China,Mumbai,Female,Group_C,56,99,53,54
+1253,Student_1253,India,New York,Male,Group_B,95,74,55,90
+1254,Student_1254,UK,Berlin,Male,Group_C,95,62,63,91
+1255,Student_1255,China,Beijing,Male,Group_A,85,70,53,62
+1256,Student_1256,Germany,New York,Female,Group_C,65,90,75,96
+1257,Student_1257,UK,Berlin,Male,Group_B,73,59,96,61
+1258,Student_1258,China,Berlin,Female,Group_B,50,58,97,54
+1259,Student_1259,China,London,Female,Group_A,98,64,88,86
+1260,Student_1260,USA,London,Male,Group_C,74,51,66,80
+1261,Student_1261,Germany,London,Male,Group_C,59,74,68,77
+1262,Student_1262,USA,New York,Female,Group_C,65,62,98,77
+1263,Student_1263,India,New York,Female,Group_B,65,83,55,79
+1264,Student_1264,USA,Beijing,Male,Group_A,57,83,78,67
+1265,Student_1265,USA,London,Male,Group_C,78,84,60,93
+1266,Student_1266,UK,Berlin,Male,Group_B,88,87,65,76
+1267,Student_1267,China,Mumbai,Female,Group_B,77,52,79,84
+1268,Student_1268,Germany,Beijing,Female,Group_B,55,91,74,75
+1269,Student_1269,USA,New York,Female,Group_C,65,55,89,88
+1270,Student_1270,Germany,Beijing,Female,Group_C,69,97,60,98
+1271,Student_1271,USA,Beijing,Female,Group_C,65,98,56,67
+1272,Student_1272,India,Beijing,Male,Group_C,56,68,75,82
+1273,Student_1273,USA,Beijing,Male,Group_C,90,52,71,74
+1274,Student_1274,UK,Mumbai,Female,Group_C,63,67,74,80
+1275,Student_1275,China,London,Female,Group_C,92,88,68,86
+1276,Student_1276,India,Berlin,Male,Group_C,75,58,80,51
+1277,Student_1277,USA,Beijing,Male,Group_C,75,61,75,82
+1278,Student_1278,Germany,Beijing,Male,Group_B,63,54,91,88
+1279,Student_1279,India,Beijing,Male,Group_C,56,52,90,92
+1280,Student_1280,India,London,Female,Group_A,82,60,85,92
+1281,Student_1281,USA,New York,Male,Group_B,75,79,72,81
+1282,Student_1282,India,New York,Female,Group_C,94,53,96,67
+1283,Student_1283,Germany,Mumbai,Male,Group_A,69,54,62,66
+1284,Student_1284,India,New York,Male,Group_C,52,50,74,83
+1285,Student_1285,Germany,Beijing,Male,Group_A,53,76,51,88
+1286,Student_1286,USA,Beijing,Female,Group_A,75,77,51,56
+1287,Student_1287,China,Beijing,Female,Group_A,60,78,65,91
+1288,Student_1288,India,Mumbai,Male,Group_A,51,67,58,84
+1289,Student_1289,China,Beijing,Female,Group_B,63,61,77,79
+1290,Student_1290,Germany,New York,Female,Group_B,93,62,62,61
+1291,Student_1291,India,London,Male,Group_A,79,90,84,84
+1292,Student_1292,UK,London,Male,Group_C,98,51,90,60
+1293,Student_1293,China,Berlin,Female,Group_A,61,86,62,93
+1294,Student_1294,India,New York,Female,Group_B,75,94,80,53
+1295,Student_1295,China,Beijing,Female,Group_C,93,65,70,74
+1296,Student_1296,India,London,Male,Group_B,82,97,81,97
+1297,Student_1297,USA,New York,Male,Group_B,62,73,83,81
+1298,Student_1298,China,London,Female,Group_C,63,84,57,69
+1299,Student_1299,UK,Beijing,Male,Group_A,73,71,90,99
+1300,Student_1300,UK,London,Male,Group_A,83,85,97,80
+1301,Student_1301,Germany,Berlin,Female,Group_A,93,60,51,53
+1302,Student_1302,India,Berlin,Female,Group_A,75,95,87,87
+1303,Student_1303,China,London,Male,Group_C,70,78,81,96
+1304,Student_1304,Germany,New York,Male,Group_C,77,84,89,50
+1305,Student_1305,China,New York,Female,Group_C,97,97,77,52
+1306,Student_1306,India,New York,Male,Group_B,85,64,86,86
+1307,Student_1307,UK,London,Male,Group_C,89,80,90,71
+1308,Student_1308,USA,New York,Female,Group_A,51,91,50,66
+1309,Student_1309,UK,Beijing,Female,Group_B,91,90,90,63
+1310,Student_1310,Germany,Berlin,Male,Group_A,58,92,59,90
+1311,Student_1311,USA,Beijing,Male,Group_A,72,65,53,84
+1312,Student_1312,Germany,New York,Male,Group_C,64,59,84,62
+1313,Student_1313,India,Beijing,Female,Group_C,62,98,59,84
+1314,Student_1314,USA,New York,Male,Group_A,72,81,96,92
+1315,Student_1315,Germany,London,Male,Group_A,66,51,60,51
+1316,Student_1316,India,Beijing,Female,Group_B,97,73,63,96
+1317,Student_1317,UK,London,Female,Group_C,51,72,87,62
+1318,Student_1318,India,London,Male,Group_B,69,51,61,65
+1319,Student_1319,China,Mumbai,Female,Group_B,69,87,94,67
+1320,Student_1320,India,New York,Female,Group_B,95,80,66,56
+1321,Student_1321,India,Berlin,Male,Group_A,52,89,65,94
+1322,Student_1322,China,New York,Female,Group_B,61,75,84,85
+1323,Student_1323,Germany,Berlin,Female,Group_B,89,78,51,90
+1324,Student_1324,Germany,New York,Male,Group_A,51,52,60,79
+1325,Student_1325,India,London,Female,Group_C,85,63,90,91
+1326,Student_1326,China,Beijing,Male,Group_C,63,74,52,90
+1327,Student_1327,China,Beijing,Male,Group_B,65,97,78,56
+1328,Student_1328,UK,Mumbai,Female,Group_A,68,50,67,64
+1329,Student_1329,Germany,Berlin,Female,Group_C,83,52,69,89
+1330,Student_1330,USA,Berlin,Female,Group_B,93,75,96,68
+1331,Student_1331,Germany,Berlin,Male,Group_B,95,67,63,92
+1332,Student_1332,Germany,London,Female,Group_A,55,58,83,86
+1333,Student_1333,UK,Berlin,Male,Group_B,62,87,98,51
+1334,Student_1334,USA,Beijing,Female,Group_C,85,72,80,91
+1335,Student_1335,UK,London,Female,Group_A,71,70,89,97
+1336,Student_1336,USA,New York,Female,Group_C,67,50,91,62
+1337,Student_1337,India,Berlin,Male,Group_C,61,70,67,89
+1338,Student_1338,USA,Berlin,Female,Group_C,79,76,79,90
+1339,Student_1339,UK,New York,Female,Group_B,89,91,74,92
+1340,Student_1340,Germany,Berlin,Male,Group_B,56,55,68,92
+1341,Student_1341,USA,New York,Male,Group_C,81,93,57,80
+1342,Student_1342,USA,London,Female,Group_C,97,85,77,65
+1343,Student_1343,China,Beijing,Female,Group_A,68,77,57,91
+1344,Student_1344,Germany,New York,Female,Group_A,55,94,80,93
+1345,Student_1345,India,Mumbai,Male,Group_B,69,66,52,55
+1346,Student_1346,UK,New York,Male,Group_B,76,89,52,77
+1347,Student_1347,India,Berlin,Male,Group_A,92,52,93,81
+1348,Student_1348,Germany,London,Male,Group_C,86,61,71,93
+1349,Student_1349,USA,London,Female,Group_B,97,88,66,59
+1350,Student_1350,USA,New York,Male,Group_C,56,61,85,99
+1351,Student_1351,Germany,Beijing,Male,Group_A,54,51,66,67
+1352,Student_1352,USA,Mumbai,Male,Group_B,60,95,63,53
+1353,Student_1353,USA,London,Female,Group_B,64,71,58,58
+1354,Student_1354,USA,Berlin,Female,Group_A,52,72,79,56
+1355,Student_1355,UK,Berlin,Male,Group_B,54,79,70,99
+1356,Student_1356,UK,Beijing,Male,Group_A,72,54,61,57
+1357,Student_1357,China,London,Female,Group_B,86,58,86,92
+1358,Student_1358,India,New York,Female,Group_A,58,70,81,56
+1359,Student_1359,Germany,Berlin,Female,Group_B,64,60,60,90
+1360,Student_1360,Germany,Beijing,Female,Group_C,52,54,69,89
+1361,Student_1361,Germany,London,Female,Group_C,78,84,84,52
+1362,Student_1362,China,London,Female,Group_C,55,76,96,66
+1363,Student_1363,UK,London,Female,Group_B,66,98,95,51
+1364,Student_1364,China,London,Female,Group_B,75,51,60,64
+1365,Student_1365,Germany,London,Male,Group_C,70,73,57,95
+1366,Student_1366,India,Berlin,Male,Group_C,57,80,53,78
+1367,Student_1367,USA,Beijing,Male,Group_A,70,82,76,99
+1368,Student_1368,UK,London,Male,Group_A,60,88,93,97
+1369,Student_1369,UK,Mumbai,Male,Group_A,87,79,89,71
+1370,Student_1370,China,Mumbai,Male,Group_C,57,95,87,53
+1371,Student_1371,UK,Beijing,Female,Group_C,91,86,96,55
+1372,Student_1372,Germany,New York,Female,Group_C,73,77,79,87
+1373,Student_1373,Germany,New York,Male,Group_A,84,80,93,75
+1374,Student_1374,China,New York,Male,Group_B,63,60,97,60
+1375,Student_1375,Germany,Mumbai,Female,Group_C,63,72,97,75
+1376,Student_1376,India,New York,Female,Group_B,59,51,76,66
+1377,Student_1377,China,Berlin,Female,Group_B,61,89,70,73
+1378,Student_1378,India,London,Male,Group_B,87,90,69,77
+1379,Student_1379,USA,Mumbai,Female,Group_A,93,76,53,84
+1380,Student_1380,India,Beijing,Male,Group_B,95,84,60,80
+1381,Student_1381,USA,Beijing,Male,Group_C,83,51,62,62
+1382,Student_1382,USA,London,Female,Group_A,90,88,58,84
+1383,Student_1383,India,Mumbai,Female,Group_C,59,86,53,65
+1384,Student_1384,China,New York,Male,Group_C,66,70,61,64
+1385,Student_1385,Germany,New York,Female,Group_A,66,54,58,92
+1386,Student_1386,Germany,Berlin,Female,Group_C,52,94,62,67
+1387,Student_1387,USA,Berlin,Male,Group_C,80,70,97,96
+1388,Student_1388,USA,New York,Female,Group_A,50,78,75,86
+1389,Student_1389,China,Beijing,Male,Group_C,61,69,87,97
+1390,Student_1390,UK,Beijing,Male,Group_B,88,87,91,97
+1391,Student_1391,India,Berlin,Female,Group_C,53,69,62,98
+1392,Student_1392,USA,London,Male,Group_B,91,99,88,90
+1393,Student_1393,Germany,New York,Male,Group_C,62,74,77,76
+1394,Student_1394,China,Berlin,Female,Group_A,83,51,68,84
+1395,Student_1395,India,Berlin,Female,Group_A,91,81,73,94
+1396,Student_1396,China,New York,Female,Group_C,70,75,68,84
+1397,Student_1397,India,New York,Male,Group_A,71,55,98,77
+1398,Student_1398,India,Beijing,Male,Group_C,53,90,62,88
+1399,Student_1399,USA,London,Female,Group_A,67,52,62,87
+1400,Student_1400,China,London,Male,Group_B,54,82,77,58
+1401,Student_1401,China,New York,Female,Group_C,68,50,51,61
+1402,Student_1402,Germany,Mumbai,Female,Group_B,51,54,59,64
+1403,Student_1403,Germany,Berlin,Male,Group_B,61,62,71,70
+1404,Student_1404,USA,Berlin,Female,Group_C,66,68,62,84
+1405,Student_1405,USA,New York,Male,Group_B,59,61,58,91
+1406,Student_1406,UK,Mumbai,Male,Group_C,83,97,82,82
+1407,Student_1407,Germany,Beijing,Female,Group_B,55,74,63,68
+1408,Student_1408,India,New York,Male,Group_C,57,84,97,72
+1409,Student_1409,China,New York,Female,Group_C,60,61,69,62
+1410,Student_1410,USA,Berlin,Male,Group_A,61,79,64,93
+1411,Student_1411,China,New York,Male,Group_C,58,54,81,50
+1412,Student_1412,China,New York,Male,Group_C,51,83,82,78
+1413,Student_1413,UK,New York,Female,Group_B,57,71,66,73
+1414,Student_1414,Germany,Berlin,Male,Group_C,60,88,73,65
+1415,Student_1415,USA,Beijing,Female,Group_A,85,62,79,74
+1416,Student_1416,China,Beijing,Male,Group_B,59,96,62,72
+1417,Student_1417,USA,New York,Male,Group_B,70,52,96,77
+1418,Student_1418,India,Berlin,Female,Group_A,69,69,97,96
+1419,Student_1419,UK,Beijing,Female,Group_B,97,80,65,65
+1420,Student_1420,India,Beijing,Female,Group_B,57,54,51,92
+1421,Student_1421,USA,Beijing,Female,Group_B,85,73,66,87
+1422,Student_1422,USA,Berlin,Female,Group_B,78,89,81,60
+1423,Student_1423,Germany,Berlin,Male,Group_A,91,82,92,52
+1424,Student_1424,China,New York,Male,Group_A,61,57,57,64
+1425,Student_1425,China,London,Female,Group_B,63,73,52,50
+1426,Student_1426,India,Beijing,Male,Group_B,97,99,61,56
+1427,Student_1427,UK,London,Male,Group_A,99,69,69,50
+1428,Student_1428,China,Berlin,Male,Group_A,70,65,65,98
+1429,Student_1429,Germany,Berlin,Female,Group_A,71,99,63,81
+1430,Student_1430,India,Berlin,Male,Group_B,70,61,65,58
+1431,Student_1431,India,London,Male,Group_B,93,62,98,78
+1432,Student_1432,Germany,Berlin,Male,Group_C,99,94,92,75
+1433,Student_1433,UK,New York,Female,Group_A,79,91,98,72
+1434,Student_1434,Germany,Berlin,Male,Group_B,88,88,82,94
+1435,Student_1435,UK,Mumbai,Male,Group_A,69,74,79,92
+1436,Student_1436,Germany,London,Female,Group_B,73,95,61,78
+1437,Student_1437,Germany,Mumbai,Female,Group_A,72,81,64,87
+1438,Student_1438,USA,Berlin,Male,Group_B,56,73,67,82
+1439,Student_1439,India,New York,Male,Group_C,58,97,77,56
+1440,Student_1440,Germany,Beijing,Female,Group_C,50,96,72,61
+1441,Student_1441,Germany,Berlin,Female,Group_A,75,93,63,80
+1442,Student_1442,China,New York,Female,Group_B,87,58,79,81
+1443,Student_1443,India,London,Female,Group_B,87,89,82,69
+1444,Student_1444,China,Mumbai,Female,Group_A,93,99,94,66
+1445,Student_1445,India,Mumbai,Female,Group_B,71,72,64,85
+1446,Student_1446,China,Mumbai,Female,Group_A,93,99,56,52
+1447,Student_1447,Germany,London,Male,Group_B,59,62,64,50
+1448,Student_1448,Germany,New York,Female,Group_A,55,81,91,99
+1449,Student_1449,USA,London,Female,Group_B,66,99,95,76
+1450,Student_1450,China,Mumbai,Male,Group_A,99,64,87,96
+1451,Student_1451,UK,Berlin,Female,Group_B,87,85,95,89
+1452,Student_1452,USA,Beijing,Female,Group_C,73,98,93,82
+1453,Student_1453,China,London,Male,Group_B,59,54,60,69
+1454,Student_1454,China,London,Female,Group_A,57,71,78,63
+1455,Student_1455,USA,New York,Male,Group_C,70,65,80,85
+1456,Student_1456,Germany,New York,Male,Group_B,55,90,74,54
+1457,Student_1457,China,London,Male,Group_C,70,59,73,72
+1458,Student_1458,Germany,Mumbai,Male,Group_B,88,73,68,94
+1459,Student_1459,USA,Beijing,Female,Group_C,73,67,51,64
+1460,Student_1460,Germany,New York,Male,Group_A,82,98,71,55
+1461,Student_1461,India,Mumbai,Male,Group_B,67,67,69,82
+1462,Student_1462,UK,Berlin,Female,Group_B,77,56,82,68
+1463,Student_1463,China,New York,Male,Group_A,81,53,57,62
+1464,Student_1464,UK,Mumbai,Male,Group_C,61,75,74,78
+1465,Student_1465,Germany,Mumbai,Male,Group_A,97,54,95,55
+1466,Student_1466,China,Beijing,Male,Group_A,91,65,58,64
+1467,Student_1467,Germany,Beijing,Female,Group_C,76,84,83,65
+1468,Student_1468,India,Berlin,Male,Group_A,59,75,72,73
+1469,Student_1469,USA,Mumbai,Female,Group_B,95,67,54,72
+1470,Student_1470,China,Mumbai,Female,Group_B,91,78,74,97
+1471,Student_1471,India,Beijing,Male,Group_B,81,72,57,59
+1472,Student_1472,India,New York,Male,Group_A,91,63,65,90
+1473,Student_1473,China,New York,Male,Group_B,75,64,97,90
+1474,Student_1474,Germany,London,Male,Group_B,74,98,94,98
+1475,Student_1475,India,Beijing,Female,Group_B,60,82,64,66
+1476,Student_1476,UK,London,Female,Group_B,72,74,50,98
+1477,Student_1477,India,Beijing,Female,Group_B,83,70,71,93
+1478,Student_1478,Germany,Berlin,Male,Group_B,89,66,52,94
+1479,Student_1479,Germany,Mumbai,Female,Group_A,72,72,87,79
+1480,Student_1480,UK,Berlin,Male,Group_B,78,92,63,93
+1481,Student_1481,India,Beijing,Male,Group_B,80,66,85,95
+1482,Student_1482,Germany,Mumbai,Male,Group_C,56,63,67,59
+1483,Student_1483,China,New York,Male,Group_A,89,78,96,68
+1484,Student_1484,USA,New York,Male,Group_A,82,69,90,78
+1485,Student_1485,USA,London,Female,Group_A,70,79,67,51
+1486,Student_1486,USA,Beijing,Female,Group_A,51,68,52,85
+1487,Student_1487,India,Beijing,Male,Group_B,67,88,59,68
+1488,Student_1488,UK,New York,Female,Group_B,96,62,98,56
+1489,Student_1489,Germany,Berlin,Male,Group_C,82,67,88,75
+1490,Student_1490,China,Mumbai,Male,Group_C,86,72,96,64
+1491,Student_1491,China,Berlin,Male,Group_A,83,95,50,96
+1492,Student_1492,India,Berlin,Female,Group_C,69,82,76,87
+1493,Student_1493,USA,New York,Male,Group_C,84,88,76,52
+1494,Student_1494,India,New York,Male,Group_A,99,89,60,87
+1495,Student_1495,UK,New York,Female,Group_A,67,67,98,65
+1496,Student_1496,UK,London,Female,Group_C,95,58,54,51
+1497,Student_1497,Germany,Berlin,Female,Group_B,73,82,56,80
+1498,Student_1498,Germany,Beijing,Male,Group_C,57,81,68,77
+1499,Student_1499,UK,Mumbai,Male,Group_C,79,66,78,56
+1500,Student_1500,UK,London,Female,Group_B,93,68,64,79

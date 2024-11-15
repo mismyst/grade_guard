@@ -1,0 +1,1501 @@
+id,name,english.grade,math.grade,sciences.grade,language.grade,nationality,city,gender,ethnic.group
+1,Student_1,22.71,4.36,23.3,47.05,Canadian,London,Male,Group B
+2,Student_2,6.4,5.77,26.98,35.15,Indian,Toronto,Female,Group E
+3,Student_3,11.04,63.16,39.72,37.83,Australian,New York,Male,Group B
+4,Student_4,85.43,96.31,1.26,4.06,Australian,Mumbai,Other,Group C
+5,Student_5,54.5,87.87,65.16,27.25,Indian,Toronto,Other,Group E
+6,Student_6,88.2,2.3,13.86,49.17,Indian,Mumbai,Other,Group E
+7,Student_7,89.02,71.98,79.44,14.98,Canadian,Toronto,Other,Group A
+8,Student_8,53.37,8.28,79.46,71.53,Indian,Toronto,Male,Group D
+9,Student_9,14.63,90.9,78.3,79.11,Canadian,Toronto,Female,Group D
+10,Student_10,36.77,33.67,37.66,2.35,Indian,New York,Male,Group D
+11,Student_11,65.91,44.78,24.97,55.46,American,London,Male,Group C
+12,Student_12,28.2,46.15,34.68,16.3,British,London,Male,Group C
+13,Student_13,24.4,93.72,78.69,16.49,American,Sydney,Male,Group E
+14,Student_14,30.14,98.59,61.22,8.72,Canadian,Sydney,Male,Group A
+15,Student_15,1.94,23.58,49.19,46.57,Australian,London,Male,Group A
+16,Student_16,40.65,56.43,24.2,32.88,Canadian,Sydney,Other,Group A
+17,Student_17,70.66,36.81,96.11,66.17,Canadian,New York,Female,Group D
+18,Student_18,73.47,2.04,11.4,11.82,American,New York,Female,Group D
+19,Student_19,12.33,22.88,98.85,55.39,Indian,Sydney,Male,Group A
+20,Student_20,86.76,84.85,46.34,40.92,American,London,Female,Group C
+21,Student_21,38.59,30.36,49.45,91.43,Canadian,Sydney,Other,Group E
+22,Student_22,39.6,51.95,55.49,20.2,Canadian,New York,Female,Group E
+23,Student_23,95.63,28.28,35.07,36.94,British,Sydney,Male,Group B
+24,Student_24,71.71,42.32,16.8,26.2,Australian,Toronto,Female,Group D
+25,Student_25,72.96,93.36,16.0,78.16,Australian,Mumbai,Female,Group C
+26,Student_26,14.55,71.85,22.84,54.77,Canadian,New York,Female,Group A
+27,Student_27,1.21,97.33,2.53,17.62,Indian,Sydney,Other,Group B
+28,Student_28,39.73,5.3,56.14,23.19,Australian,Mumbai,Male,Group D
+29,Student_29,50.39,74.32,69.62,2.62,Canadian,Mumbai,Other,Group C
+30,Student_30,88.77,40.32,82.58,80.12,Australian,Toronto,Other,Group E
+31,Student_31,95.66,51.9,77.14,99.1,American,Sydney,Other,Group C
+32,Student_32,86.93,77.01,43.4,76.43,American,Mumbai,Female,Group E
+33,Student_33,4.24,26.47,55.23,25.9,British,Mumbai,Female,Group A
+34,Student_34,36.03,62.88,8.24,17.88,Australian,London,Other,Group C
+35,Student_35,27.42,24.04,79.62,95.5,Indian,Mumbai,Other,Group A
+36,Student_36,61.74,74.92,28.25,37.58,British,New York,Male,Group A
+37,Student_37,3.33,53.98,65.59,2.33,British,Sydney,Female,Group A
+38,Student_38,33.13,90.94,0.29,63.36,Canadian,Mumbai,Male,Group A
+39,Student_39,87.43,85.96,22.57,13.12,Australian,Toronto,Other,Group C
+40,Student_40,50.63,25.47,86.84,16.88,Indian,London,Female,Group C
+41,Student_41,15.65,89.33,48.46,7.37,Canadian,London,Female,Group B
+42,Student_42,51.56,89.63,13.97,33.59,Indian,New York,Male,Group A
+43,Student_43,2.38,5.82,84.06,81.79,Canadian,Mumbai,Male,Group B
+44,Student_44,47.77,38.35,15.39,51.93,British,Mumbai,Male,Group C
+45,Student_45,97.54,52.18,38.39,7.94,Canadian,New York,Male,Group B
+46,Student_46,61.77,50.52,48.88,21.19,British,New York,Female,Group E
+47,Student_47,99.92,19.68,20.1,33.47,Australian,Mumbai,Female,Group B
+48,Student_48,44.88,47.85,94.45,97.69,American,Sydney,Other,Group B
+49,Student_49,79.53,69.55,15.34,62.37,Indian,Mumbai,Male,Group C
+50,Student_50,32.89,46.3,17.59,62.27,British,Toronto,Other,Group B
+51,Student_51,91.66,64.69,63.2,21.49,Australian,Toronto,Other,Group E
+52,Student_52,38.1,77.01,17.07,9.14,British,New York,Female,Group B
+53,Student_53,92.2,40.66,46.79,99.59,American,London,Male,Group D
+54,Student_54,48.88,75.41,1.75,40.87,British,London,Other,Group C
+55,Student_55,48.6,66.18,66.43,37.34,American,Sydney,Other,Group E
+56,Student_56,20.57,6.98,51.55,19.5,Australian,London,Other,Group D
+57,Student_57,32.78,80.3,29.49,81.98,American,Mumbai,Other,Group C
+58,Student_58,7.55,61.34,52.13,45.33,Canadian,Mumbai,Other,Group E
+59,Student_59,51.09,38.37,68.23,68.49,Australian,Toronto,Other,Group D
+60,Student_60,48.11,14.88,84.08,46.47,Indian,Sydney,Other,Group C
+61,Student_61,40.16,74.78,20.58,69.42,British,London,Other,Group B
+62,Student_62,31.3,82.31,50.17,70.72,Indian,Mumbai,Other,Group A
+63,Student_63,92.73,36.91,13.86,39.15,Indian,New York,Male,Group C
+64,Student_64,84.55,89.87,27.52,53.83,American,Toronto,Other,Group D
+65,Student_65,37.22,13.72,61.33,62.97,British,Mumbai,Male,Group D
+66,Student_66,13.02,62.15,21.47,8.97,British,Toronto,Other,Group D
+67,Student_67,13.03,67.1,11.49,20.83,Canadian,Mumbai,Female,Group D
+68,Student_68,3.22,34.68,20.43,40.0,British,London,Male,Group B
+69,Student_69,30.92,62.63,59.86,73.93,American,Toronto,Other,Group A
+70,Student_70,33.37,25.09,41.45,58.46,British,New York,Female,Group D
+71,Student_71,75.68,70.21,18.48,32.31,Canadian,Sydney,Female,Group C
+72,Student_72,71.42,34.94,39.92,61.66,British,London,Male,Group D
+73,Student_73,39.62,95.41,64.76,83.88,British,London,Female,Group B
+74,Student_74,22.0,4.53,52.5,60.77,Canadian,Toronto,Male,Group A
+75,Student_75,37.7,68.86,70.52,76.64,Indian,Sydney,Male,Group E
+76,Student_76,22.27,30.07,10.29,94.95,Indian,New York,Female,Group D
+77,Student_77,70.21,87.98,50.95,3.28,Australian,New York,Female,Group E
+78,Student_78,67.95,50.6,69.25,7.61,Australian,Sydney,Male,Group C
+79,Student_79,20.49,44.66,93.88,35.01,American,Mumbai,Male,Group B
+80,Student_80,0.85,45.57,22.3,32.59,Indian,Mumbai,Male,Group C
+81,Student_81,6.59,91.04,98.94,98.34,Australian,London,Male,Group A
+82,Student_82,33.88,42.33,30.0,32.42,Canadian,Sydney,Other,Group B
+83,Student_83,19.25,75.35,67.49,60.64,Australian,New York,Female,Group A
+84,Student_84,46.33,39.05,16.31,45.32,Canadian,Mumbai,Other,Group C
+85,Student_85,70.65,66.46,59.04,83.88,American,New York,Male,Group E
+86,Student_86,62.57,24.18,96.41,36.73,British,London,Female,Group B
+87,Student_87,26.02,62.32,71.54,61.13,British,Mumbai,Female,Group B
+88,Student_88,35.97,33.02,74.29,88.67,Indian,Mumbai,Male,Group A
+89,Student_89,20.15,93.95,24.73,75.5,American,London,Female,Group B
+90,Student_90,66.19,12.55,28.51,17.06,American,New York,Male,Group E
+91,Student_91,70.43,92.74,86.6,77.0,Indian,New York,Other,Group D
+92,Student_92,86.45,15.83,58.24,99.1,American,Sydney,Male,Group D
+93,Student_93,84.47,9.71,40.17,16.26,American,London,Other,Group A
+94,Student_94,74.71,66.32,32.01,86.08,Indian,Mumbai,Other,Group C
+95,Student_95,38.45,8.52,57.33,32.65,Canadian,New York,Female,Group C
+96,Student_96,24.59,99.25,37.53,3.4,Australian,Toronto,Male,Group D
+97,Student_97,74.17,72.17,18.38,69.44,Indian,Mumbai,Female,Group E
+98,Student_98,98.97,59.14,7.87,38.46,Canadian,Toronto,Female,Group A
+99,Student_99,19.85,39.77,71.26,51.74,Indian,Toronto,Male,Group B
+100,Student_100,98.03,8.09,38.48,68.22,Canadian,Sydney,Female,Group B
+101,Student_101,33.44,68.96,29.83,68.68,Canadian,Sydney,Male,Group A
+102,Student_102,24.42,14.68,86.49,26.7,Australian,New York,Female,Group B
+103,Student_103,0.5,42.31,47.57,74.18,British,New York,Male,Group C
+104,Student_104,66.13,33.84,59.86,52.31,American,Toronto,Male,Group C
+105,Student_105,99.59,7.04,11.39,32.44,Indian,Toronto,Female,Group B
+106,Student_106,27.31,69.95,66.36,46.02,Indian,New York,Other,Group D
+107,Student_107,0.82,72.26,54.22,62.53,Canadian,London,Female,Group B
+108,Student_108,41.56,98.69,16.42,56.94,Indian,Sydney,Other,Group D
+109,Student_109,51.66,47.16,83.96,51.73,Australian,Toronto,Female,Group D
+110,Student_110,40.1,39.47,70.52,54.39,American,London,Male,Group C
+111,Student_111,12.5,76.97,83.65,8.94,American,London,Female,Group A
+112,Student_112,36.61,37.4,66.13,47.82,American,Toronto,Female,Group E
+113,Student_113,43.0,44.75,78.35,3.5,Australian,Toronto,Female,Group A
+114,Student_114,35.09,22.75,84.75,86.2,Australian,Toronto,Female,Group B
+115,Student_115,33.71,54.03,29.67,95.06,British,Mumbai,Female,Group C
+116,Student_116,0.87,7.19,37.92,63.36,American,Sydney,Male,Group E
+117,Student_117,4.39,52.59,91.08,95.94,Indian,Mumbai,Female,Group A
+118,Student_118,85.34,80.9,5.0,79.49,British,Sydney,Other,Group D
+119,Student_119,36.97,40.56,69.69,47.06,British,Sydney,Female,Group B
+120,Student_120,65.91,88.64,88.06,13.02,Canadian,New York,Female,Group D
+121,Student_121,34.19,66.86,1.08,73.97,Australian,New York,Male,Group A
+122,Student_122,81.62,83.97,63.1,17.19,American,Sydney,Other,Group E
+123,Student_123,40.42,27.91,89.24,99.71,Indian,Mumbai,Other,Group A
+124,Student_124,12.66,20.07,35.31,92.34,Indian,Mumbai,Other,Group B
+125,Student_125,65.54,34.07,22.39,79.53,American,New York,Other,Group D
+126,Student_126,54.15,3.47,28.95,6.48,American,Toronto,Other,Group E
+127,Student_127,43.1,29.84,89.46,31.01,American,Mumbai,Male,Group B
+128,Student_128,80.79,70.89,4.63,47.46,Canadian,Toronto,Other,Group B
+129,Student_129,79.5,38.27,59.19,79.13,British,London,Other,Group D
+130,Student_130,67.25,74.4,59.72,17.26,Indian,Mumbai,Female,Group B
+131,Student_131,14.78,46.25,25.24,95.61,Canadian,Sydney,Other,Group E
+132,Student_132,97.45,70.31,26.91,82.87,American,New York,Other,Group B
+133,Student_133,73.23,14.89,65.03,57.48,Australian,Sydney,Female,Group D
+134,Student_134,15.34,88.81,2.83,56.6,Canadian,Sydney,Other,Group E
+135,Student_135,26.56,31.78,40.29,99.02,Australian,Mumbai,Male,Group D
+136,Student_136,2.53,46.88,72.39,41.55,Canadian,Sydney,Male,Group D
+137,Student_137,57.47,44.11,92.16,45.42,American,New York,Other,Group E
+138,Student_138,68.18,24.62,89.82,57.82,American,Sydney,Male,Group A
+139,Student_139,46.48,38.16,76.85,56.07,Australian,Sydney,Male,Group C
+140,Student_140,22.97,57.47,24.6,83.43,American,Toronto,Female,Group C
+141,Student_141,20.78,63.25,31.02,52.62,British,Mumbai,Other,Group D
+142,Student_142,59.8,9.56,62.37,30.49,Australian,Toronto,Female,Group B
+143,Student_143,95.26,69.45,5.43,37.3,Australian,London,Other,Group D
+144,Student_144,76.47,4.01,75.77,18.62,Canadian,London,Other,Group B
+145,Student_145,70.98,54.84,77.28,55.51,American,New York,Male,Group A
+146,Student_146,99.96,87.99,9.5,66.69,Indian,New York,Male,Group C
+147,Student_147,97.03,63.93,98.19,77.63,Indian,Mumbai,Female,Group A
+148,Student_148,79.36,84.14,34.99,20.84,Canadian,London,Female,Group E
+149,Student_149,18.12,70.06,9.66,92.52,Australian,Toronto,Female,Group B
+150,Student_150,5.32,13.96,5.56,29.8,Canadian,New York,Other,Group E
+151,Student_151,83.59,34.06,85.8,38.78,British,Mumbai,Female,Group C
+152,Student_152,30.91,4.43,43.86,33.83,Indian,Mumbai,Female,Group C
+153,Student_153,44.26,40.65,33.36,23.51,Canadian,Toronto,Female,Group D
+154,Student_154,59.88,43.58,13.18,5.92,American,Toronto,Female,Group A
+155,Student_155,10.41,84.0,26.26,31.16,Canadian,New York,Male,Group B
+156,Student_156,43.74,12.2,58.38,16.38,Indian,New York,Other,Group B
+157,Student_157,42.97,22.13,8.14,95.24,American,Mumbai,Other,Group B
+158,Student_158,31.72,86.0,43.29,65.53,Indian,Toronto,Other,Group A
+159,Student_159,12.65,73.86,79.1,65.99,Canadian,New York,Other,Group B
+160,Student_160,82.94,77.78,3.72,0.4,Australian,Sydney,Other,Group D
+161,Student_161,54.49,8.47,34.69,83.39,British,New York,Male,Group A
+162,Student_162,74.54,86.99,75.63,61.04,Canadian,Sydney,Male,Group E
+163,Student_163,39.31,16.09,72.73,26.53,Australian,Sydney,Female,Group C
+164,Student_164,3.23,31.62,82.51,7.76,American,Sydney,Male,Group D
+165,Student_165,76.91,39.88,9.06,17.01,Indian,Sydney,Male,Group E
+166,Student_166,33.5,11.79,39.07,19.82,British,Toronto,Female,Group A
+167,Student_167,69.71,72.51,94.46,43.73,Indian,London,Female,Group B
+168,Student_168,72.42,86.25,44.04,62.92,Canadian,London,Other,Group C
+169,Student_169,37.88,80.44,13.93,88.77,Canadian,Toronto,Other,Group E
+170,Student_170,0.28,85.41,77.75,72.87,Canadian,New York,Male,Group E
+171,Student_171,78.19,35.91,18.09,4.01,Canadian,Sydney,Female,Group A
+172,Student_172,92.32,70.02,46.27,24.38,Canadian,Toronto,Male,Group C
+173,Student_173,99.12,55.04,89.47,9.04,Indian,London,Female,Group D
+174,Student_174,87.7,76.06,15.55,20.73,Canadian,London,Male,Group C
+175,Student_175,4.05,55.83,22.47,23.07,British,London,Male,Group D
+176,Student_176,70.46,4.72,36.46,93.39,Indian,New York,Female,Group D
+177,Student_177,12.72,99.49,10.92,97.85,American,Toronto,Male,Group C
+178,Student_178,46.57,29.33,23.58,45.75,British,London,Male,Group E
+179,Student_179,12.26,20.75,9.4,86.15,Canadian,Sydney,Female,Group A
+180,Student_180,19.67,98.29,6.22,30.35,American,Mumbai,Other,Group C
+181,Student_181,72.43,62.18,76.19,68.68,Canadian,New York,Female,Group E
+182,Student_182,34.62,51.32,99.87,8.41,Australian,Mumbai,Other,Group B
+183,Student_183,24.6,84.99,93.43,22.95,Australian,Toronto,Male,Group D
+184,Student_184,78.44,82.64,75.9,10.23,Canadian,Toronto,Other,Group B
+185,Student_185,68.06,6.07,61.72,63.85,British,New York,Male,Group B
+186,Student_186,70.23,84.89,42.31,72.05,Indian,Sydney,Male,Group B
+187,Student_187,39.03,60.26,18.83,33.35,Indian,London,Male,Group C
+188,Student_188,72.18,81.79,5.53,76.7,Australian,Mumbai,Female,Group E
+189,Student_189,56.27,75.14,91.91,14.13,Canadian,New York,Other,Group B
+190,Student_190,94.06,2.87,23.55,36.05,British,Mumbai,Other,Group B
+191,Student_191,82.81,27.95,20.87,35.99,Canadian,New York,Female,Group A
+192,Student_192,47.03,57.67,48.93,10.86,Australian,Sydney,Female,Group E
+193,Student_193,5.76,10.98,60.47,63.24,British,Sydney,Female,Group A
+194,Student_194,59.33,88.43,64.28,0.4,Canadian,New York,Male,Group D
+195,Student_195,31.86,69.03,93.94,12.15,Australian,Toronto,Male,Group B
+196,Student_196,78.83,90.71,77.06,36.7,Indian,New York,Male,Group E
+197,Student_197,29.22,59.99,0.25,91.16,Australian,London,Female,Group B
+198,Student_198,12.74,47.33,15.24,96.67,British,Mumbai,Female,Group A
+199,Student_199,20.4,72.73,73.66,36.25,British,New York,Female,Group A
+200,Student_200,22.38,7.6,86.78,12.98,British,London,Female,Group B
+201,Student_201,23.87,97.11,0.0,56.49,Australian,London,Other,Group C
+202,Student_202,75.37,89.5,40.96,53.25,Australian,Sydney,Male,Group B
+203,Student_203,84.39,45.66,21.76,0.05,Australian,Mumbai,Other,Group B
+204,Student_204,43.7,79.32,53.52,5.03,American,New York,Male,Group B
+205,Student_205,31.26,86.79,22.1,66.75,British,Mumbai,Other,Group B
+206,Student_206,45.06,5.58,54.07,13.63,Indian,London,Other,Group E
+207,Student_207,44.99,34.97,58.02,78.23,British,Toronto,Male,Group A
+208,Student_208,70.05,99.66,10.22,58.88,American,Sydney,Other,Group C
+209,Student_209,26.64,14.59,48.15,16.04,American,Toronto,Male,Group C
+210,Student_210,75.93,61.48,21.23,29.29,Canadian,Mumbai,Male,Group B
+211,Student_211,50.78,80.0,97.56,7.79,Australian,Toronto,Male,Group D
+212,Student_212,21.24,15.47,30.01,48.45,British,Sydney,Male,Group E
+213,Student_213,65.68,94.24,73.0,7.62,Indian,Toronto,Male,Group C
+214,Student_214,46.11,0.56,63.53,24.84,American,Toronto,Other,Group B
+215,Student_215,3.67,74.89,16.54,87.77,American,Sydney,Other,Group E
+216,Student_216,1.77,82.3,92.95,93.36,American,Toronto,Male,Group A
+217,Student_217,74.17,62.25,6.28,97.28,Indian,Toronto,Other,Group C
+218,Student_218,11.97,28.59,34.82,83.85,Indian,Mumbai,Female,Group A
+219,Student_219,28.45,43.54,65.29,3.71,British,Toronto,Female,Group B
+220,Student_220,21.1,6.6,21.95,96.17,British,Sydney,Female,Group E
+221,Student_221,27.0,53.76,64.53,2.21,Australian,Mumbai,Female,Group A
+222,Student_222,85.65,70.13,10.59,26.96,British,Mumbai,Male,Group D
+223,Student_223,45.43,57.2,86.53,60.62,Australian,Mumbai,Female,Group D
+224,Student_224,87.81,66.03,53.69,26.6,American,London,Other,Group E
+225,Student_225,14.84,33.23,98.76,60.5,Canadian,Mumbai,Female,Group A
+226,Student_226,19.52,33.55,59.81,75.07,Australian,Mumbai,Other,Group D
+227,Student_227,45.24,8.72,63.19,25.01,American,New York,Other,Group C
+228,Student_228,42.24,34.83,33.46,6.82,Canadian,Sydney,Female,Group E
+229,Student_229,0.78,80.9,85.01,8.31,Canadian,Toronto,Male,Group B
+230,Student_230,59.37,8.26,87.73,91.33,Indian,New York,Female,Group A
+231,Student_231,0.9,9.01,96.98,95.43,American,Mumbai,Male,Group A
+232,Student_232,40.64,29.2,32.16,20.53,British,Mumbai,Other,Group A
+233,Student_233,57.72,87.32,70.38,25.11,Australian,Toronto,Female,Group E
+234,Student_234,5.41,76.58,98.84,11.54,Indian,New York,Other,Group B
+235,Student_235,21.19,50.28,29.07,64.5,Australian,Sydney,Female,Group C
+236,Student_236,84.34,45.86,50.11,84.22,Indian,London,Male,Group B
+237,Student_237,19.51,22.78,13.52,62.57,Indian,Sydney,Female,Group B
+238,Student_238,5.27,45.59,90.61,39.73,Australian,London,Other,Group C
+239,Student_239,54.59,80.26,54.42,54.8,Australian,Sydney,Female,Group D
+240,Student_240,47.09,47.32,57.96,3.82,British,New York,Male,Group E
+241,Student_241,45.2,69.31,28.32,97.94,Canadian,Toronto,Female,Group A
+242,Student_242,40.88,41.26,42.49,84.55,Indian,Mumbai,Female,Group D
+243,Student_243,2.0,31.43,28.54,34.39,American,Mumbai,Male,Group E
+244,Student_244,79.56,34.6,8.56,18.71,British,Toronto,Female,Group D
+245,Student_245,73.02,54.55,95.12,38.76,Indian,New York,Other,Group D
+246,Student_246,93.38,89.78,84.69,28.83,Australian,Toronto,Male,Group E
+247,Student_247,47.77,24.27,32.47,50.44,American,Mumbai,Other,Group D
+248,Student_248,58.09,42.4,39.88,55.98,British,New York,Male,Group E
+249,Student_249,30.69,11.21,22.53,46.71,Australian,Sydney,Other,Group A
+250,Student_250,17.11,42.29,96.27,77.29,American,New York,Other,Group D
+251,Student_251,43.99,90.8,51.41,9.02,American,New York,Other,Group B
+252,Student_252,52.95,76.08,17.76,11.99,Australian,Toronto,Other,Group A
+253,Student_253,64.13,33.19,45.99,63.2,Canadian,Mumbai,Female,Group C
+254,Student_254,75.73,12.96,28.67,58.2,American,Toronto,Male,Group C
+255,Student_255,81.53,99.68,37.85,0.62,American,New York,Male,Group C
+256,Student_256,15.33,25.07,47.8,67.78,Canadian,Sydney,Female,Group D
+257,Student_257,60.17,71.99,47.3,44.92,American,New York,Female,Group D
+258,Student_258,71.81,14.26,72.14,56.3,British,Toronto,Other,Group C
+259,Student_259,8.14,81.9,0.48,19.54,British,Sydney,Female,Group B
+260,Student_260,55.83,13.04,99.76,11.11,Australian,New York,Female,Group E
+261,Student_261,4.73,92.91,68.89,57.99,British,Toronto,Other,Group D
+262,Student_262,26.7,1.5,56.95,37.57,British,London,Male,Group E
+263,Student_263,76.51,34.25,76.1,66.62,Indian,Toronto,Male,Group C
+264,Student_264,5.24,55.84,42.19,24.22,Indian,Toronto,Female,Group E
+265,Student_265,68.98,71.24,41.73,86.03,Indian,Sydney,Female,Group A
+266,Student_266,80.91,68.72,32.25,29.96,American,Toronto,Other,Group D
+267,Student_267,21.87,93.94,27.45,3.08,Australian,Toronto,Other,Group D
+268,Student_268,11.37,2.9,35.47,49.59,British,Toronto,Other,Group A
+269,Student_269,8.11,73.1,88.0,40.42,Australian,Toronto,Other,Group C
+270,Student_270,39.48,60.21,97.37,37.95,American,Toronto,Male,Group D
+271,Student_271,54.45,43.01,63.1,65.44,Australian,London,Other,Group C
+272,Student_272,42.82,18.49,85.04,64.57,British,Sydney,Female,Group C
+273,Student_273,37.01,66.43,41.95,3.98,Australian,London,Female,Group D
+274,Student_274,70.95,40.41,17.03,62.86,Canadian,Toronto,Other,Group D
+275,Student_275,37.2,44.63,80.97,61.19,Canadian,London,Male,Group B
+276,Student_276,61.16,6.23,26.75,90.13,Australian,London,Other,Group E
+277,Student_277,95.67,13.23,49.91,38.28,Australian,Sydney,Male,Group C
+278,Student_278,41.13,36.11,5.58,0.02,Canadian,London,Other,Group D
+279,Student_279,49.67,97.15,57.65,64.66,Canadian,Sydney,Female,Group E
+280,Student_280,0.82,9.73,74.08,68.89,American,Toronto,Other,Group A
+281,Student_281,81.2,41.31,64.92,96.37,British,Sydney,Other,Group E
+282,Student_282,44.17,20.61,48.22,43.05,British,London,Female,Group B
+283,Student_283,89.29,32.6,46.22,90.73,British,Toronto,Male,Group B
+284,Student_284,71.76,96.81,76.28,85.76,American,Toronto,Male,Group C
+285,Student_285,44.66,59.95,16.1,73.66,American,New York,Female,Group B
+286,Student_286,80.8,99.35,0.05,22.19,Australian,London,Male,Group D
+287,Student_287,40.19,16.1,84.14,82.78,Indian,London,Other,Group A
+288,Student_288,48.85,74.13,15.41,55.8,Australian,Toronto,Other,Group A
+289,Student_289,63.89,10.02,54.3,80.96,Australian,London,Other,Group D
+290,Student_290,3.04,44.15,67.65,95.77,Australian,New York,Other,Group A
+291,Student_291,32.84,15.18,44.1,82.96,Australian,New York,Male,Group B
+292,Student_292,83.48,73.69,52.96,78.34,Indian,Toronto,Male,Group E
+293,Student_293,68.76,13.56,21.65,15.25,Indian,New York,Male,Group C
+294,Student_294,89.93,66.03,64.04,52.41,British,Toronto,Male,Group D
+295,Student_295,58.11,40.97,59.86,6.53,Australian,Mumbai,Male,Group E
+296,Student_296,95.38,74.54,79.26,76.0,British,New York,Other,Group A
+297,Student_297,66.01,85.62,29.42,43.77,Australian,New York,Male,Group D
+298,Student_298,46.98,53.9,40.83,16.35,Indian,New York,Other,Group E
+299,Student_299,86.87,44.75,5.49,55.84,Canadian,Mumbai,Female,Group E
+300,Student_300,14.77,27.44,2.03,8.64,Australian,New York,Other,Group B
+301,Student_301,34.03,6.0,70.7,21.32,British,Toronto,Other,Group B
+302,Student_302,67.07,41.23,40.84,0.46,Indian,Mumbai,Male,Group A
+303,Student_303,64.83,55.98,40.67,75.36,Canadian,London,Female,Group D
+304,Student_304,28.62,55.52,45.75,83.39,British,Toronto,Other,Group D
+305,Student_305,29.35,1.24,1.78,97.77,Indian,Sydney,Male,Group A
+306,Student_306,58.34,22.88,26.27,35.14,Australian,Toronto,Male,Group B
+307,Student_307,3.51,52.12,97.49,53.94,British,New York,Other,Group A
+308,Student_308,83.97,99.55,33.8,92.15,American,London,Female,Group D
+309,Student_309,31.36,31.46,2.59,62.55,British,Mumbai,Male,Group B
+310,Student_310,70.66,78.41,27.15,39.55,American,New York,Other,Group B
+311,Student_311,32.71,13.86,36.38,26.8,Australian,New York,Other,Group D
+312,Student_312,34.36,34.51,72.7,87.44,Australian,New York,Other,Group B
+313,Student_313,10.86,38.44,19.09,8.42,Indian,London,Other,Group A
+314,Student_314,75.2,57.21,70.84,88.89,British,London,Male,Group A
+315,Student_315,58.86,81.06,5.04,48.42,American,Sydney,Male,Group E
+316,Student_316,88.81,44.48,64.93,7.0,Canadian,London,Other,Group B
+317,Student_317,90.24,25.35,30.29,69.15,Canadian,London,Other,Group C
+318,Student_318,33.05,52.76,14.98,24.05,Canadian,Mumbai,Female,Group B
+319,Student_319,49.37,38.29,91.44,89.83,American,Sydney,Female,Group B
+320,Student_320,10.48,45.58,32.94,65.22,American,Toronto,Other,Group B
+321,Student_321,37.88,28.73,6.98,13.48,Australian,London,Male,Group D
+322,Student_322,56.74,73.27,64.83,58.37,Indian,London,Male,Group B
+323,Student_323,16.18,24.55,98.85,9.69,British,New York,Other,Group B
+324,Student_324,34.95,99.35,51.94,48.58,Indian,Mumbai,Other,Group D
+325,Student_325,35.24,38.87,60.05,95.4,British,New York,Female,Group A
+326,Student_326,96.72,32.34,34.36,98.79,Canadian,Toronto,Male,Group B
+327,Student_327,82.34,31.77,80.74,91.92,American,Toronto,Other,Group A
+328,Student_328,36.26,32.74,28.04,81.11,American,London,Female,Group D
+329,Student_329,81.38,56.17,16.57,63.24,British,Sydney,Other,Group E
+330,Student_330,93.6,45.74,36.32,0.73,Canadian,Sydney,Female,Group D
+331,Student_331,48.3,0.56,19.5,95.78,Australian,Toronto,Female,Group C
+332,Student_332,79.06,34.58,73.58,30.76,American,Toronto,Female,Group E
+333,Student_333,66.63,60.95,50.53,94.91,British,Sydney,Other,Group E
+334,Student_334,78.41,45.13,90.44,34.68,American,New York,Female,Group E
+335,Student_335,81.71,77.01,36.8,21.73,Indian,Mumbai,Other,Group E
+336,Student_336,49.32,95.88,20.88,21.29,Australian,Toronto,Female,Group E
+337,Student_337,27.65,18.7,46.75,75.37,American,Toronto,Male,Group B
+338,Student_338,86.76,86.38,25.87,10.56,British,Sydney,Other,Group B
+339,Student_339,64.91,50.79,31.7,11.01,Australian,New York,Female,Group B
+340,Student_340,90.31,33.54,99.94,5.85,Canadian,New York,Other,Group B
+341,Student_341,24.14,86.21,90.06,96.0,Australian,Mumbai,Female,Group C
+342,Student_342,68.21,45.59,0.68,6.74,British,Toronto,Other,Group A
+343,Student_343,99.9,16.54,39.82,93.6,Indian,Toronto,Other,Group D
+344,Student_344,77.15,0.16,42.94,90.75,Canadian,New York,Other,Group B
+345,Student_345,49.33,26.08,0.34,72.26,American,New York,Other,Group A
+346,Student_346,8.54,55.88,65.43,39.92,British,Toronto,Other,Group A
+347,Student_347,16.93,25.91,43.25,99.35,British,Toronto,Other,Group A
+348,Student_348,84.2,95.97,4.53,41.63,Indian,Mumbai,Male,Group D
+349,Student_349,97.5,88.34,26.91,2.83,Canadian,Toronto,Male,Group E
+350,Student_350,75.48,28.65,40.46,99.0,Indian,London,Other,Group E
+351,Student_351,38.46,89.95,7.59,8.19,British,Mumbai,Female,Group D
+352,Student_352,63.5,39.46,56.45,27.06,Australian,New York,Female,Group B
+353,Student_353,1.96,38.19,20.85,47.46,Australian,Mumbai,Other,Group A
+354,Student_354,1.32,6.21,3.82,31.94,Australian,Mumbai,Female,Group D
+355,Student_355,10.77,84.06,76.67,72.78,American,Sydney,Other,Group B
+356,Student_356,26.93,63.11,12.62,87.49,American,New York,Other,Group D
+357,Student_357,8.5,9.86,82.77,98.05,British,New York,Other,Group C
+358,Student_358,97.12,88.99,51.42,72.51,Indian,New York,Female,Group A
+359,Student_359,35.56,30.96,3.05,88.05,Australian,Sydney,Female,Group C
+360,Student_360,52.86,26.55,99.03,68.45,American,Mumbai,Male,Group A
+361,Student_361,0.58,88.76,68.86,83.01,American,Sydney,Male,Group A
+362,Student_362,15.89,2.6,8.66,27.29,British,London,Other,Group E
+363,Student_363,76.57,21.6,4.47,53.85,Australian,New York,Male,Group C
+364,Student_364,79.37,59.2,86.26,73.65,British,Mumbai,Other,Group C
+365,Student_365,65.39,52.47,46.65,47.73,Indian,Mumbai,Female,Group D
+366,Student_366,88.33,1.87,50.26,23.99,Australian,Mumbai,Male,Group E
+367,Student_367,83.62,6.71,62.61,95.19,American,Sydney,Other,Group C
+368,Student_368,84.64,78.74,23.51,64.29,Australian,London,Other,Group D
+369,Student_369,50.91,13.29,30.36,71.44,American,Mumbai,Male,Group B
+370,Student_370,69.5,0.17,53.74,58.94,British,Toronto,Male,Group B
+371,Student_371,62.71,61.44,34.55,97.5,Canadian,Mumbai,Female,Group B
+372,Student_372,2.67,19.88,26.11,90.84,Indian,Sydney,Other,Group D
+373,Student_373,9.03,3.95,54.89,31.38,Indian,Sydney,Other,Group B
+374,Student_374,68.14,57.51,74.81,26.86,Indian,New York,Female,Group C
+375,Student_375,59.24,68.96,50.05,15.48,Indian,Sydney,Other,Group C
+376,Student_376,66.61,10.42,89.45,51.09,Canadian,New York,Male,Group E
+377,Student_377,53.48,28.19,44.32,74.13,American,London,Male,Group B
+378,Student_378,48.49,38.65,83.8,45.48,Australian,Sydney,Female,Group D
+379,Student_379,62.05,91.6,6.11,23.81,Canadian,Toronto,Other,Group A
+380,Student_380,7.86,45.74,64.08,11.06,Indian,Sydney,Female,Group B
+381,Student_381,90.65,97.31,11.04,21.42,Australian,New York,Female,Group E
+382,Student_382,47.07,11.61,31.39,85.77,British,Toronto,Other,Group A
+383,Student_383,26.32,82.16,79.02,84.28,British,Toronto,Male,Group D
+384,Student_384,85.45,53.79,87.13,88.85,Canadian,London,Female,Group A
+385,Student_385,59.06,77.87,8.54,70.95,British,Mumbai,Female,Group D
+386,Student_386,65.85,57.56,7.73,59.75,British,New York,Other,Group A
+387,Student_387,68.9,89.94,15.51,10.5,Australian,London,Male,Group C
+388,Student_388,44.34,56.92,73.39,82.94,Canadian,New York,Female,Group D
+389,Student_389,61.32,1.89,51.42,41.95,Australian,Toronto,Female,Group E
+390,Student_390,3.12,82.0,3.33,50.53,Indian,New York,Male,Group A
+391,Student_391,29.72,81.29,0.71,56.78,Canadian,Mumbai,Other,Group B
+392,Student_392,12.5,66.18,69.5,95.86,Canadian,London,Male,Group D
+393,Student_393,65.05,27.18,49.14,8.9,Canadian,London,Male,Group C
+394,Student_394,45.69,20.08,27.73,61.46,Canadian,London,Male,Group B
+395,Student_395,86.77,71.69,41.25,89.85,British,New York,Male,Group E
+396,Student_396,27.83,11.8,57.76,90.91,Indian,Mumbai,Male,Group E
+397,Student_397,89.28,54.35,82.05,63.94,Australian,Mumbai,Other,Group A
+398,Student_398,10.74,94.03,72.87,85.39,American,Sydney,Other,Group E
+399,Student_399,58.12,0.06,97.35,96.35,American,New York,Other,Group C
+400,Student_400,76.71,29.54,41.83,20.22,British,Sydney,Female,Group C
+401,Student_401,83.8,76.87,81.16,87.15,Australian,New York,Other,Group D
+402,Student_402,91.95,21.46,21.82,92.81,Indian,New York,Male,Group D
+403,Student_403,29.71,54.64,32.54,15.01,American,London,Other,Group E
+404,Student_404,68.77,27.26,80.36,82.15,Australian,Sydney,Other,Group A
+405,Student_405,90.17,75.14,13.91,51.53,Australian,Mumbai,Female,Group B
+406,Student_406,45.82,42.53,82.45,85.86,Canadian,Toronto,Female,Group C
+407,Student_407,78.74,62.17,55.61,57.38,Australian,Sydney,Male,Group B
+408,Student_408,53.19,48.45,17.96,52.18,British,Toronto,Other,Group D
+409,Student_409,60.74,43.55,10.99,62.47,British,Toronto,Male,Group A
+410,Student_410,6.47,29.11,23.73,52.46,Australian,Mumbai,Other,Group D
+411,Student_411,55.76,48.31,37.83,43.66,Indian,New York,Other,Group D
+412,Student_412,20.04,99.82,0.01,98.59,Australian,Toronto,Female,Group C
+413,Student_413,67.68,8.59,71.62,74.24,American,Mumbai,Other,Group D
+414,Student_414,17.91,85.82,94.66,75.98,Australian,New York,Female,Group E
+415,Student_415,61.02,95.26,39.14,48.46,American,Sydney,Female,Group A
+416,Student_416,32.43,29.82,34.64,38.14,Canadian,New York,Other,Group A
+417,Student_417,71.01,90.93,42.18,84.82,American,Toronto,Female,Group B
+418,Student_418,36.8,13.19,89.39,16.87,Australian,London,Other,Group E
+419,Student_419,20.84,69.29,88.1,81.84,British,London,Male,Group D
+420,Student_420,55.82,30.98,7.42,52.71,British,New York,Other,Group B
+421,Student_421,67.56,8.97,96.61,45.35,British,New York,Other,Group B
+422,Student_422,68.85,8.62,2.21,29.54,Canadian,London,Other,Group B
+423,Student_423,92.46,53.48,14.34,34.88,Australian,Toronto,Male,Group D
+424,Student_424,41.37,33.16,7.03,3.3,Australian,Mumbai,Female,Group C
+425,Student_425,58.32,63.68,84.89,71.53,American,Mumbai,Other,Group D
+426,Student_426,88.64,91.05,26.07,2.3,American,Toronto,Other,Group B
+427,Student_427,76.15,82.91,22.51,83.63,Australian,Sydney,Other,Group D
+428,Student_428,88.65,76.27,99.17,14.23,Indian,London,Male,Group E
+429,Student_429,13.81,9.92,71.06,54.4,Australian,London,Male,Group A
+430,Student_430,73.62,31.24,93.16,64.71,Canadian,London,Male,Group C
+431,Student_431,93.83,99.8,74.22,54.7,Canadian,Sydney,Female,Group A
+432,Student_432,82.09,11.46,99.97,52.12,American,Sydney,Other,Group C
+433,Student_433,89.33,2.42,2.86,96.36,Canadian,Mumbai,Male,Group D
+434,Student_434,94.8,16.23,34.45,49.69,British,Mumbai,Other,Group B
+435,Student_435,14.12,28.11,76.93,86.01,Indian,Sydney,Other,Group A
+436,Student_436,65.58,19.78,37.58,51.77,British,London,Female,Group C
+437,Student_437,28.85,79.8,52.62,26.28,Australian,Sydney,Female,Group A
+438,Student_438,4.67,89.18,34.32,22.5,American,Mumbai,Male,Group E
+439,Student_439,7.12,38.75,99.37,59.49,Canadian,New York,Female,Group B
+440,Student_440,13.57,44.9,1.53,97.89,Indian,New York,Female,Group B
+441,Student_441,66.6,90.29,22.57,47.83,American,Mumbai,Male,Group D
+442,Student_442,31.75,69.4,2.92,71.18,Australian,London,Other,Group C
+443,Student_443,34.73,10.3,37.31,75.5,Australian,New York,Female,Group A
+444,Student_444,23.86,56.13,40.48,3.23,American,Sydney,Male,Group C
+445,Student_445,19.07,38.05,49.96,31.5,British,Mumbai,Female,Group A
+446,Student_446,13.24,38.37,14.16,61.91,Australian,London,Female,Group A
+447,Student_447,28.95,53.52,63.49,16.06,Australian,London,Other,Group E
+448,Student_448,31.92,61.65,74.77,46.94,Canadian,Toronto,Other,Group C
+449,Student_449,8.68,17.26,97.32,33.92,Australian,Mumbai,Male,Group A
+450,Student_450,9.55,22.03,52.94,95.63,Australian,Sydney,Female,Group A
+451,Student_451,2.09,73.06,64.74,47.82,Australian,Sydney,Other,Group A
+452,Student_452,64.14,81.61,52.62,22.24,American,Toronto,Male,Group B
+453,Student_453,3.66,98.56,85.88,60.6,American,London,Other,Group A
+454,Student_454,96.39,64.25,53.31,7.81,Canadian,Sydney,Other,Group D
+455,Student_455,70.06,65.4,83.17,98.01,American,Mumbai,Female,Group B
+456,Student_456,64.9,98.86,73.74,60.93,American,Sydney,Other,Group B
+457,Student_457,73.23,67.35,0.68,7.32,American,Sydney,Male,Group E
+458,Student_458,40.67,71.16,60.02,70.53,Indian,New York,Male,Group D
+459,Student_459,14.13,31.14,73.59,53.24,Canadian,New York,Female,Group C
+460,Student_460,74.56,91.46,42.55,1.2,American,London,Male,Group C
+461,Student_461,65.02,5.3,14.73,3.94,British,New York,Female,Group C
+462,Student_462,45.97,29.04,28.9,70.71,American,New York,Female,Group D
+463,Student_463,59.22,58.61,41.19,3.84,British,Mumbai,Male,Group C
+464,Student_464,76.34,3.59,19.43,96.12,American,London,Male,Group E
+465,Student_465,55.81,58.84,14.4,98.49,American,London,Female,Group D
+466,Student_466,46.66,6.32,46.73,17.89,Indian,Toronto,Other,Group B
+467,Student_467,49.58,28.72,71.84,60.17,Indian,Sydney,Other,Group E
+468,Student_468,59.69,0.25,94.7,20.52,Canadian,London,Male,Group C
+469,Student_469,22.67,22.46,47.52,14.16,Australian,London,Other,Group E
+470,Student_470,82.35,78.02,62.13,7.52,Canadian,New York,Other,Group A
+471,Student_471,27.53,80.39,93.76,63.74,American,Mumbai,Other,Group B
+472,Student_472,20.0,3.69,90.12,58.1,Australian,London,Female,Group B
+473,Student_473,49.48,85.18,60.19,17.21,British,Mumbai,Female,Group A
+474,Student_474,45.85,38.45,16.74,30.4,Canadian,London,Other,Group B
+475,Student_475,93.86,96.76,17.03,43.67,American,Sydney,Male,Group C
+476,Student_476,71.12,52.73,14.6,46.67,Australian,Mumbai,Male,Group B
+477,Student_477,3.41,71.86,22.33,64.98,British,Toronto,Female,Group C
+478,Student_478,59.47,52.11,86.2,60.24,British,Sydney,Male,Group E
+479,Student_479,41.61,97.97,90.13,84.03,Australian,New York,Female,Group B
+480,Student_480,38.96,33.83,90.44,65.18,American,Sydney,Other,Group D
+481,Student_481,39.47,82.47,81.11,13.57,British,New York,Other,Group B
+482,Student_482,60.72,35.01,42.48,94.55,Canadian,London,Other,Group E
+483,Student_483,79.0,8.68,14.04,20.74,Indian,Sydney,Other,Group A
+484,Student_484,32.03,64.4,73.43,37.38,American,New York,Female,Group A
+485,Student_485,75.55,26.48,3.88,73.59,Indian,Toronto,Other,Group C
+486,Student_486,0.76,33.06,53.15,19.41,British,New York,Female,Group E
+487,Student_487,90.3,52.01,34.77,27.88,American,New York,Other,Group A
+488,Student_488,18.18,89.41,1.46,35.55,Canadian,Sydney,Male,Group A
+489,Student_489,41.51,23.7,4.67,72.98,Australian,Mumbai,Female,Group A
+490,Student_490,38.29,25.14,47.71,80.96,American,Mumbai,Male,Group B
+491,Student_491,14.03,41.28,47.93,19.86,American,Sydney,Male,Group C
+492,Student_492,40.07,73.44,61.36,62.99,Canadian,Mumbai,Female,Group E
+493,Student_493,42.86,30.45,40.95,94.7,Canadian,Toronto,Male,Group E
+494,Student_494,15.06,18.84,1.25,82.67,Australian,Sydney,Male,Group B
+495,Student_495,98.69,25.53,48.79,95.76,Australian,New York,Other,Group E
+496,Student_496,42.28,22.36,57.38,55.71,American,Sydney,Other,Group E
+497,Student_497,21.75,74.85,94.14,67.56,Australian,New York,Male,Group E
+498,Student_498,68.09,98.05,58.29,64.57,British,London,Other,Group A
+499,Student_499,78.2,94.07,70.07,23.42,American,Mumbai,Other,Group D
+500,Student_500,21.77,13.05,21.01,45.25,American,London,Other,Group E
+501,Student_501,96.35,25.88,84.62,70.29,Canadian,Mumbai,Female,Group B
+502,Student_502,54.68,70.36,88.75,0.71,Indian,Toronto,Other,Group E
+503,Student_503,0.52,87.87,67.1,33.42,Australian,London,Other,Group B
+504,Student_504,93.74,42.6,21.57,12.37,British,New York,Male,Group B
+505,Student_505,23.89,16.88,53.77,53.16,Canadian,Toronto,Male,Group A
+506,Student_506,89.88,76.86,94.16,43.77,Australian,Mumbai,Male,Group E
+507,Student_507,87.76,17.55,51.06,57.36,American,New York,Male,Group E
+508,Student_508,82.04,36.73,81.15,13.12,American,London,Female,Group A
+509,Student_509,61.53,20.2,43.24,43.46,Indian,New York,Male,Group A
+510,Student_510,39.85,44.95,87.74,82.17,Indian,Sydney,Male,Group B
+511,Student_511,64.35,78.83,71.31,77.11,British,London,Other,Group A
+512,Student_512,70.87,36.28,44.83,58.31,American,Toronto,Female,Group D
+513,Student_513,65.27,78.32,11.59,25.22,Australian,New York,Male,Group B
+514,Student_514,30.68,11.15,4.27,68.86,Canadian,Toronto,Female,Group D
+515,Student_515,41.02,62.32,72.12,28.77,Canadian,Toronto,Male,Group C
+516,Student_516,4.48,69.83,42.72,10.99,Indian,New York,Female,Group A
+517,Student_517,87.81,75.01,57.5,98.64,American,Mumbai,Other,Group C
+518,Student_518,33.02,93.42,39.64,22.3,Canadian,Sydney,Female,Group A
+519,Student_519,73.48,29.68,38.05,35.43,British,Toronto,Male,Group B
+520,Student_520,37.79,22.45,61.55,7.35,British,New York,Other,Group D
+521,Student_521,84.92,87.01,60.4,41.1,American,Sydney,Female,Group A
+522,Student_522,21.45,39.32,85.53,47.79,Canadian,Mumbai,Male,Group A
+523,Student_523,84.39,14.84,27.32,71.62,Indian,Sydney,Other,Group B
+524,Student_524,0.54,31.34,4.22,50.72,Indian,London,Male,Group A
+525,Student_525,17.05,40.35,77.95,25.12,American,Sydney,Other,Group E
+526,Student_526,27.51,23.24,74.73,85.17,British,New York,Female,Group D
+527,Student_527,73.76,56.49,16.27,95.09,Australian,Sydney,Female,Group D
+528,Student_528,42.59,48.2,22.76,7.85,Indian,New York,Male,Group E
+529,Student_529,19.88,97.49,71.14,65.13,American,Mumbai,Other,Group A
+530,Student_530,83.36,0.08,88.4,36.28,Canadian,Mumbai,Female,Group E
+531,Student_531,61.62,80.01,23.05,87.79,British,Sydney,Male,Group C
+532,Student_532,34.7,61.39,93.39,88.47,American,Mumbai,Other,Group E
+533,Student_533,60.52,47.84,16.11,82.41,Indian,Mumbai,Male,Group B
+534,Student_534,66.97,86.09,40.87,42.4,Canadian,London,Other,Group E
+535,Student_535,99.67,53.87,17.55,6.25,Canadian,Mumbai,Male,Group C
+536,Student_536,87.12,44.24,2.1,17.57,Canadian,London,Male,Group D
+537,Student_537,41.17,50.25,73.0,0.25,Australian,London,Other,Group A
+538,Student_538,2.49,15.62,65.47,30.35,Australian,London,Male,Group C
+539,Student_539,73.76,1.56,96.38,64.53,British,Sydney,Other,Group E
+540,Student_540,57.28,21.14,71.22,9.81,American,New York,Other,Group E
+541,Student_541,86.22,28.34,76.31,84.24,Indian,Mumbai,Other,Group D
+542,Student_542,52.7,18.76,57.45,22.32,Indian,Sydney,Male,Group A
+543,Student_543,34.58,45.26,96.29,59.96,Indian,Mumbai,Other,Group E
+544,Student_544,80.14,38.77,43.83,55.6,American,Mumbai,Male,Group E
+545,Student_545,31.46,2.05,80.97,87.44,Indian,Toronto,Female,Group C
+546,Student_546,59.54,9.99,65.03,70.46,Australian,New York,Other,Group E
+547,Student_547,50.4,96.1,3.69,17.49,Australian,London,Male,Group B
+548,Student_548,48.48,20.73,84.09,23.27,Australian,Mumbai,Male,Group A
+549,Student_549,71.1,33.87,0.7,81.5,Canadian,Mumbai,Male,Group B
+550,Student_550,51.34,68.24,37.34,14.01,Australian,Toronto,Male,Group E
+551,Student_551,46.06,86.2,68.43,13.06,Indian,New York,Female,Group D
+552,Student_552,83.04,19.4,54.48,94.09,American,Toronto,Female,Group C
+553,Student_553,45.59,83.09,19.31,60.06,Indian,London,Other,Group B
+554,Student_554,25.4,71.37,67.42,87.01,American,New York,Male,Group E
+555,Student_555,35.75,37.63,21.35,84.0,Australian,New York,Other,Group D
+556,Student_556,67.03,49.61,36.37,0.6,American,London,Male,Group B
+557,Student_557,21.26,0.91,0.96,25.39,British,Sydney,Male,Group C
+558,Student_558,86.55,77.72,78.57,93.09,Australian,Sydney,Other,Group C
+559,Student_559,16.29,89.58,48.23,3.89,Australian,London,Female,Group E
+560,Student_560,17.24,74.92,90.64,66.72,American,London,Other,Group A
+561,Student_561,8.31,34.71,2.36,98.71,Indian,Mumbai,Female,Group B
+562,Student_562,88.6,75.31,88.46,82.16,Canadian,Toronto,Other,Group D
+563,Student_563,98.0,87.3,96.66,69.94,Indian,London,Female,Group A
+564,Student_564,92.38,23.96,36.34,29.74,Australian,Mumbai,Male,Group A
+565,Student_565,29.88,60.89,42.54,1.8,American,New York,Female,Group D
+566,Student_566,87.63,26.13,34.96,97.88,American,Toronto,Other,Group A
+567,Student_567,52.01,8.04,13.09,85.74,Indian,New York,Other,Group A
+568,Student_568,25.64,37.82,45.01,58.63,American,Sydney,Male,Group A
+569,Student_569,62.17,23.29,60.22,2.81,Australian,Mumbai,Male,Group B
+570,Student_570,75.37,78.08,87.11,10.21,Indian,London,Male,Group E
+571,Student_571,63.43,8.64,20.64,36.81,Indian,Mumbai,Male,Group D
+572,Student_572,45.29,76.55,15.75,68.63,Indian,Sydney,Other,Group B
+573,Student_573,53.11,60.01,71.88,87.57,Canadian,Toronto,Other,Group E
+574,Student_574,92.59,91.2,39.99,21.1,British,Toronto,Female,Group C
+575,Student_575,69.36,65.59,91.51,86.73,British,Toronto,Male,Group B
+576,Student_576,8.77,87.12,78.14,7.98,American,London,Other,Group B
+577,Student_577,0.2,78.38,86.06,56.25,Indian,New York,Male,Group D
+578,Student_578,47.65,6.42,89.85,79.57,Australian,Mumbai,Other,Group A
+579,Student_579,55.85,87.27,67.54,8.83,Indian,Mumbai,Male,Group E
+580,Student_580,65.22,72.92,67.08,20.14,Australian,London,Other,Group D
+581,Student_581,42.94,26.77,37.92,27.41,British,London,Other,Group B
+582,Student_582,47.75,13.86,37.51,68.12,American,New York,Other,Group A
+583,Student_583,91.27,16.31,71.84,94.23,Indian,New York,Other,Group B
+584,Student_584,70.97,76.24,63.84,48.64,Indian,Toronto,Other,Group B
+585,Student_585,92.82,22.35,91.88,0.0,American,London,Female,Group C
+586,Student_586,95.09,61.62,61.3,2.28,American,New York,Other,Group A
+587,Student_587,60.35,56.16,78.49,78.85,American,New York,Male,Group B
+588,Student_588,54.83,1.53,48.44,25.68,American,Mumbai,Other,Group A
+589,Student_589,41.35,9.81,48.14,1.52,Indian,Sydney,Other,Group A
+590,Student_590,53.69,30.66,42.63,52.64,American,Mumbai,Male,Group D
+591,Student_591,32.84,45.83,90.63,94.3,Indian,Sydney,Male,Group B
+592,Student_592,69.56,3.94,25.96,18.75,American,Sydney,Female,Group B
+593,Student_593,21.05,24.33,49.94,87.98,British,Toronto,Male,Group D
+594,Student_594,29.08,84.36,40.51,60.32,Australian,Mumbai,Female,Group E
+595,Student_595,53.41,69.21,24.53,6.43,Indian,Mumbai,Other,Group B
+596,Student_596,53.44,42.86,65.02,54.89,British,Toronto,Female,Group A
+597,Student_597,21.59,11.21,32.3,23.01,Australian,Sydney,Female,Group C
+598,Student_598,23.69,51.92,7.92,53.95,British,Sydney,Male,Group C
+599,Student_599,10.29,88.92,40.05,54.21,American,Sydney,Male,Group D
+600,Student_600,4.63,10.54,53.14,70.29,Canadian,New York,Female,Group A
+601,Student_601,63.93,58.4,45.48,32.22,American,Mumbai,Other,Group D
+602,Student_602,45.82,71.1,32.82,51.26,Canadian,New York,Other,Group C
+603,Student_603,42.53,31.02,33.18,16.04,Australian,Toronto,Male,Group B
+604,Student_604,63.25,17.61,24.25,99.83,Australian,Sydney,Other,Group D
+605,Student_605,78.08,3.35,9.11,97.11,Australian,New York,Female,Group B
+606,Student_606,39.57,58.02,13.04,12.23,Indian,Sydney,Other,Group A
+607,Student_607,54.76,25.76,86.79,40.23,American,London,Other,Group B
+608,Student_608,45.59,59.23,84.08,92.38,Indian,Mumbai,Female,Group B
+609,Student_609,32.54,50.74,69.85,81.23,Indian,Toronto,Male,Group E
+610,Student_610,67.89,57.45,62.01,99.18,Canadian,London,Female,Group E
+611,Student_611,1.21,24.64,58.53,16.53,Australian,New York,Other,Group B
+612,Student_612,83.63,35.12,42.49,96.5,American,Sydney,Female,Group C
+613,Student_613,50.11,3.79,60.95,43.43,Indian,London,Male,Group E
+614,Student_614,54.01,27.61,78.69,48.18,Indian,Mumbai,Male,Group C
+615,Student_615,77.35,68.13,32.14,7.03,American,Toronto,Other,Group A
+616,Student_616,67.08,87.86,50.46,46.32,Indian,New York,Male,Group E
+617,Student_617,80.53,23.7,12.32,70.78,Canadian,Toronto,Other,Group C
+618,Student_618,42.88,49.35,86.38,52.76,British,Mumbai,Female,Group C
+619,Student_619,25.31,23.67,77.99,38.05,British,Toronto,Other,Group D
+620,Student_620,62.61,88.84,60.56,69.71,Indian,Mumbai,Male,Group D
+621,Student_621,58.08,33.45,37.14,28.91,American,New York,Female,Group E
+622,Student_622,78.41,85.16,33.48,38.56,Canadian,Sydney,Other,Group C
+623,Student_623,11.42,94.26,73.63,26.76,American,New York,Other,Group A
+624,Student_624,65.94,33.69,66.41,38.04,Australian,Mumbai,Female,Group B
+625,Student_625,7.34,17.79,71.95,17.86,American,Toronto,Male,Group B
+626,Student_626,12.2,67.87,70.67,93.71,Indian,London,Female,Group B
+627,Student_627,99.05,55.11,56.5,51.76,American,Toronto,Male,Group D
+628,Student_628,31.4,26.79,51.58,63.63,Indian,Sydney,Other,Group C
+629,Student_629,41.62,5.37,57.77,55.78,Australian,Sydney,Other,Group B
+630,Student_630,98.98,32.48,47.4,69.33,American,Toronto,Female,Group A
+631,Student_631,59.74,45.2,82.33,8.04,Canadian,New York,Female,Group D
+632,Student_632,83.32,94.68,79.98,20.3,American,Mumbai,Male,Group B
+633,Student_633,67.17,44.47,46.98,37.32,American,Mumbai,Other,Group A
+634,Student_634,4.8,82.3,71.48,59.91,Canadian,Mumbai,Male,Group A
+635,Student_635,90.12,15.15,50.76,33.36,American,London,Other,Group D
+636,Student_636,62.4,3.42,91.34,34.88,American,Toronto,Female,Group D
+637,Student_637,11.38,35.52,88.86,81.98,Australian,Toronto,Other,Group E
+638,Student_638,50.68,46.16,43.66,28.44,Canadian,New York,Other,Group C
+639,Student_639,69.34,38.85,48.74,25.35,Canadian,London,Male,Group E
+640,Student_640,24.4,93.85,32.12,73.42,Canadian,Sydney,Other,Group D
+641,Student_641,78.5,30.46,50.1,91.71,American,New York,Other,Group B
+642,Student_642,70.35,45.74,26.75,34.01,British,London,Other,Group B
+643,Student_643,65.81,20.59,0.43,20.59,Canadian,New York,Male,Group D
+644,Student_644,93.93,41.37,40.16,43.41,American,Mumbai,Male,Group E
+645,Student_645,83.01,92.07,56.22,60.78,Canadian,New York,Male,Group E
+646,Student_646,98.82,7.18,9.76,84.86,Indian,Toronto,Female,Group B
+647,Student_647,60.38,51.58,35.9,33.17,Australian,Sydney,Male,Group A
+648,Student_648,26.66,1.7,87.03,15.94,Canadian,Mumbai,Male,Group C
+649,Student_649,90.52,45.2,82.28,44.37,American,Sydney,Other,Group A
+650,Student_650,7.24,74.12,32.23,67.52,American,New York,Female,Group B
+651,Student_651,28.44,95.75,32.3,51.3,American,New York,Female,Group E
+652,Student_652,73.53,51.47,70.36,19.76,Indian,Mumbai,Female,Group C
+653,Student_653,78.37,95.69,83.91,38.65,American,New York,Female,Group B
+654,Student_654,99.24,43.98,56.84,49.76,British,London,Male,Group C
+655,Student_655,60.79,79.42,88.63,55.34,British,New York,Other,Group D
+656,Student_656,78.33,8.36,93.24,8.86,Indian,Toronto,Other,Group C
+657,Student_657,53.65,2.07,19.9,65.71,British,Toronto,Male,Group B
+658,Student_658,81.44,83.11,37.13,93.89,Canadian,Sydney,Male,Group A
+659,Student_659,53.91,28.81,34.66,67.41,Canadian,Sydney,Female,Group D
+660,Student_660,71.47,22.62,46.37,39.54,American,Mumbai,Female,Group E
+661,Student_661,94.65,13.66,16.16,59.39,Canadian,Mumbai,Female,Group B
+662,Student_662,9.36,41.33,90.72,13.41,American,Toronto,Female,Group A
+663,Student_663,4.19,20.05,73.22,45.78,Australian,Toronto,Other,Group C
+664,Student_664,72.03,36.39,66.37,66.19,Australian,New York,Female,Group C
+665,Student_665,2.26,74.17,80.21,71.59,Australian,Sydney,Other,Group E
+666,Student_666,26.99,96.31,11.02,43.68,Canadian,Mumbai,Female,Group B
+667,Student_667,26.66,2.96,73.37,5.28,British,London,Other,Group D
+668,Student_668,84.66,95.91,27.17,26.62,Indian,Sydney,Male,Group C
+669,Student_669,8.77,56.96,77.44,63.89,Australian,New York,Male,Group A
+670,Student_670,5.57,78.02,40.7,48.67,American,Toronto,Female,Group C
+671,Student_671,70.47,54.17,44.26,72.81,Australian,Sydney,Male,Group B
+672,Student_672,38.58,12.37,46.63,60.18,British,Toronto,Other,Group C
+673,Student_673,22.15,22.09,13.51,62.46,British,New York,Other,Group E
+674,Student_674,27.49,21.78,4.28,13.15,Australian,New York,Other,Group D
+675,Student_675,9.28,90.27,50.13,26.38,Canadian,Toronto,Female,Group D
+676,Student_676,25.77,56.61,77.1,48.09,Australian,Mumbai,Male,Group D
+677,Student_677,50.4,55.6,52.65,83.8,American,Mumbai,Other,Group D
+678,Student_678,21.99,19.91,18.25,28.51,Canadian,Mumbai,Male,Group B
+679,Student_679,13.89,57.2,95.02,7.33,Indian,Mumbai,Female,Group C
+680,Student_680,67.19,76.87,36.51,16.32,Canadian,Toronto,Other,Group D
+681,Student_681,39.57,66.32,77.77,46.63,British,New York,Other,Group B
+682,Student_682,68.54,67.22,86.3,98.4,Canadian,London,Other,Group D
+683,Student_683,0.21,26.39,58.88,76.29,British,Sydney,Male,Group D
+684,Student_684,65.29,52.24,46.9,92.02,Canadian,Mumbai,Other,Group A
+685,Student_685,28.84,20.53,40.82,7.36,Australian,Toronto,Male,Group E
+686,Student_686,80.88,18.95,16.45,65.78,Australian,Mumbai,Other,Group A
+687,Student_687,13.11,86.08,64.48,77.35,Australian,New York,Female,Group B
+688,Student_688,17.23,95.23,41.6,58.41,Canadian,Sydney,Other,Group E
+689,Student_689,98.72,97.97,21.32,19.73,Australian,London,Other,Group A
+690,Student_690,36.51,27.93,32.84,11.86,American,Mumbai,Other,Group E
+691,Student_691,26.63,70.26,99.5,69.45,Australian,New York,Female,Group E
+692,Student_692,1.6,77.44,31.25,98.32,British,London,Male,Group C
+693,Student_693,2.56,21.25,65.64,87.24,British,New York,Other,Group E
+694,Student_694,33.36,84.18,31.17,82.52,British,New York,Other,Group C
+695,Student_695,12.11,78.19,8.18,84.57,Indian,New York,Female,Group D
+696,Student_696,49.92,88.11,4.59,13.45,American,New York,Male,Group D
+697,Student_697,28.3,78.16,13.5,69.13,British,Toronto,Female,Group B
+698,Student_698,5.44,98.99,22.75,21.54,Australian,Mumbai,Female,Group E
+699,Student_699,59.17,64.43,54.67,70.45,Canadian,New York,Male,Group C
+700,Student_700,18.0,71.84,43.2,6.8,Canadian,Mumbai,Female,Group E
+701,Student_701,5.61,90.04,64.43,14.06,Indian,New York,Male,Group E
+702,Student_702,25.53,38.2,96.75,10.15,Australian,Toronto,Female,Group D
+703,Student_703,58.71,95.12,50.08,98.45,British,Mumbai,Other,Group C
+704,Student_704,87.4,78.4,70.2,8.31,Australian,Mumbai,Male,Group D
+705,Student_705,54.69,52.44,11.05,90.05,Australian,Mumbai,Female,Group B
+706,Student_706,10.23,51.57,64.49,49.14,Australian,Sydney,Male,Group D
+707,Student_707,41.59,39.78,96.96,34.4,Australian,Mumbai,Female,Group B
+708,Student_708,10.51,48.03,85.89,69.78,American,Mumbai,Male,Group B
+709,Student_709,77.45,62.66,32.38,46.52,Australian,Mumbai,Male,Group E
+710,Student_710,52.43,80.46,24.36,0.22,American,Mumbai,Female,Group D
+711,Student_711,69.66,1.17,2.56,59.21,American,Sydney,Female,Group C
+712,Student_712,75.7,32.14,90.05,50.53,Australian,London,Female,Group C
+713,Student_713,11.21,67.32,3.68,56.91,American,Toronto,Other,Group D
+714,Student_714,86.54,25.79,56.12,99.85,Indian,Sydney,Female,Group E
+715,Student_715,81.88,35.83,29.08,64.79,American,New York,Female,Group D
+716,Student_716,48.56,73.95,42.18,22.54,Indian,Sydney,Female,Group D
+717,Student_717,89.38,79.75,82.13,65.06,Australian,Toronto,Female,Group C
+718,Student_718,73.75,89.05,78.36,72.31,American,Toronto,Female,Group A
+719,Student_719,49.12,45.77,66.71,4.07,British,New York,Female,Group E
+720,Student_720,70.44,32.63,11.23,85.89,Australian,Sydney,Other,Group E
+721,Student_721,88.01,56.38,83.2,67.97,American,Toronto,Other,Group A
+722,Student_722,24.07,77.79,60.13,79.43,Australian,London,Female,Group D
+723,Student_723,18.67,48.58,13.91,29.94,Canadian,London,Female,Group B
+724,Student_724,95.03,74.07,24.71,41.02,Australian,Sydney,Other,Group C
+725,Student_725,94.72,12.85,55.8,72.43,British,London,Male,Group D
+726,Student_726,76.95,8.93,53.11,83.96,Canadian,New York,Female,Group D
+727,Student_727,58.87,22.69,3.68,56.55,Canadian,Toronto,Male,Group A
+728,Student_728,69.88,42.73,99.22,33.53,Canadian,Sydney,Other,Group D
+729,Student_729,22.39,35.11,97.81,43.89,Australian,Mumbai,Female,Group A
+730,Student_730,5.45,47.05,32.13,33.22,British,Toronto,Female,Group C
+731,Student_731,99.39,34.79,2.46,26.34,Australian,Sydney,Other,Group D
+732,Student_732,0.25,68.04,42.92,53.86,British,New York,Other,Group B
+733,Student_733,55.08,83.0,18.34,64.65,Australian,Toronto,Female,Group E
+734,Student_734,46.77,10.87,37.81,34.72,Indian,Toronto,Male,Group D
+735,Student_735,39.98,18.67,98.03,49.01,Australian,Toronto,Female,Group A
+736,Student_736,79.11,73.56,60.83,31.95,Australian,New York,Male,Group C
+737,Student_737,45.45,14.94,30.96,14.61,British,New York,Other,Group A
+738,Student_738,54.91,47.91,55.15,59.17,Canadian,New York,Male,Group B
+739,Student_739,93.17,30.25,76.68,28.82,Indian,New York,Female,Group D
+740,Student_740,39.42,64.55,6.73,88.92,British,Toronto,Female,Group C
+741,Student_741,89.78,85.84,96.33,89.85,Canadian,Mumbai,Other,Group A
+742,Student_742,38.13,43.44,35.13,3.99,American,Toronto,Other,Group B
+743,Student_743,76.5,30.3,83.62,10.53,Indian,London,Other,Group A
+744,Student_744,99.41,84.05,49.5,81.14,American,New York,Male,Group B
+745,Student_745,42.77,73.35,66.41,92.97,British,New York,Other,Group C
+746,Student_746,81.03,65.01,53.56,96.95,British,Mumbai,Other,Group B
+747,Student_747,91.64,90.84,26.39,65.67,Indian,Sydney,Other,Group E
+748,Student_748,88.08,65.32,55.8,34.27,Canadian,Toronto,Male,Group B
+749,Student_749,0.8,8.18,2.88,22.49,American,Toronto,Female,Group E
+750,Student_750,92.81,52.6,25.95,39.71,Australian,Toronto,Female,Group C
+751,Student_751,55.34,0.17,98.66,57.57,Canadian,Sydney,Other,Group B
+752,Student_752,25.11,42.92,36.81,30.08,American,Toronto,Other,Group A
+753,Student_753,96.61,31.21,88.98,28.65,British,Mumbai,Male,Group E
+754,Student_754,35.14,19.79,15.62,89.03,American,Sydney,Female,Group B
+755,Student_755,78.32,74.39,33.79,52.52,British,New York,Other,Group C
+756,Student_756,98.77,70.81,86.51,51.41,Canadian,Mumbai,Other,Group B
+757,Student_757,51.51,4.45,39.02,45.45,Indian,New York,Male,Group A
+758,Student_758,69.59,43.82,67.7,97.7,Indian,Sydney,Male,Group E
+759,Student_759,49.55,77.08,48.5,93.94,Canadian,London,Male,Group A
+760,Student_760,37.88,75.89,54.96,8.64,Indian,Sydney,Male,Group B
+761,Student_761,43.02,67.16,43.64,5.18,British,London,Other,Group B
+762,Student_762,49.35,8.22,76.14,94.43,Australian,London,Female,Group A
+763,Student_763,53.6,84.57,52.79,13.3,Australian,Mumbai,Female,Group A
+764,Student_764,99.79,20.96,83.14,88.81,Canadian,New York,Other,Group C
+765,Student_765,22.37,61.47,48.3,38.38,Indian,London,Male,Group D
+766,Student_766,81.14,30.78,97.19,63.8,Indian,London,Other,Group A
+767,Student_767,67.47,56.46,55.74,76.4,Canadian,New York,Male,Group B
+768,Student_768,75.62,23.61,3.3,18.01,Canadian,Mumbai,Female,Group E
+769,Student_769,91.67,25.16,80.01,28.63,American,Mumbai,Other,Group A
+770,Student_770,36.66,3.91,15.2,75.26,Canadian,New York,Other,Group E
+771,Student_771,32.79,47.68,20.18,1.3,American,Sydney,Other,Group B
+772,Student_772,58.14,3.7,0.74,55.37,British,Mumbai,Male,Group C
+773,Student_773,80.17,98.84,4.01,2.09,Canadian,Mumbai,Male,Group A
+774,Student_774,50.91,12.97,42.84,10.26,Canadian,Sydney,Male,Group D
+775,Student_775,68.01,30.6,74.2,41.12,Australian,Mumbai,Male,Group B
+776,Student_776,69.72,23.94,3.72,90.93,Canadian,New York,Male,Group D
+777,Student_777,32.11,57.86,86.2,54.58,Australian,Sydney,Other,Group A
+778,Student_778,3.88,36.99,3.5,74.23,American,Toronto,Other,Group D
+779,Student_779,39.69,10.39,61.46,68.28,American,New York,Other,Group D
+780,Student_780,20.83,86.05,47.64,74.66,American,Mumbai,Other,Group C
+781,Student_781,23.12,82.81,85.17,25.13,Indian,Sydney,Female,Group B
+782,Student_782,76.43,73.52,53.18,51.33,British,London,Other,Group D
+783,Student_783,89.75,54.52,54.82,6.83,Canadian,Sydney,Male,Group B
+784,Student_784,73.83,44.93,11.92,55.93,American,New York,Female,Group A
+785,Student_785,91.44,82.93,85.94,67.4,British,Sydney,Female,Group B
+786,Student_786,43.37,4.24,83.64,92.64,Australian,Mumbai,Other,Group D
+787,Student_787,2.1,17.0,60.49,73.46,American,London,Other,Group E
+788,Student_788,80.01,18.59,35.58,84.04,Canadian,Toronto,Other,Group C
+789,Student_789,0.19,97.1,70.07,35.91,Canadian,Toronto,Female,Group C
+790,Student_790,92.21,9.08,98.63,34.01,Australian,London,Other,Group A
+791,Student_791,99.32,74.58,37.48,13.52,Australian,Toronto,Female,Group A
+792,Student_792,5.67,43.09,1.25,78.37,Canadian,Sydney,Female,Group D
+793,Student_793,10.22,48.14,71.0,86.7,British,Sydney,Male,Group E
+794,Student_794,15.78,93.26,36.33,92.31,Canadian,New York,Other,Group D
+795,Student_795,69.92,95.97,31.81,89.77,American,London,Male,Group E
+796,Student_796,13.15,57.09,49.75,33.08,British,Sydney,Other,Group D
+797,Student_797,80.84,36.77,85.61,44.83,Canadian,Sydney,Male,Group C
+798,Student_798,54.64,68.69,44.45,23.12,British,Toronto,Female,Group C
+799,Student_799,57.08,68.08,29.78,7.64,Australian,London,Male,Group B
+800,Student_800,30.38,72.02,5.96,38.28,Canadian,Toronto,Other,Group E
+801,Student_801,77.54,33.84,50.97,67.34,American,Sydney,Female,Group D
+802,Student_802,24.47,74.48,80.84,19.97,Canadian,Mumbai,Other,Group D
+803,Student_803,62.46,27.5,85.68,82.18,British,Toronto,Male,Group E
+804,Student_804,8.57,15.01,8.93,16.42,Canadian,Mumbai,Female,Group C
+805,Student_805,20.79,71.67,25.42,68.26,Canadian,New York,Other,Group B
+806,Student_806,84.83,62.1,17.93,24.65,Indian,Mumbai,Female,Group A
+807,Student_807,45.31,47.99,11.1,69.97,American,London,Other,Group A
+808,Student_808,57.71,75.6,59.23,24.62,American,New York,Male,Group E
+809,Student_809,47.86,19.81,46.82,93.49,American,Mumbai,Female,Group B
+810,Student_810,17.39,17.7,23.23,24.32,Indian,New York,Other,Group E
+811,Student_811,8.04,13.99,11.5,53.67,American,Toronto,Other,Group A
+812,Student_812,92.19,41.08,95.78,77.88,Indian,Toronto,Other,Group C
+813,Student_813,24.37,92.81,2.58,81.43,Canadian,New York,Female,Group C
+814,Student_814,55.45,1.72,25.7,22.15,British,Toronto,Female,Group A
+815,Student_815,46.98,19.67,13.45,96.01,Canadian,Toronto,Female,Group B
+816,Student_816,53.36,70.61,15.57,29.32,Indian,London,Female,Group A
+817,Student_817,57.17,77.41,7.6,96.02,British,Mumbai,Male,Group A
+818,Student_818,74.83,69.75,15.71,93.88,Australian,London,Other,Group A
+819,Student_819,6.11,44.83,36.83,41.32,Canadian,London,Male,Group E
+820,Student_820,49.98,83.33,26.05,15.0,British,Mumbai,Other,Group E
+821,Student_821,88.37,42.12,72.81,19.39,Australian,London,Female,Group B
+822,Student_822,95.05,5.37,88.41,79.77,British,Toronto,Female,Group E
+823,Student_823,92.59,8.63,92.13,98.85,American,London,Male,Group B
+824,Student_824,24.87,19.5,26.58,58.33,British,Toronto,Female,Group C
+825,Student_825,10.11,94.92,56.13,3.41,Indian,London,Male,Group B
+826,Student_826,60.14,19.84,70.07,40.41,British,Sydney,Female,Group E
+827,Student_827,53.61,63.01,72.91,0.91,Canadian,Toronto,Other,Group C
+828,Student_828,33.14,5.79,11.53,83.57,British,New York,Female,Group B
+829,Student_829,69.66,73.36,35.82,47.29,American,Mumbai,Other,Group B
+830,Student_830,50.19,72.29,66.38,43.54,American,New York,Male,Group C
+831,Student_831,33.14,4.87,86.4,47.89,Australian,Toronto,Other,Group A
+832,Student_832,49.74,92.81,52.71,36.85,Australian,Toronto,Other,Group D
+833,Student_833,94.02,14.37,43.87,45.24,Indian,New York,Female,Group D
+834,Student_834,32.95,79.81,62.33,18.67,Australian,Sydney,Female,Group A
+835,Student_835,87.92,22.75,10.74,21.9,Australian,Mumbai,Other,Group C
+836,Student_836,5.94,10.85,3.29,57.12,American,New York,Female,Group E
+837,Student_837,38.68,39.96,57.09,96.82,American,London,Male,Group C
+838,Student_838,38.88,5.38,12.5,39.79,Indian,Mumbai,Female,Group D
+839,Student_839,81.28,27.41,28.8,4.57,Indian,Sydney,Male,Group C
+840,Student_840,64.71,22.68,98.88,92.66,Canadian,Toronto,Male,Group D
+841,Student_841,97.08,92.37,57.39,45.08,Australian,London,Male,Group E
+842,Student_842,27.57,86.86,48.25,37.64,Canadian,Mumbai,Other,Group A
+843,Student_843,81.38,69.07,53.4,72.07,Canadian,Mumbai,Male,Group E
+844,Student_844,1.34,7.13,46.69,76.58,American,Sydney,Other,Group E
+845,Student_845,82.8,43.79,75.71,21.0,American,London,Male,Group E
+846,Student_846,83.3,91.74,85.26,23.12,American,London,Female,Group E
+847,Student_847,40.04,9.13,43.83,40.2,Indian,Sydney,Female,Group B
+848,Student_848,79.23,34.29,29.12,17.58,British,New York,Female,Group E
+849,Student_849,70.4,66.09,73.07,5.87,American,London,Male,Group E
+850,Student_850,84.11,65.65,28.14,24.62,Australian,New York,Female,Group B
+851,Student_851,60.64,54.63,11.31,92.22,Indian,Sydney,Female,Group E
+852,Student_852,57.15,21.86,44.63,76.72,Canadian,London,Female,Group D
+853,Student_853,49.71,70.39,79.81,54.49,Australian,Sydney,Male,Group E
+854,Student_854,75.92,19.18,10.29,89.84,American,Toronto,Male,Group D
+855,Student_855,72.39,24.0,85.39,0.46,Australian,London,Other,Group D
+856,Student_856,12.52,76.53,10.78,62.95,American,Sydney,Female,Group B
+857,Student_857,97.59,20.49,1.79,40.31,Indian,Mumbai,Female,Group C
+858,Student_858,71.5,62.17,51.29,69.36,British,Sydney,Other,Group E
+859,Student_859,36.74,6.3,32.31,43.69,Australian,Mumbai,Male,Group D
+860,Student_860,95.9,85.13,81.58,35.74,American,Toronto,Other,Group D
+861,Student_861,24.71,63.13,92.28,79.04,American,Mumbai,Other,Group D
+862,Student_862,90.24,36.33,64.3,1.04,American,Mumbai,Female,Group D
+863,Student_863,87.37,90.44,18.16,36.28,British,London,Male,Group D
+864,Student_864,67.51,6.09,80.48,38.84,American,Sydney,Other,Group A
+865,Student_865,26.93,92.9,72.98,39.87,Canadian,Toronto,Male,Group B
+866,Student_866,52.0,4.54,12.93,73.72,Indian,Toronto,Female,Group B
+867,Student_867,25.6,88.69,14.49,51.43,Australian,Mumbai,Female,Group B
+868,Student_868,13.1,97.22,25.98,23.0,Australian,New York,Female,Group E
+869,Student_869,61.63,80.02,57.23,86.05,Canadian,New York,Female,Group C
+870,Student_870,23.79,62.57,44.57,83.1,Indian,Sydney,Male,Group A
+871,Student_871,22.21,96.14,96.31,37.72,Canadian,London,Male,Group E
+872,Student_872,35.99,99.95,43.91,84.04,Australian,Mumbai,Female,Group C
+873,Student_873,21.32,44.88,94.92,46.98,British,Mumbai,Female,Group A
+874,Student_874,9.16,95.13,40.59,20.56,Australian,Mumbai,Other,Group C
+875,Student_875,77.67,40.01,30.45,30.14,Canadian,London,Male,Group C
+876,Student_876,67.01,31.03,90.32,55.13,Australian,Sydney,Other,Group B
+877,Student_877,47.22,52.42,5.22,51.21,Canadian,London,Female,Group B
+878,Student_878,73.9,58.87,15.93,4.41,British,London,Female,Group B
+879,Student_879,98.26,59.15,0.33,59.56,Indian,Sydney,Male,Group B
+880,Student_880,22.85,26.15,59.37,7.55,Canadian,London,Female,Group E
+881,Student_881,20.26,59.59,19.48,68.32,British,New York,Other,Group B
+882,Student_882,91.08,97.35,69.27,2.27,British,Toronto,Female,Group C
+883,Student_883,61.89,28.24,25.24,83.34,Indian,London,Other,Group A
+884,Student_884,17.03,25.51,67.38,59.98,Indian,Mumbai,Female,Group D
+885,Student_885,14.13,33.77,93.84,86.93,Indian,Mumbai,Other,Group E
+886,Student_886,62.99,36.08,94.71,79.22,American,Mumbai,Female,Group E
+887,Student_887,47.88,69.44,35.87,84.75,Canadian,Sydney,Other,Group E
+888,Student_888,91.41,21.79,71.25,27.82,Indian,New York,Female,Group C
+889,Student_889,45.11,81.27,43.69,26.56,Indian,London,Other,Group E
+890,Student_890,36.88,73.62,62.48,60.52,Australian,Mumbai,Female,Group E
+891,Student_891,87.47,37.38,2.49,34.69,Australian,Sydney,Male,Group C
+892,Student_892,66.29,57.49,54.97,91.38,American,Sydney,Male,Group E
+893,Student_893,99.52,44.98,66.11,92.11,American,Sydney,Other,Group D
+894,Student_894,15.95,3.81,66.69,19.02,Indian,Mumbai,Male,Group B
+895,Student_895,68.42,66.48,15.54,86.48,Australian,Sydney,Other,Group E
+896,Student_896,80.44,91.32,44.0,34.69,American,Mumbai,Other,Group E
+897,Student_897,50.95,8.73,41.38,83.72,Australian,Sydney,Male,Group E
+898,Student_898,25.09,48.93,97.69,80.96,Indian,London,Other,Group A
+899,Student_899,4.24,14.74,94.15,26.7,American,Mumbai,Male,Group C
+900,Student_900,23.32,13.96,82.02,52.12,American,Sydney,Female,Group B
+901,Student_901,58.24,63.08,94.93,96.74,Australian,Sydney,Female,Group C
+902,Student_902,7.76,88.92,37.16,34.27,Indian,London,Other,Group A
+903,Student_903,39.73,33.89,26.72,91.81,British,Sydney,Male,Group A
+904,Student_904,37.27,72.1,10.01,67.58,Canadian,London,Female,Group A
+905,Student_905,1.18,32.8,62.96,12.54,Canadian,Toronto,Male,Group D
+906,Student_906,77.44,71.52,82.2,59.17,British,Mumbai,Other,Group B
+907,Student_907,61.03,32.34,50.22,2.32,British,New York,Female,Group C
+908,Student_908,57.11,82.25,68.39,70.13,Australian,Mumbai,Other,Group A
+909,Student_909,23.93,77.18,90.68,17.97,Indian,Sydney,Male,Group D
+910,Student_910,11.92,92.75,84.71,83.0,American,Toronto,Other,Group A
+911,Student_911,39.01,16.65,55.12,27.63,Australian,Toronto,Female,Group B
+912,Student_912,31.17,81.26,68.54,20.34,Australian,Toronto,Female,Group B
+913,Student_913,83.61,10.96,84.53,3.74,American,Sydney,Male,Group A
+914,Student_914,65.01,22.16,52.37,83.03,American,Mumbai,Other,Group C
+915,Student_915,85.89,0.7,43.09,41.97,American,Mumbai,Female,Group E
+916,Student_916,64.55,44.53,66.44,60.74,British,Sydney,Male,Group C
+917,Student_917,69.48,91.36,33.82,76.46,Australian,Mumbai,Female,Group A
+918,Student_918,20.42,90.07,1.69,98.77,British,London,Female,Group D
+919,Student_919,57.43,53.84,79.45,11.62,British,Mumbai,Other,Group C
+920,Student_920,16.03,87.23,65.84,12.08,British,Sydney,Female,Group D
+921,Student_921,44.52,1.08,70.03,29.27,American,Mumbai,Other,Group A
+922,Student_922,8.02,91.14,38.94,77.19,Canadian,Sydney,Male,Group E
+923,Student_923,44.9,58.78,41.38,98.48,Indian,Mumbai,Male,Group A
+924,Student_924,82.73,4.04,40.38,85.21,Canadian,Mumbai,Male,Group C
+925,Student_925,42.35,93.79,54.79,89.66,Canadian,Sydney,Other,Group E
+926,Student_926,7.28,69.36,94.11,43.33,British,Mumbai,Male,Group C
+927,Student_927,77.31,86.1,25.12,63.36,British,Mumbai,Other,Group E
+928,Student_928,41.47,19.48,9.1,52.46,Indian,New York,Male,Group D
+929,Student_929,80.8,34.18,34.5,19.43,British,Mumbai,Other,Group A
+930,Student_930,8.59,80.39,90.49,53.19,Australian,New York,Male,Group D
+931,Student_931,75.71,87.57,38.96,87.92,British,New York,Male,Group D
+932,Student_932,8.17,66.76,96.72,40.7,American,London,Male,Group B
+933,Student_933,57.1,12.44,53.21,52.22,Canadian,New York,Female,Group C
+934,Student_934,54.18,76.07,6.39,15.81,Indian,Sydney,Male,Group D
+935,Student_935,68.51,40.5,76.64,82.07,American,Mumbai,Female,Group A
+936,Student_936,56.19,11.29,77.02,3.03,British,Toronto,Female,Group E
+937,Student_937,14.55,3.57,77.68,20.43,Australian,Mumbai,Male,Group C
+938,Student_938,38.43,30.34,91.59,72.89,Canadian,Toronto,Other,Group B
+939,Student_939,0.31,14.7,31.72,19.25,British,London,Other,Group A
+940,Student_940,10.64,11.54,4.49,7.5,Indian,London,Other,Group B
+941,Student_941,92.01,68.21,85.57,13.59,American,London,Male,Group B
+942,Student_942,8.62,15.27,78.42,4.29,British,Sydney,Female,Group E
+943,Student_943,11.69,35.17,16.12,68.02,British,New York,Male,Group D
+944,Student_944,25.53,3.21,75.6,17.65,American,Toronto,Other,Group C
+945,Student_945,56.21,43.09,32.45,19.44,Australian,Toronto,Other,Group D
+946,Student_946,44.44,74.81,56.24,69.69,American,Toronto,Other,Group A
+947,Student_947,49.61,58.59,48.91,34.43,British,London,Other,Group E
+948,Student_948,32.2,65.23,47.37,63.97,Canadian,London,Female,Group C
+949,Student_949,18.51,75.65,90.95,87.29,American,Sydney,Female,Group A
+950,Student_950,15.18,16.62,83.17,28.52,British,Mumbai,Male,Group A
+951,Student_951,98.32,88.56,61.53,20.64,American,Toronto,Other,Group C
+952,Student_952,44.36,61.65,81.53,63.55,American,Sydney,Other,Group B
+953,Student_953,43.14,97.34,34.68,31.36,Canadian,Sydney,Other,Group B
+954,Student_954,84.73,99.81,50.84,54.13,British,Toronto,Female,Group E
+955,Student_955,89.42,67.96,21.35,56.6,British,Mumbai,Female,Group D
+956,Student_956,25.36,68.01,86.63,53.67,British,Sydney,Other,Group C
+957,Student_957,15.44,93.43,80.79,85.97,Indian,New York,Other,Group C
+958,Student_958,94.1,95.94,67.67,53.43,Australian,Toronto,Other,Group A
+959,Student_959,44.06,55.02,47.88,31.64,Australian,New York,Female,Group C
+960,Student_960,29.87,74.57,0.18,91.99,Indian,Mumbai,Other,Group C
+961,Student_961,93.31,82.86,49.76,75.73,Australian,New York,Male,Group C
+962,Student_962,26.15,97.27,48.49,25.19,Indian,London,Other,Group E
+963,Student_963,56.83,24.14,74.76,11.95,Australian,Mumbai,Male,Group C
+964,Student_964,93.41,67.07,92.88,33.04,American,London,Other,Group B
+965,Student_965,43.8,42.22,38.01,94.6,American,New York,Male,Group E
+966,Student_966,54.19,39.37,24.18,93.22,Indian,Mumbai,Other,Group D
+967,Student_967,59.9,54.1,30.61,28.78,Canadian,London,Other,Group D
+968,Student_968,97.85,11.18,14.9,94.89,Indian,New York,Male,Group E
+969,Student_969,28.85,48.83,1.82,1.1,Australian,Mumbai,Female,Group C
+970,Student_970,53.07,62.38,19.71,21.51,Indian,Toronto,Other,Group E
+971,Student_971,51.04,99.19,1.56,8.38,Indian,New York,Male,Group D
+972,Student_972,36.0,85.6,70.98,51.34,American,New York,Other,Group A
+973,Student_973,50.64,58.47,50.89,31.42,American,Mumbai,Male,Group E
+974,Student_974,94.61,44.96,54.77,96.16,British,Toronto,Other,Group D
+975,Student_975,92.34,63.08,46.77,13.83,British,Mumbai,Female,Group D
+976,Student_976,83.26,4.21,7.84,90.22,British,Sydney,Female,Group D
+977,Student_977,96.74,61.15,84.79,80.94,Australian,New York,Female,Group A
+978,Student_978,70.11,65.9,16.15,73.34,Australian,Sydney,Other,Group D
+979,Student_979,99.01,81.32,39.97,84.87,Indian,Sydney,Other,Group B
+980,Student_980,0.14,26.05,72.44,81.28,American,Toronto,Male,Group C
+981,Student_981,14.35,94.28,58.84,30.18,American,London,Other,Group A
+982,Student_982,93.67,61.83,25.9,81.69,Indian,London,Female,Group B
+983,Student_983,30.64,83.67,3.44,58.66,Canadian,Toronto,Other,Group A
+984,Student_984,82.53,3.65,76.5,12.83,Indian,New York,Male,Group E
+985,Student_985,22.71,27.43,95.23,85.28,British,London,Female,Group E
+986,Student_986,11.31,10.43,34.72,98.32,American,Mumbai,Other,Group D
+987,Student_987,21.59,39.37,39.75,26.65,American,Sydney,Male,Group E
+988,Student_988,93.86,95.82,38.34,59.0,British,Mumbai,Female,Group E
+989,Student_989,31.02,44.44,87.18,10.39,American,Toronto,Male,Group C
+990,Student_990,62.0,7.92,56.77,19.88,British,London,Female,Group E
+991,Student_991,15.99,54.39,49.57,93.4,British,Mumbai,Female,Group C
+992,Student_992,75.84,20.02,6.39,31.89,American,London,Other,Group A
+993,Student_993,46.64,83.96,36.8,3.54,British,Toronto,Male,Group A
+994,Student_994,68.42,58.31,82.71,75.61,British,Toronto,Female,Group A
+995,Student_995,7.38,0.83,97.05,66.81,Australian,Mumbai,Male,Group C
+996,Student_996,27.47,84.44,52.83,41.45,British,Sydney,Other,Group C
+997,Student_997,91.87,70.38,31.47,9.08,Canadian,Sydney,Female,Group D
+998,Student_998,6.77,55.35,57.0,2.56,Canadian,Toronto,Other,Group B
+999,Student_999,34.44,51.84,84.5,25.74,Indian,Sydney,Female,Group E
+1000,Student_1000,6.93,91.76,69.29,50.93,British,New York,Other,Group E
+1001,Student_1001,99.39,6.41,30.31,61.57,American,Toronto,Male,Group C
+1002,Student_1002,66.11,58.78,9.22,9.11,Canadian,Toronto,Other,Group B
+1003,Student_1003,82.64,69.78,29.49,87.72,Australian,Toronto,Other,Group A
+1004,Student_1004,77.09,22.53,92.63,33.26,Canadian,Mumbai,Other,Group E
+1005,Student_1005,18.68,99.37,56.25,32.27,Australian,Toronto,Other,Group B
+1006,Student_1006,57.35,20.33,44.31,19.74,Indian,New York,Female,Group C
+1007,Student_1007,8.98,47.24,29.47,74.86,Canadian,New York,Other,Group C
+1008,Student_1008,19.7,45.35,34.74,14.43,British,New York,Other,Group C
+1009,Student_1009,40.89,98.84,48.47,71.76,American,Toronto,Other,Group C
+1010,Student_1010,26.0,32.29,9.67,10.33,Indian,Toronto,Female,Group C
+1011,Student_1011,88.42,24.38,87.62,24.26,Canadian,Toronto,Female,Group D
+1012,Student_1012,56.98,44.41,12.82,51.08,British,New York,Other,Group E
+1013,Student_1013,36.33,72.07,46.49,83.67,British,Sydney,Male,Group B
+1014,Student_1014,57.4,62.05,27.81,5.36,American,New York,Other,Group B
+1015,Student_1015,94.55,95.53,75.32,19.74,Canadian,Mumbai,Female,Group A
+1016,Student_1016,74.82,18.94,56.31,74.16,Canadian,Toronto,Female,Group A
+1017,Student_1017,28.79,5.97,46.53,25.71,Australian,London,Other,Group E
+1018,Student_1018,11.85,93.72,89.72,91.17,British,London,Male,Group C
+1019,Student_1019,45.41,29.11,67.29,99.89,Canadian,New York,Male,Group B
+1020,Student_1020,65.36,39.04,14.26,98.28,Australian,New York,Male,Group C
+1021,Student_1021,91.31,71.74,38.45,1.29,American,London,Other,Group C
+1022,Student_1022,81.48,74.45,56.98,79.67,British,London,Other,Group A
+1023,Student_1023,70.28,67.81,21.76,99.5,Canadian,New York,Male,Group C
+1024,Student_1024,73.17,10.25,89.91,74.11,American,London,Other,Group E
+1025,Student_1025,55.66,78.02,84.15,54.55,Australian,London,Other,Group A
+1026,Student_1026,17.25,50.32,56.32,91.51,Indian,London,Other,Group C
+1027,Student_1027,33.08,46.15,69.36,98.14,Indian,New York,Male,Group B
+1028,Student_1028,2.5,55.44,31.87,89.05,American,Toronto,Female,Group B
+1029,Student_1029,80.29,17.23,41.75,84.2,Australian,London,Other,Group C
+1030,Student_1030,53.31,63.48,93.22,47.24,Indian,Sydney,Female,Group D
+1031,Student_1031,13.17,2.9,97.71,22.58,Indian,London,Other,Group A
+1032,Student_1032,55.69,48.2,77.31,75.9,Canadian,Sydney,Female,Group B
+1033,Student_1033,38.25,45.18,68.93,57.9,American,Sydney,Female,Group C
+1034,Student_1034,94.46,12.0,50.85,81.59,Canadian,Toronto,Female,Group C
+1035,Student_1035,18.3,63.33,10.19,7.76,British,Mumbai,Female,Group C
+1036,Student_1036,0.73,55.06,28.23,77.8,Indian,London,Female,Group C
+1037,Student_1037,96.44,58.39,15.89,55.64,American,Mumbai,Female,Group B
+1038,Student_1038,94.5,50.77,61.23,51.51,Indian,New York,Female,Group B
+1039,Student_1039,65.13,35.41,67.4,6.7,American,Mumbai,Male,Group B
+1040,Student_1040,24.05,79.99,40.45,70.71,British,Toronto,Female,Group D
+1041,Student_1041,16.43,14.07,20.71,24.99,Indian,Sydney,Other,Group B
+1042,Student_1042,87.18,6.4,30.05,93.25,Indian,London,Male,Group C
+1043,Student_1043,84.48,12.62,2.87,76.23,Canadian,Sydney,Other,Group E
+1044,Student_1044,97.67,99.69,98.42,49.13,American,Mumbai,Other,Group E
+1045,Student_1045,80.21,9.85,8.75,33.55,American,New York,Male,Group E
+1046,Student_1046,76.24,75.12,79.15,19.72,Canadian,London,Female,Group D
+1047,Student_1047,94.62,18.02,72.95,88.15,American,Sydney,Female,Group A
+1048,Student_1048,53.73,49.55,68.13,16.59,Indian,Toronto,Male,Group A
+1049,Student_1049,86.33,88.58,18.94,43.2,Australian,New York,Female,Group A
+1050,Student_1050,99.41,46.97,43.94,79.79,American,Mumbai,Female,Group B
+1051,Student_1051,73.85,32.64,52.95,10.4,Australian,Mumbai,Male,Group A
+1052,Student_1052,69.22,3.86,84.09,91.68,British,New York,Other,Group C
+1053,Student_1053,88.83,52.23,75.93,80.06,Australian,Toronto,Male,Group D
+1054,Student_1054,87.09,47.74,1.32,74.78,Canadian,London,Female,Group C
+1055,Student_1055,31.74,16.65,31.12,88.17,Australian,Mumbai,Male,Group B
+1056,Student_1056,29.51,12.32,38.89,43.01,Indian,London,Female,Group D
+1057,Student_1057,66.36,12.26,96.05,10.35,Indian,Mumbai,Female,Group D
+1058,Student_1058,85.87,55.12,89.54,47.15,Canadian,London,Male,Group E
+1059,Student_1059,32.74,49.83,46.62,70.85,Australian,New York,Male,Group E
+1060,Student_1060,20.5,87.36,20.58,71.11,Canadian,Mumbai,Female,Group C
+1061,Student_1061,98.14,18.92,18.73,13.39,American,Sydney,Female,Group E
+1062,Student_1062,89.76,68.97,71.49,13.01,Indian,Sydney,Female,Group E
+1063,Student_1063,52.47,12.72,45.86,44.08,British,Sydney,Female,Group B
+1064,Student_1064,64.65,99.89,65.83,94.58,British,London,Male,Group B
+1065,Student_1065,53.83,89.99,21.28,74.94,American,Sydney,Other,Group D
+1066,Student_1066,97.84,0.2,78.8,48.08,Indian,Mumbai,Female,Group B
+1067,Student_1067,30.68,40.15,60.08,26.59,British,Sydney,Other,Group B
+1068,Student_1068,3.36,59.48,49.92,94.96,Canadian,Toronto,Male,Group C
+1069,Student_1069,83.59,19.36,91.89,83.32,British,New York,Female,Group D
+1070,Student_1070,43.48,36.64,31.55,69.51,Indian,Mumbai,Male,Group A
+1071,Student_1071,13.13,57.7,11.55,18.16,American,New York,Other,Group B
+1072,Student_1072,77.72,28.69,94.54,81.47,Australian,Mumbai,Other,Group C
+1073,Student_1073,1.03,63.31,25.19,87.89,American,Mumbai,Male,Group C
+1074,Student_1074,26.13,42.44,96.11,92.4,British,London,Female,Group A
+1075,Student_1075,66.11,46.4,59.6,54.31,American,Toronto,Other,Group A
+1076,Student_1076,64.03,17.31,96.14,53.58,Canadian,Toronto,Female,Group D
+1077,Student_1077,20.12,45.62,9.6,97.41,British,Mumbai,Female,Group D
+1078,Student_1078,64.18,86.45,39.44,91.84,American,New York,Other,Group C
+1079,Student_1079,84.24,66.29,40.63,61.34,British,Sydney,Male,Group A
+1080,Student_1080,31.21,65.27,82.06,17.84,Indian,New York,Female,Group C
+1081,Student_1081,86.31,40.65,69.48,57.93,Australian,Toronto,Male,Group B
+1082,Student_1082,77.99,40.16,97.71,33.97,American,New York,Other,Group C
+1083,Student_1083,59.42,62.36,11.97,68.07,Indian,New York,Male,Group A
+1084,Student_1084,96.53,49.53,86.58,10.31,American,Sydney,Other,Group A
+1085,Student_1085,57.53,87.46,25.02,50.18,Indian,Toronto,Female,Group D
+1086,Student_1086,23.75,99.81,28.1,75.53,Canadian,London,Male,Group D
+1087,Student_1087,10.37,17.39,93.73,66.63,Canadian,Mumbai,Male,Group D
+1088,Student_1088,16.37,4.23,92.8,95.28,American,Mumbai,Male,Group C
+1089,Student_1089,46.82,53.81,95.17,23.35,American,Mumbai,Other,Group C
+1090,Student_1090,44.49,41.76,11.86,27.83,Indian,New York,Female,Group E
+1091,Student_1091,16.44,15.24,96.78,54.97,Canadian,Sydney,Female,Group C
+1092,Student_1092,35.4,12.28,7.46,28.02,British,London,Other,Group C
+1093,Student_1093,65.78,93.7,98.03,94.24,Canadian,New York,Female,Group D
+1094,Student_1094,30.17,60.67,21.1,31.96,Indian,London,Other,Group C
+1095,Student_1095,25.18,97.64,84.98,52.96,Indian,Mumbai,Other,Group D
+1096,Student_1096,27.79,65.29,78.49,39.79,Indian,Sydney,Other,Group B
+1097,Student_1097,99.73,31.61,51.19,19.93,Australian,New York,Female,Group C
+1098,Student_1098,60.17,97.73,62.1,19.7,British,Toronto,Male,Group A
+1099,Student_1099,51.01,45.92,21.0,93.87,Australian,London,Other,Group D
+1100,Student_1100,28.4,13.45,77.98,71.54,American,Sydney,Female,Group B
+1101,Student_1101,56.16,96.37,87.89,73.07,Canadian,Toronto,Male,Group D
+1102,Student_1102,73.9,11.04,83.19,30.85,British,London,Other,Group A
+1103,Student_1103,31.45,58.34,81.62,1.17,Indian,New York,Other,Group A
+1104,Student_1104,94.09,2.86,24.8,62.35,British,Sydney,Other,Group A
+1105,Student_1105,48.09,38.56,14.31,67.51,Indian,New York,Male,Group D
+1106,Student_1106,84.11,52.41,71.96,33.13,American,Mumbai,Female,Group C
+1107,Student_1107,55.09,75.44,45.06,61.68,Indian,London,Male,Group A
+1108,Student_1108,52.62,30.93,93.51,64.04,Indian,London,Other,Group D
+1109,Student_1109,81.95,48.6,18.33,59.2,Indian,Mumbai,Female,Group B
+1110,Student_1110,62.72,38.0,88.06,93.88,American,New York,Female,Group E
+1111,Student_1111,66.23,51.1,39.32,61.89,American,Mumbai,Male,Group E
+1112,Student_1112,31.56,28.29,96.78,31.92,Australian,London,Other,Group A
+1113,Student_1113,93.34,36.93,7.0,4.92,British,Toronto,Other,Group B
+1114,Student_1114,52.34,2.7,26.94,59.56,Indian,New York,Male,Group E
+1115,Student_1115,8.46,79.53,10.9,27.7,British,London,Male,Group C
+1116,Student_1116,10.28,38.61,78.34,41.89,Canadian,New York,Female,Group C
+1117,Student_1117,54.01,16.75,83.7,63.34,British,Mumbai,Other,Group E
+1118,Student_1118,8.0,91.39,97.26,73.56,Indian,London,Female,Group D
+1119,Student_1119,62.59,89.09,37.17,69.37,American,New York,Male,Group D
+1120,Student_1120,42.51,71.95,13.01,61.51,British,Toronto,Female,Group E
+1121,Student_1121,6.43,58.3,12.33,63.14,Canadian,New York,Male,Group D
+1122,Student_1122,71.07,26.97,48.4,30.69,American,Mumbai,Other,Group D
+1123,Student_1123,12.2,21.7,28.91,47.77,Indian,New York,Male,Group E
+1124,Student_1124,53.3,58.65,53.11,0.39,Indian,London,Female,Group E
+1125,Student_1125,28.14,12.89,74.73,50.77,British,London,Male,Group C
+1126,Student_1126,53.56,90.47,90.44,76.25,Canadian,New York,Other,Group A
+1127,Student_1127,39.96,95.74,47.47,84.66,Indian,Toronto,Female,Group D
+1128,Student_1128,73.66,69.25,47.58,46.1,American,London,Female,Group D
+1129,Student_1129,74.5,60.72,66.5,20.88,British,Toronto,Male,Group A
+1130,Student_1130,87.87,47.63,44.63,44.77,Indian,Mumbai,Male,Group B
+1131,Student_1131,22.89,2.72,56.09,49.61,British,New York,Male,Group E
+1132,Student_1132,98.99,6.53,63.61,34.62,British,London,Other,Group D
+1133,Student_1133,48.81,35.46,4.0,4.81,Indian,London,Other,Group D
+1134,Student_1134,7.69,17.37,49.98,89.72,Canadian,Sydney,Female,Group C
+1135,Student_1135,4.97,55.29,14.4,88.22,Indian,Sydney,Female,Group B
+1136,Student_1136,57.15,29.81,25.11,82.61,Canadian,Sydney,Female,Group C
+1137,Student_1137,1.4,11.97,58.88,75.97,Australian,New York,Female,Group B
+1138,Student_1138,24.18,1.54,32.41,17.19,British,Toronto,Other,Group A
+1139,Student_1139,44.34,44.52,56.71,11.28,British,Sydney,Female,Group C
+1140,Student_1140,33.97,25.89,68.87,82.83,British,New York,Other,Group D
+1141,Student_1141,56.19,7.66,98.43,25.84,American,New York,Other,Group E
+1142,Student_1142,21.85,3.06,14.85,84.23,Canadian,Toronto,Female,Group A
+1143,Student_1143,19.6,71.28,99.61,14.3,Australian,New York,Female,Group E
+1144,Student_1144,0.02,36.36,38.84,29.63,Canadian,London,Other,Group B
+1145,Student_1145,13.05,36.0,89.94,76.18,Indian,Sydney,Other,Group B
+1146,Student_1146,97.92,24.29,0.85,7.52,Australian,London,Male,Group B
+1147,Student_1147,54.22,32.98,51.37,22.4,Indian,New York,Other,Group D
+1148,Student_1148,78.89,59.11,2.46,95.41,Indian,Sydney,Male,Group C
+1149,Student_1149,79.41,66.67,86.18,39.36,British,London,Male,Group B
+1150,Student_1150,75.87,17.11,52.76,21.54,Indian,London,Female,Group B
+1151,Student_1151,54.25,9.9,46.73,6.2,Australian,Sydney,Female,Group E
+1152,Student_1152,27.81,40.16,51.73,50.27,Indian,Toronto,Other,Group E
+1153,Student_1153,81.53,19.69,19.3,2.64,American,New York,Male,Group C
+1154,Student_1154,75.09,82.15,56.49,33.85,Indian,Sydney,Other,Group E
+1155,Student_1155,8.49,20.9,34.4,18.01,American,London,Other,Group E
+1156,Student_1156,44.78,58.06,88.59,47.47,Indian,Mumbai,Female,Group E
+1157,Student_1157,80.92,70.03,53.22,88.48,American,New York,Male,Group D
+1158,Student_1158,4.93,55.54,60.78,86.74,British,Mumbai,Female,Group E
+1159,Student_1159,46.69,11.52,75.71,56.44,Indian,New York,Other,Group D
+1160,Student_1160,86.16,88.25,93.5,37.08,Australian,Toronto,Female,Group A
+1161,Student_1161,80.46,74.4,66.63,81.15,American,Sydney,Other,Group D
+1162,Student_1162,87.47,66.66,23.69,65.31,Australian,Mumbai,Other,Group A
+1163,Student_1163,74.86,93.9,41.06,45.29,British,Sydney,Male,Group C
+1164,Student_1164,35.34,71.41,54.63,82.13,American,Sydney,Female,Group B
+1165,Student_1165,92.55,82.55,36.36,41.9,Indian,New York,Female,Group B
+1166,Student_1166,60.27,1.85,82.23,68.08,Australian,New York,Other,Group A
+1167,Student_1167,20.27,98.74,63.83,10.86,American,Mumbai,Other,Group B
+1168,Student_1168,43.9,57.77,45.01,24.34,British,Sydney,Male,Group D
+1169,Student_1169,98.26,17.62,59.89,17.39,British,Mumbai,Male,Group C
+1170,Student_1170,77.71,17.23,88.93,62.75,Canadian,London,Male,Group A
+1171,Student_1171,2.32,30.84,6.99,91.99,American,Sydney,Female,Group C
+1172,Student_1172,58.78,11.97,10.85,14.5,Indian,London,Female,Group C
+1173,Student_1173,95.03,18.55,33.41,63.6,Canadian,London,Female,Group E
+1174,Student_1174,73.37,72.51,46.58,56.68,American,London,Female,Group E
+1175,Student_1175,16.72,51.68,73.52,1.8,Canadian,London,Female,Group B
+1176,Student_1176,26.94,50.65,0.13,20.46,Indian,Toronto,Male,Group B
+1177,Student_1177,16.18,33.48,93.8,45.26,Indian,Toronto,Male,Group A
+1178,Student_1178,19.7,47.66,20.91,83.87,American,Toronto,Male,Group D
+1179,Student_1179,39.79,59.39,91.13,84.4,Australian,London,Female,Group C
+1180,Student_1180,6.34,27.74,84.44,14.11,British,Toronto,Female,Group E
+1181,Student_1181,66.33,9.84,77.23,61.72,American,London,Female,Group E
+1182,Student_1182,58.21,52.0,69.95,89.32,Canadian,London,Male,Group D
+1183,Student_1183,73.16,16.58,44.64,98.32,Canadian,Sydney,Female,Group C
+1184,Student_1184,0.14,27.34,67.66,93.12,British,Sydney,Male,Group E
+1185,Student_1185,79.11,73.69,19.5,61.47,Australian,Mumbai,Male,Group B
+1186,Student_1186,28.21,82.04,89.44,6.61,Canadian,New York,Other,Group D
+1187,Student_1187,82.93,99.07,99.84,31.44,Indian,Mumbai,Male,Group A
+1188,Student_1188,33.22,48.69,14.41,20.39,Canadian,Mumbai,Other,Group C
+1189,Student_1189,78.74,50.7,41.36,38.2,British,Sydney,Male,Group E
+1190,Student_1190,26.62,56.9,0.16,11.88,Australian,London,Male,Group D
+1191,Student_1191,78.29,94.52,22.02,60.56,Indian,New York,Other,Group B
+1192,Student_1192,33.44,77.76,26.65,45.71,Canadian,Sydney,Female,Group D
+1193,Student_1193,0.54,54.22,1.73,49.61,Australian,London,Other,Group C
+1194,Student_1194,47.59,1.68,53.19,62.27,American,Toronto,Other,Group D
+1195,Student_1195,54.37,84.17,63.3,87.56,American,Mumbai,Female,Group C
+1196,Student_1196,48.72,53.28,48.87,59.81,American,New York,Female,Group B
+1197,Student_1197,48.59,21.21,67.13,56.46,Indian,New York,Female,Group E
+1198,Student_1198,5.3,7.61,71.13,50.61,Indian,New York,Male,Group C
+1199,Student_1199,52.61,97.87,79.7,84.59,Canadian,Sydney,Male,Group E
+1200,Student_1200,61.52,52.56,15.36,34.87,Canadian,New York,Male,Group B
+1201,Student_1201,36.27,24.51,77.13,41.39,American,London,Female,Group C
+1202,Student_1202,64.15,40.98,69.09,41.41,British,Sydney,Female,Group D
+1203,Student_1203,76.0,39.48,34.63,75.29,British,Toronto,Other,Group E
+1204,Student_1204,23.25,2.94,90.87,0.7,American,New York,Other,Group C
+1205,Student_1205,62.48,89.65,64.64,37.52,Australian,Sydney,Other,Group C
+1206,Student_1206,58.78,2.14,49.32,38.16,Australian,Sydney,Female,Group B
+1207,Student_1207,90.27,12.32,38.32,61.49,British,Mumbai,Female,Group E
+1208,Student_1208,15.78,32.61,46.42,15.36,British,New York,Female,Group E
+1209,Student_1209,55.86,99.47,81.31,16.11,Australian,Mumbai,Female,Group C
+1210,Student_1210,51.59,75.86,5.1,36.88,British,New York,Male,Group D
+1211,Student_1211,20.18,52.21,2.44,45.9,Canadian,Toronto,Other,Group A
+1212,Student_1212,57.85,88.84,43.71,61.55,Canadian,Sydney,Male,Group C
+1213,Student_1213,21.22,12.31,73.83,15.4,American,London,Male,Group E
+1214,Student_1214,58.28,8.95,73.95,97.8,Indian,New York,Male,Group B
+1215,Student_1215,26.82,89.86,82.82,47.57,British,Toronto,Other,Group E
+1216,Student_1216,76.44,40.46,78.18,15.34,Canadian,Sydney,Other,Group D
+1217,Student_1217,62.99,18.91,42.78,45.8,Indian,Sydney,Other,Group D
+1218,Student_1218,8.95,86.09,84.7,31.94,American,London,Male,Group D
+1219,Student_1219,67.55,0.31,17.41,90.47,American,Toronto,Other,Group D
+1220,Student_1220,20.09,91.64,5.66,82.71,Canadian,Toronto,Female,Group D
+1221,Student_1221,85.03,82.3,52.5,92.53,Canadian,Sydney,Other,Group D
+1222,Student_1222,28.03,58.78,8.93,91.69,American,London,Other,Group E
+1223,Student_1223,57.36,14.96,36.12,18.04,Indian,Toronto,Other,Group D
+1224,Student_1224,96.87,17.13,55.44,27.28,Indian,London,Other,Group E
+1225,Student_1225,17.19,62.16,79.74,6.98,Canadian,Mumbai,Female,Group B
+1226,Student_1226,27.42,30.62,65.26,31.76,British,Mumbai,Female,Group C
+1227,Student_1227,20.8,43.62,64.4,27.43,Indian,London,Male,Group B
+1228,Student_1228,32.66,60.42,4.87,87.61,Canadian,Sydney,Other,Group E
+1229,Student_1229,21.23,56.16,59.91,94.93,Indian,Mumbai,Female,Group E
+1230,Student_1230,1.65,12.96,97.85,21.96,Indian,London,Male,Group C
+1231,Student_1231,87.8,84.75,9.13,25.4,American,Mumbai,Other,Group D
+1232,Student_1232,92.18,96.91,54.24,11.75,Indian,Toronto,Female,Group D
+1233,Student_1233,69.81,58.15,99.48,12.27,Canadian,New York,Female,Group C
+1234,Student_1234,12.54,45.81,20.51,81.29,British,New York,Male,Group C
+1235,Student_1235,28.23,6.41,37.14,51.86,American,Mumbai,Other,Group C
+1236,Student_1236,39.85,28.2,51.77,70.01,Canadian,Sydney,Female,Group A
+1237,Student_1237,76.88,27.13,16.25,11.2,Indian,Mumbai,Female,Group D
+1238,Student_1238,28.3,2.75,45.28,56.2,American,Toronto,Female,Group A
+1239,Student_1239,16.0,34.97,24.69,1.44,British,New York,Female,Group D
+1240,Student_1240,0.1,55.23,74.03,88.81,British,Mumbai,Other,Group E
+1241,Student_1241,64.79,47.19,52.6,26.93,Indian,London,Other,Group A
+1242,Student_1242,48.91,15.5,82.22,56.47,Canadian,Toronto,Female,Group C
+1243,Student_1243,22.5,12.57,32.54,46.25,Indian,Mumbai,Male,Group E
+1244,Student_1244,26.74,98.21,81.67,49.11,British,London,Male,Group D
+1245,Student_1245,68.07,19.49,97.28,96.07,Canadian,Mumbai,Other,Group A
+1246,Student_1246,1.5,69.21,78.32,7.69,Indian,New York,Female,Group E
+1247,Student_1247,44.93,16.0,7.8,46.15,British,New York,Other,Group C
+1248,Student_1248,57.5,97.06,0.18,93.06,Canadian,Sydney,Male,Group A
+1249,Student_1249,21.97,87.12,95.45,26.55,American,Sydney,Male,Group A
+1250,Student_1250,57.89,97.74,50.73,20.77,Australian,London,Other,Group E
+1251,Student_1251,94.41,46.39,12.49,34.61,Indian,Toronto,Other,Group E
+1252,Student_1252,63.97,47.04,35.86,84.21,Australian,Mumbai,Female,Group E
+1253,Student_1253,53.61,62.88,14.86,5.43,Indian,Sydney,Other,Group C
+1254,Student_1254,94.22,13.03,5.78,95.97,American,Sydney,Female,Group C
+1255,Student_1255,41.15,35.39,77.14,7.16,British,Sydney,Female,Group C
+1256,Student_1256,98.67,65.86,77.31,27.74,Indian,New York,Male,Group D
+1257,Student_1257,21.96,26.55,16.8,98.43,Indian,London,Male,Group D
+1258,Student_1258,85.83,14.49,40.86,68.71,Canadian,Toronto,Female,Group C
+1259,Student_1259,5.88,25.05,58.06,15.23,Indian,Sydney,Male,Group C
+1260,Student_1260,24.14,15.21,80.83,23.11,Australian,New York,Male,Group D
+1261,Student_1261,82.15,52.67,24.01,0.29,British,Toronto,Female,Group C
+1262,Student_1262,96.68,95.81,29.83,32.02,Canadian,Sydney,Male,Group D
+1263,Student_1263,58.8,36.83,80.79,19.83,Canadian,Mumbai,Female,Group B
+1264,Student_1264,79.5,55.94,42.85,69.39,American,Toronto,Other,Group D
+1265,Student_1265,32.31,49.12,76.01,89.22,British,London,Female,Group A
+1266,Student_1266,59.14,71.85,53.53,43.91,Indian,Toronto,Male,Group B
+1267,Student_1267,78.76,31.47,75.58,15.78,Canadian,Sydney,Male,Group B
+1268,Student_1268,3.45,48.03,78.16,55.29,British,New York,Female,Group A
+1269,Student_1269,17.65,55.67,16.16,26.56,British,London,Female,Group E
+1270,Student_1270,78.3,38.49,10.17,11.86,American,Sydney,Other,Group C
+1271,Student_1271,29.65,37.45,39.69,96.98,Canadian,Toronto,Female,Group D
+1272,Student_1272,68.97,23.34,24.6,23.46,Canadian,New York,Female,Group C
+1273,Student_1273,78.57,10.98,80.77,74.14,American,Toronto,Female,Group C
+1274,Student_1274,80.47,12.24,3.34,26.92,American,Mumbai,Other,Group B
+1275,Student_1275,38.29,90.08,67.12,75.36,Canadian,Sydney,Male,Group B
+1276,Student_1276,58.43,26.15,0.97,70.52,American,New York,Other,Group D
+1277,Student_1277,32.88,96.64,39.79,48.49,British,Mumbai,Male,Group D
+1278,Student_1278,72.91,23.28,10.78,26.39,American,New York,Female,Group C
+1279,Student_1279,39.48,87.89,7.61,68.73,American,Sydney,Female,Group E
+1280,Student_1280,31.12,5.38,50.47,27.74,British,Toronto,Other,Group C
+1281,Student_1281,49.67,85.69,25.23,25.14,Indian,New York,Female,Group D
+1282,Student_1282,2.94,36.27,8.47,99.32,Australian,Mumbai,Other,Group D
+1283,Student_1283,32.21,27.99,79.9,93.89,Canadian,Toronto,Female,Group C
+1284,Student_1284,73.19,68.97,57.38,97.82,American,Toronto,Other,Group D
+1285,Student_1285,61.25,32.36,88.68,0.01,Canadian,Sydney,Other,Group E
+1286,Student_1286,53.28,14.0,8.3,82.64,British,Toronto,Female,Group D
+1287,Student_1287,71.62,84.06,28.41,79.74,Canadian,Sydney,Female,Group D
+1288,Student_1288,69.74,65.12,23.54,63.33,Australian,New York,Other,Group E
+1289,Student_1289,8.68,32.99,59.23,83.97,Australian,New York,Other,Group B
+1290,Student_1290,21.03,72.07,34.63,83.21,American,New York,Other,Group A
+1291,Student_1291,93.57,21.17,79.74,48.97,American,Mumbai,Other,Group B
+1292,Student_1292,49.11,77.59,90.36,54.24,Indian,Sydney,Male,Group D
+1293,Student_1293,62.74,39.93,35.17,40.57,Australian,London,Other,Group C
+1294,Student_1294,87.9,36.51,79.26,60.11,Australian,Sydney,Other,Group B
+1295,Student_1295,79.19,95.61,95.82,68.76,American,London,Male,Group D
+1296,Student_1296,44.97,62.66,82.27,87.8,Canadian,London,Other,Group C
+1297,Student_1297,82.22,6.69,21.65,40.07,American,New York,Other,Group B
+1298,Student_1298,13.76,33.96,10.02,88.74,American,London,Other,Group E
+1299,Student_1299,24.82,5.59,9.35,18.31,Canadian,Toronto,Other,Group B
+1300,Student_1300,65.5,65.57,50.8,96.17,British,New York,Female,Group D
+1301,Student_1301,22.06,10.36,28.21,14.02,British,London,Other,Group A
+1302,Student_1302,16.7,75.55,29.16,27.75,Canadian,New York,Other,Group D
+1303,Student_1303,68.37,5.91,3.51,86.79,American,Mumbai,Female,Group B
+1304,Student_1304,1.51,16.7,70.6,35.08,British,New York,Other,Group B
+1305,Student_1305,96.74,42.73,39.88,57.59,American,Mumbai,Male,Group C
+1306,Student_1306,58.26,68.05,57.65,46.2,Australian,London,Female,Group D
+1307,Student_1307,54.69,55.17,87.05,53.68,Australian,Sydney,Male,Group D
+1308,Student_1308,53.82,54.57,47.56,83.38,Australian,Toronto,Male,Group A
+1309,Student_1309,63.58,75.01,11.83,88.88,Australian,New York,Female,Group A
+1310,Student_1310,31.51,77.95,64.73,46.35,Australian,Toronto,Female,Group D
+1311,Student_1311,83.81,16.16,29.21,51.03,Australian,New York,Male,Group D
+1312,Student_1312,59.37,89.66,17.89,83.53,British,Sydney,Other,Group A
+1313,Student_1313,98.38,24.64,14.33,95.62,Canadian,London,Female,Group D
+1314,Student_1314,41.13,16.47,29.3,46.55,American,New York,Other,Group E
+1315,Student_1315,73.27,75.92,52.37,88.76,Australian,London,Male,Group A
+1316,Student_1316,22.22,66.94,79.86,93.09,Canadian,Toronto,Other,Group C
+1317,Student_1317,58.99,90.96,8.21,8.99,Canadian,London,Other,Group A
+1318,Student_1318,88.46,70.38,12.85,70.5,Indian,Sydney,Male,Group C
+1319,Student_1319,3.48,93.28,1.96,90.25,Canadian,Toronto,Other,Group B
+1320,Student_1320,19.19,37.35,70.36,53.72,Canadian,Toronto,Other,Group B
+1321,Student_1321,24.24,73.77,44.34,91.63,Indian,London,Male,Group D
+1322,Student_1322,98.37,6.74,77.06,13.6,Indian,Toronto,Other,Group E
+1323,Student_1323,35.15,90.29,92.18,29.5,British,Sydney,Male,Group B
+1324,Student_1324,28.27,8.1,4.3,98.53,British,New York,Female,Group A
+1325,Student_1325,40.27,80.66,61.38,78.99,Australian,Toronto,Other,Group B
+1326,Student_1326,47.05,36.65,94.17,6.17,American,London,Female,Group C
+1327,Student_1327,58.89,71.45,58.42,80.58,Canadian,London,Other,Group B
+1328,Student_1328,32.5,34.74,90.62,7.36,British,New York,Male,Group E
+1329,Student_1329,40.24,86.44,69.48,52.97,Canadian,Mumbai,Female,Group E
+1330,Student_1330,87.08,52.03,62.23,48.15,British,New York,Male,Group E
+1331,Student_1331,27.21,46.05,69.23,20.78,American,London,Male,Group B
+1332,Student_1332,44.84,42.72,54.29,24.99,Australian,London,Other,Group C
+1333,Student_1333,71.03,15.31,72.21,2.61,American,New York,Female,Group B
+1334,Student_1334,71.9,49.01,81.41,61.93,British,Mumbai,Female,Group E
+1335,Student_1335,76.89,47.97,11.94,65.9,Australian,Sydney,Male,Group C
+1336,Student_1336,79.75,26.07,80.58,59.09,Canadian,London,Male,Group C
+1337,Student_1337,48.37,4.02,70.45,29.53,Australian,New York,Other,Group C
+1338,Student_1338,60.73,71.66,71.54,41.31,Canadian,Toronto,Female,Group B
+1339,Student_1339,24.53,27.08,49.52,6.49,Canadian,Sydney,Male,Group C
+1340,Student_1340,62.72,67.32,77.7,52.47,Australian,Mumbai,Male,Group A
+1341,Student_1341,23.44,73.76,5.65,91.13,American,Sydney,Male,Group D
+1342,Student_1342,71.98,79.19,82.8,94.29,Canadian,London,Other,Group C
+1343,Student_1343,79.55,36.9,84.98,28.71,Indian,Sydney,Other,Group D
+1344,Student_1344,41.59,56.0,30.7,85.5,Canadian,New York,Male,Group A
+1345,Student_1345,69.98,17.49,58.26,99.84,Australian,Toronto,Male,Group C
+1346,Student_1346,65.19,37.77,14.16,12.83,British,New York,Other,Group A
+1347,Student_1347,0.73,75.21,85.09,61.43,Australian,New York,Female,Group C
+1348,Student_1348,94.79,67.79,95.88,52.91,American,Sydney,Female,Group E
+1349,Student_1349,1.2,44.76,35.61,77.92,American,London,Female,Group E
+1350,Student_1350,81.97,36.38,42.23,70.12,Australian,New York,Other,Group B
+1351,Student_1351,45.32,43.29,77.86,96.67,Canadian,New York,Other,Group E
+1352,Student_1352,16.17,41.73,42.77,7.17,Canadian,Mumbai,Other,Group D
+1353,Student_1353,48.14,4.84,24.09,1.39,Canadian,Sydney,Female,Group E
+1354,Student_1354,63.82,21.92,5.12,59.78,American,Toronto,Female,Group C
+1355,Student_1355,56.88,12.09,60.31,98.95,Indian,Sydney,Female,Group B
+1356,Student_1356,20.91,39.43,34.32,22.97,American,New York,Female,Group E
+1357,Student_1357,86.73,33.6,29.86,30.4,American,Toronto,Male,Group E
+1358,Student_1358,62.12,8.25,3.0,37.06,Australian,London,Other,Group C
+1359,Student_1359,74.72,52.54,73.73,12.68,British,New York,Female,Group E
+1360,Student_1360,78.12,45.27,86.12,42.9,Indian,Sydney,Female,Group C
+1361,Student_1361,0.85,44.19,47.81,82.28,British,Toronto,Male,Group C
+1362,Student_1362,18.27,55.58,22.05,85.26,Australian,New York,Other,Group E
+1363,Student_1363,10.78,39.49,88.76,52.02,Indian,London,Other,Group C
+1364,Student_1364,59.7,90.09,85.61,53.31,American,Toronto,Female,Group E
+1365,Student_1365,92.13,60.94,80.58,22.69,Canadian,Mumbai,Female,Group E
+1366,Student_1366,87.17,47.45,26.34,35.06,Australian,Mumbai,Male,Group C
+1367,Student_1367,14.8,99.11,60.68,24.0,Australian,New York,Male,Group D
+1368,Student_1368,89.55,52.45,49.34,36.12,Australian,New York,Female,Group E
+1369,Student_1369,93.39,43.09,52.9,80.35,American,Mumbai,Female,Group B
+1370,Student_1370,75.91,43.5,38.54,62.82,British,Sydney,Male,Group D
+1371,Student_1371,4.51,86.21,83.27,77.51,British,London,Other,Group A
+1372,Student_1372,16.32,16.85,78.2,96.94,Canadian,Toronto,Male,Group E
+1373,Student_1373,98.15,41.89,8.81,74.94,Indian,Toronto,Female,Group B
+1374,Student_1374,98.17,21.2,63.74,6.23,Canadian,Sydney,Male,Group C
+1375,Student_1375,27.62,89.76,39.83,56.02,British,London,Male,Group D
+1376,Student_1376,83.03,52.54,38.66,59.84,Canadian,London,Other,Group A
+1377,Student_1377,29.36,59.74,75.98,44.39,Australian,Mumbai,Other,Group A
+1378,Student_1378,22.2,9.03,58.36,81.72,Indian,Sydney,Female,Group C
+1379,Student_1379,29.7,47.65,6.27,21.17,Canadian,London,Other,Group C
+1380,Student_1380,57.89,77.48,99.74,62.09,American,New York,Female,Group A
+1381,Student_1381,75.66,68.67,10.97,85.38,Canadian,Toronto,Female,Group D
+1382,Student_1382,55.46,64.21,98.71,10.01,Indian,London,Other,Group D
+1383,Student_1383,18.28,0.56,59.07,95.84,Canadian,New York,Male,Group D
+1384,Student_1384,10.73,80.09,7.11,20.79,British,London,Female,Group B
+1385,Student_1385,78.03,69.22,64.35,87.37,Canadian,New York,Male,Group E
+1386,Student_1386,63.19,32.23,73.4,61.4,Indian,Sydney,Other,Group E
+1387,Student_1387,84.65,72.42,58.01,10.85,Australian,London,Male,Group B
+1388,Student_1388,54.47,38.52,29.58,95.07,Australian,New York,Male,Group B
+1389,Student_1389,96.82,45.64,50.47,27.9,American,New York,Other,Group A
+1390,Student_1390,25.89,79.33,1.08,11.68,Canadian,Toronto,Other,Group C
+1391,Student_1391,80.43,22.01,24.45,31.69,British,Mumbai,Female,Group A
+1392,Student_1392,15.64,28.34,53.32,31.92,American,London,Other,Group C
+1393,Student_1393,82.9,39.73,82.3,48.22,British,London,Other,Group B
+1394,Student_1394,8.13,76.62,4.9,8.27,Australian,Sydney,Female,Group B
+1395,Student_1395,43.48,37.37,90.38,18.51,American,Toronto,Other,Group A
+1396,Student_1396,12.6,20.73,9.83,81.16,Australian,New York,Male,Group E
+1397,Student_1397,66.94,59.74,92.01,72.1,Australian,London,Other,Group C
+1398,Student_1398,43.91,78.81,39.62,17.71,Indian,New York,Other,Group C
+1399,Student_1399,91.35,85.97,50.53,56.82,American,Sydney,Female,Group E
+1400,Student_1400,22.82,68.99,25.78,57.87,Canadian,Sydney,Other,Group B
+1401,Student_1401,29.47,55.03,49.99,20.99,American,Mumbai,Female,Group E
+1402,Student_1402,41.43,33.3,71.87,87.82,Australian,New York,Other,Group B
+1403,Student_1403,29.4,19.34,28.92,35.53,Indian,Mumbai,Male,Group A
+1404,Student_1404,87.62,50.2,66.99,34.68,British,Mumbai,Female,Group A
+1405,Student_1405,91.64,75.54,43.25,12.27,British,Toronto,Other,Group A
+1406,Student_1406,7.74,83.69,69.77,63.56,Canadian,Toronto,Male,Group A
+1407,Student_1407,57.11,25.42,2.7,10.71,Australian,Mumbai,Female,Group D
+1408,Student_1408,44.03,7.72,98.87,14.24,Australian,Toronto,Male,Group D
+1409,Student_1409,58.54,14.8,73.62,86.61,British,Toronto,Other,Group D
+1410,Student_1410,47.89,22.26,66.98,94.36,Canadian,Toronto,Male,Group D
+1411,Student_1411,7.85,99.91,12.32,78.58,British,New York,Male,Group E
+1412,Student_1412,70.65,1.97,88.41,79.27,Indian,New York,Male,Group B
+1413,Student_1413,97.3,6.44,9.86,80.07,Australian,London,Male,Group C
+1414,Student_1414,33.97,73.37,47.31,62.65,Australian,Sydney,Female,Group D
+1415,Student_1415,5.53,99.6,14.61,40.14,American,Toronto,Other,Group B
+1416,Student_1416,41.2,84.89,87.74,42.43,British,London,Female,Group A
+1417,Student_1417,91.8,37.27,94.62,86.62,Canadian,Toronto,Male,Group A
+1418,Student_1418,57.79,24.03,84.26,53.07,Australian,Sydney,Male,Group B
+1419,Student_1419,27.89,28.5,98.09,64.12,Canadian,Mumbai,Other,Group E
+1420,Student_1420,72.12,98.31,73.06,98.87,Indian,Toronto,Male,Group A
+1421,Student_1421,72.86,80.69,69.84,21.51,Indian,London,Female,Group A
+1422,Student_1422,67.4,20.21,8.36,52.62,Australian,Sydney,Female,Group A
+1423,Student_1423,54.58,51.78,65.67,58.04,British,London,Male,Group D
+1424,Student_1424,41.05,90.71,48.23,56.42,British,Toronto,Female,Group A
+1425,Student_1425,96.39,22.77,6.38,57.37,American,Toronto,Other,Group E
+1426,Student_1426,67.69,58.83,40.83,39.29,British,Mumbai,Other,Group E
+1427,Student_1427,56.07,11.34,76.91,96.78,Indian,London,Male,Group D
+1428,Student_1428,5.56,40.39,14.7,76.42,American,London,Male,Group C
+1429,Student_1429,88.11,41.29,42.92,26.68,Indian,New York,Male,Group B
+1430,Student_1430,43.95,32.44,98.18,36.72,British,London,Female,Group E
+1431,Student_1431,77.68,6.03,17.32,48.66,Australian,New York,Male,Group D
+1432,Student_1432,39.83,3.55,89.57,30.47,Canadian,Mumbai,Female,Group B
+1433,Student_1433,82.96,90.47,56.84,39.78,Indian,Mumbai,Male,Group D
+1434,Student_1434,87.36,12.33,18.52,27.51,Indian,Sydney,Female,Group E
+1435,Student_1435,22.21,11.67,80.55,31.98,British,Toronto,Female,Group A
+1436,Student_1436,3.41,15.44,38.32,15.37,British,Sydney,Male,Group A
+1437,Student_1437,18.15,98.64,58.39,54.71,British,London,Female,Group C
+1438,Student_1438,18.1,21.76,16.46,2.89,Canadian,Sydney,Male,Group C
+1439,Student_1439,48.26,45.01,49.61,11.17,Indian,New York,Other,Group C
+1440,Student_1440,37.69,83.19,71.33,8.55,Australian,Mumbai,Male,Group D
+1441,Student_1441,19.14,96.36,7.82,90.49,American,Mumbai,Female,Group E
+1442,Student_1442,60.93,0.85,34.38,34.99,Indian,Sydney,Other,Group D
+1443,Student_1443,82.59,70.57,17.36,32.84,American,London,Other,Group A
+1444,Student_1444,7.72,4.31,56.79,8.77,Indian,New York,Female,Group B
+1445,Student_1445,67.72,4.4,78.65,63.39,Indian,New York,Female,Group A
+1446,Student_1446,82.92,23.19,15.33,83.69,Canadian,New York,Female,Group E
+1447,Student_1447,49.44,6.3,67.18,86.42,Australian,London,Female,Group B
+1448,Student_1448,73.12,54.63,57.03,98.15,Australian,Sydney,Female,Group E
+1449,Student_1449,80.9,16.68,30.39,47.15,British,New York,Male,Group C
+1450,Student_1450,73.43,76.04,92.85,37.08,British,Toronto,Female,Group C
+1451,Student_1451,71.38,39.21,70.64,19.87,British,Sydney,Other,Group B
+1452,Student_1452,56.01,3.06,44.74,8.94,Canadian,New York,Male,Group E
+1453,Student_1453,61.95,1.69,24.11,57.29,Australian,London,Female,Group E
+1454,Student_1454,51.61,73.0,74.61,99.07,Canadian,Sydney,Other,Group E
+1455,Student_1455,38.77,12.72,55.72,79.4,American,London,Female,Group D
+1456,Student_1456,79.13,96.68,17.14,72.82,American,Sydney,Male,Group B
+1457,Student_1457,8.1,83.65,42.84,59.08,Indian,Sydney,Female,Group A
+1458,Student_1458,13.85,19.3,4.34,76.18,American,Sydney,Female,Group E
+1459,Student_1459,81.66,24.73,76.69,25.44,Canadian,Toronto,Other,Group B
+1460,Student_1460,3.44,2.87,42.06,24.76,British,Toronto,Male,Group B
+1461,Student_1461,51.7,81.36,9.05,32.91,British,Toronto,Other,Group E
+1462,Student_1462,79.4,19.26,2.44,23.06,Indian,Mumbai,Female,Group C
+1463,Student_1463,57.0,61.85,0.4,30.41,British,Toronto,Other,Group E
+1464,Student_1464,69.72,89.29,53.73,37.09,Canadian,London,Male,Group A
+1465,Student_1465,60.57,26.37,19.8,62.77,Indian,Toronto,Male,Group A
+1466,Student_1466,53.34,3.45,32.73,49.78,American,Sydney,Male,Group C
+1467,Student_1467,45.71,40.56,99.11,49.33,American,Sydney,Other,Group E
+1468,Student_1468,2.85,86.28,23.49,35.71,American,Sydney,Female,Group D
+1469,Student_1469,53.95,46.07,6.88,35.18,British,Mumbai,Male,Group A
+1470,Student_1470,46.02,99.48,4.75,6.18,American,Toronto,Male,Group D
+1471,Student_1471,11.19,67.05,59.01,46.24,Canadian,New York,Male,Group E
+1472,Student_1472,54.75,92.6,84.64,20.48,Australian,New York,Female,Group B
+1473,Student_1473,10.8,52.26,73.59,8.47,American,London,Female,Group B
+1474,Student_1474,1.38,82.63,79.7,83.96,Australian,Sydney,Male,Group E
+1475,Student_1475,98.26,45.91,45.87,42.86,Canadian,London,Other,Group E
+1476,Student_1476,46.32,55.14,67.79,43.47,Australian,Toronto,Male,Group B
+1477,Student_1477,52.8,6.16,67.38,53.21,British,Mumbai,Male,Group B
+1478,Student_1478,68.13,33.23,83.61,15.28,Canadian,Sydney,Other,Group C
+1479,Student_1479,95.58,20.11,22.81,47.65,Australian,Toronto,Male,Group C
+1480,Student_1480,11.52,3.49,71.19,57.99,American,Sydney,Female,Group A
+1481,Student_1481,31.16,13.63,39.1,47.26,American,Toronto,Other,Group D
+1482,Student_1482,6.17,76.21,9.39,83.3,British,Mumbai,Other,Group E
+1483,Student_1483,76.14,51.97,18.87,9.95,Indian,New York,Female,Group D
+1484,Student_1484,77.49,39.88,23.45,35.94,British,Mumbai,Other,Group B
+1485,Student_1485,17.8,17.96,25.22,38.89,American,London,Female,Group B
+1486,Student_1486,62.15,19.98,26.54,34.97,Australian,New York,Female,Group C
+1487,Student_1487,77.35,93.83,28.3,18.2,Australian,Toronto,Male,Group C
+1488,Student_1488,19.18,12.49,8.01,61.31,Indian,London,Male,Group C
+1489,Student_1489,77.59,43.99,0.59,42.77,Indian,New York,Male,Group B
+1490,Student_1490,46.21,39.07,19.68,33.74,Indian,New York,Female,Group A
+1491,Student_1491,56.68,45.96,17.83,32.61,American,Sydney,Female,Group A
+1492,Student_1492,64.17,53.06,92.43,96.09,British,Sydney,Male,Group B
+1493,Student_1493,46.75,31.37,53.23,62.56,American,Toronto,Other,Group E
+1494,Student_1494,40.21,48.37,31.05,32.19,British,Mumbai,Other,Group A
+1495,Student_1495,37.84,60.39,46.15,78.59,Canadian,London,Male,Group C
+1496,Student_1496,53.22,72.27,13.56,2.77,British,Toronto,Male,Group E
+1497,Student_1497,42.05,55.82,93.18,86.79,Indian,London,Male,Group B
+1498,Student_1498,44.41,84.12,88.95,47.15,Indian,New York,Female,Group C
+1499,Student_1499,29.38,67.74,17.79,9.74,Indian,Sydney,Female,Group D
+1500,Student_1500,61.5,84.29,7.1,36.65,British,Toronto,Female,Group B
